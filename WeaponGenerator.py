@@ -96,17 +96,46 @@ def typeOfWeapon(string):
         magicWeapon = 'something went wrong'
         weaponDamage = 'oops'
 
+def magicEffect():
+    global effect
+    global name
+    dice = 1
+    if dice == 1:
+        subdice = randint(1, 6)
+        if subdice == 1:
+            name = 'of Strength'
+            effect = 'Increase strength of +3'
+        elif subdice == 2:
+            name = 'of Dexterity'
+            effect = 'Increase dexterity of +3'
+        elif subdice == 3:
+            name = 'of Costitution'
+            effect = 'Increase constitution of +3'
+        elif subdice == 4:
+            name = 'of Intelligence'
+            effect = 'Increase intelligence of +3'
+        elif subdice == 5:
+            name = 'of Wisdom'
+            effect = 'Increase wisdom of +3'
+        elif subdice == 6:
+            name = 'of Charisma'
+            effect = 'Increase charisma of +3'
 
-weaponGenerated = randint(1, 100)
+
+
+dice = randint(1, 100)
 #print weaponGenerated
 
-categoryOfWeapon(weaponGenerated)
+categoryOfWeapon(dice)
 
 #print weaponType
 
 typeOfWeapon(weaponType)
 
-print magicWeapon + ' ' + weaponDamage
+magicEffect()
+
+print magicWeapon + ' ' + name
+print weaponDamage + '; ' + effect
 
 '''
 if dice > 0 and < 26:
