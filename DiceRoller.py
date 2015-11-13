@@ -11,13 +11,17 @@ from random import randint
 while True:
     diceNumber = input('Choose number of dices ')
     diceType = input('Choose dice type ')
-    i = 0
+    dice = 0
     diceTotal = 0;
 
-    while (i < diceNumber):
+    '''while (i < diceNumber):
         diceRoll = randint(1, diceType)
         diceTotal = diceTotal + diceRoll
         print "Dice #%r = %r " % (i + 1, diceRoll)
-        i += 1
+        i += 1'''
 
+    for dice in range(0, diceNumber):
+        diceRoll = randint(1, diceType)
+        diceTotal = diceTotal + diceRoll
+        print "Dice #%r = %r" % (dice+1, diceRoll)
     print "Result is %r" % diceTotal
