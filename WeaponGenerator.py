@@ -264,11 +264,39 @@ def magicEffect(int):
         name = 'of Range'
         effect = 'Melee weapon have 1,5m of extended range; ranged weapons have 30m of extended range'
     elif dice == 39:
+        name = 'of Sunfire'
+        effect = 'Deals 1d4 damage every turn to adjacent enemies'
+    elif dice == 40:
+        name = 'of Intelligence'
+        effect = 'Increases the Intelligence of +2'
+    elif dice == 41:
+        name = 'of Discord'
+        effect = 'Deals 1d8 extra damage, it has a 50% chance of hitting the wrong target'
+    elif dice == 42:
+        name = 'of the Diehard'
+        effect = 'Grants the wielder the feat of Diehard'
+    elif dice == 43:
         name = ''
         effect = ''
-    elif dice == 40:
-        #insidedice = randint(1,40)
-        #magicEffect(insidedice)
+    elif dice == 44:
+        name = ''
+        effect = ''
+    elif dice == 45:
+        name = ''
+        effect = ''
+    elif dice == 46:
+        name = ''
+        effect = ''
+    elif dice == 47:
+        name = ''
+        effect = ''
+    elif dice == 48:
+        name = ''
+        effect = ''
+    elif dice == 49:
+        name = ''
+        effect = ''
+    elif dice == 50:
         name = ''
         effect = ''
     else:
@@ -284,7 +312,7 @@ categoryOfWeapon(dice)
 typeOfWeapon(weaponType)
 
 dice = randint (1, 40)
-#dice = 40
+
 magicEffect(dice)
 
 print magicWeapon + ' ' + name + '.'
@@ -302,5 +330,5 @@ elif dice > 76 and dice < 101:
 
 elif dice == :
     name = ''
-    effect = '
+    effect = ''
 '''

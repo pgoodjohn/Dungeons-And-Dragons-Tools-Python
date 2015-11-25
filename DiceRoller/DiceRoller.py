@@ -1,7 +1,7 @@
 '''
  ___  _____     Python - Dice Roller - v 1.1
 |    |_   _|    A simple command-line dice roller based on Python's random number generator for tabletop games.
-|   _  | |
+|   _  | |      Update!! I made a GUI version, it uses the same script but is much nicer to use!
 |___|  | |
       /_ /      Pietro Goodjohn Bongiovanni - November 2015
 '''

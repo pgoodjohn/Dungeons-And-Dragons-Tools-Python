@@ -5,13 +5,20 @@ If you want to use any of this little scripts feel free to do it.
 Feel free to modify them and, if you want, send me an email with the changes and the uses you put these codes to. My contacts are at the end of this file.
 Have fun with programming and Dungeons and Dragons!!
 
+!!!UPDATE 25/11/2015!!!
+I finally finished my finals and I started working on the project again!
+I've done the GUI for the dice roller and I'm very happy about it!
+On to the next step.
+
 Right now I have:
 - A command line interface dice roller
+- A GUI for the dice roller
 - The basics of a Magic Weapon Generator.
 
+
 What I am working on right now:
-- A graphic user interface for my dice roller, still thinking about how I want it to look and to work
 - Finishing the Weapon Generator, I have all the ideas written on a piece of paper so I just need to translate them in code.
+- Starteing gathering information from the manuals for the armor generator
 
 What I want to have in the end:
 - A armor Generator
