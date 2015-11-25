@@ -1,8 +1,8 @@
 '''
- ___  _____     Python - Magic Weapon Generator for D&D 3.5 - Version 0.02
-|    |_   _|    Baseline of the code is ready.
-|   _  | |      Types of weapons are in, still have to think about magic weapons work. Started adding magical effects. Modifiers are a thing too... I forgot... I will add them later even though they really depend mostly on the encounter level... Stream of consciusness here, I'll think about it when i get some sleep
-|___|  | |      Some magical effects are not indicated in any manual of D&D and might be a little bit too OP, feel free to adapt them!
+ ___  _____     Python - Magic Weapon Generator for D&D 3.5 - Version 0.1
+|    |_   _|    The old stuff still holds, I now have this code implemented in a GUI.
+|   _  | |      Next step is finishing every effect and then think about the magic for wands and staffs.
+|___|  | |      We'll see what comes out of this!
       /_ /      Pietro Goodjohn Bongiovanni - November 2015
 '''
 
@@ -22,6 +22,7 @@ def categoryOfWeapon(int):
             weaponType = 'Hammer' # Axes, Hammers, Maces
         elif int > 75 and int < 101:
             weaponType = 'Magic' # Wands, Staffs
+    return weaponType
 
 def typeOfWeapon(string):
     dice = randint(1,100)
@@ -111,11 +112,12 @@ def typeOfWeapon(string):
     else:
         magicWeapon = 'Oops something went wrong!'
         weaponDamage = '%s was not an expected string' % string
+    return magicWeapon + ' ' + weaponDamage
 
 def magicEffect(int):
-    global effect
-    global name
     #dice = randint(1, 30)
+    global name
+    global effect
     if dice == 1:
         global subdice
         subdice = randint(1,6)
@@ -302,21 +304,26 @@ def magicEffect(int):
     else:
         name = 'Ooops something went wrong when dice was equal to %d' % dice
         effect = ''
+    return name + ' ' + effect
 
-dice = randint(1, 100)
-#print weaponGenerated
+def generate():
+    global dice
+    dice = randint(1, 100)
+    #print weaponGenerated
 
-categoryOfWeapon(dice)
-#print weaponType
+    categoryOfWeapon(dice)
+    #print weaponType
 
-typeOfWeapon(weaponType)
+    typeOfWeapon(weaponType)
 
-dice = randint (1, 40)
+    dice = randint (1, 40)
 
-magicEffect(dice)
+    magicEffect(dice)
 
-print magicWeapon + ' ' + name + '.'
-print weaponDamage + '; ' + effect + '.'
+    result = magicWeapon + ' ' + name + '.\n\n' + weaponDamage + '; ' + effect + '.'
+    return result
+#print magicWeapon + ' ' + name + '.'
+#print weaponDamage + '; ' + effect + '.'
 
 '''
 if dice > 0 and < 26:
