@@ -11,20 +11,24 @@ I've done the GUI for the dice roller and I'm very happy about it!
 On to the next step.
 
 Right now I have:
-- A command line interface dice roller
-- A GUI for the dice roller
+- A command line interface Dice Roller.
+- A GUI for the Dice Roller.
 - The basics of a Magic Weapon Generator.
-
+- A GUI for the Magic Weapon Generator
+- A name generator with an expanding database of names
+- A GUI for the Name Generator
 
 What I am working on right now:
 - Finishing the Weapon Generator, I have all the ideas written on a piece of paper so I just need to translate them in code.
-- Starteing gathering information from the manuals for the armor generator
+- Starting gathering information from the manuals for the armor generator
+- Expanding the Database of names
 
 What I want to have in the end:
 - A armor Generator
 - A random encounter Generator
 - A random NPC Generator
 - A single GUI which incorporates all these little scripts
+- A book generator
 - Some other stuff, that I might find myself needing while I'm mastering my campaign.
 
 

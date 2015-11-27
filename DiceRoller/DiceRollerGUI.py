@@ -1,5 +1,5 @@
 '''
- ___  _____     Python - Dice Roller - v 2.1
+ ___  _____     Python - Dice Roller - v 2.1.1
 |    |_   _|    I took the script I had in the file DiceRoller.py and I placed into a friendly GUI.
 |   _  | |      It's working and I'm very happy about it, after I've finished other scripts I'll come back.
 |___|  | |      And make it a little more pleasant to the eye.
@@ -89,6 +89,18 @@ roll = Button(main, text = 'Roll', command = RollDices)
 quit = Button(main, text = 'Quit', command = quit)
 
 #Grid Placement
+#Dimension Scaling
+main.grid_columnconfigure(0,weight=1)
+main.grid_columnconfigure(1,weight=1)
+main.grid_columnconfigure(2,weight=1)
+main.grid_columnconfigure(3,weight=1)
+main.grid_rowconfigure(0,weight=1)
+main.grid_rowconfigure(1,weight=1)
+main.grid_rowconfigure(2,weight=1)
+main.grid_rowconfigure(3,weight=1)
+main.grid_rowconfigure(4,weight=1)
+main.grid_rowconfigure(5,weight=1)
+
 #Dice Number Input
 dicesLabel.grid(row = 0, column = 0)
 dicesEntry.grid(row = 0, column = 1)
