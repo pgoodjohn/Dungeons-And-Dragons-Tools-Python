@@ -1,102 +1,74 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=640">
-
-    <link rel="stylesheet" href="stylesheets/core.css" media="screen">
-    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-
-    <script type="text/javascript" src="javascripts/modernizr.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
-    <script type="text/javascript">
-      $(document).ready(function () {
-        $('#main_content').headsmart()
-      })
-    </script>
+    <meta charset="UTF-8">
     <title>Dungeons And Dragons Tools in Python by pgoodjohn</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
   </head>
-
   <body>
-    <a id="forkme_banner" href="https://github.com/pgoodjohn/Dungeons-And-Dragons-Tools-Python">View on GitHub</a>
-    <div class="shell">
+    <section class="page-header">
+      <h1 class="project-name">Dungeons And Dragons Tools in Python</h1>
+      <h2 class="project-tagline">Save yourself the trouble of throwing hundreds of dices at a time!</h2>
+      <a href="https://github.com/pgoodjohn/Dungeons-And-Dragons-Tools-Python" class="btn">View on GitHub</a>
+      <a href="https://github.com/pgoodjohn/Dungeons-And-Dragons-Tools-Python/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/pgoodjohn/Dungeons-And-Dragons-Tools-Python/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
 
-      <header>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <h1>Dungeons And Dragons Tools in Python</h1>
-            <h2>Save yourself the trouble of throwing hundreds of dices at a time!</h2>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-      </header>
+    <section class="main-content">
+      <h1>
+<a id="huge-update" class="anchor" href="#huge-update" aria-hidden="true"><span class="octicon octicon-link"></span></a>HUGE UPDATE!!</h1>
 
-      <section id="downloads">
-        <span class="inner">
-          <a href="https://github.com/pgoodjohn/Dungeons-And-Dragons-Tools-Python/zipball/master" class="zip"><em>download</em> .ZIP</a><a href="https://github.com/pgoodjohn/Dungeons-And-Dragons-Tools-Python/tarball/master" class="tgz"><em>download</em> .TGZ</a>
-        </span>
-      </section>
+<h2>
+<a id="version-10-is-here" class="anchor" href="#version-10-is-here" aria-hidden="true"><span class="octicon octicon-link"></span></a>Version 1.0 is HERE!</h2>
 
+<h3>
+<a id="for-macos-at-least" class="anchor" href="#for-macos-at-least" aria-hidden="true"><span class="octicon octicon-link"></span></a>(For MACOS at least)</h3>
 
-      <span class="banner-fix"></span>
+<p>Yess!! Finally my suite of tools is here and it's working like a charm!!</p>
 
+<p>Right now I got the tools I want to finish outlined as code as well as GUI</p>
 
-      <section id="main_content">
-        <p>Hi!
-This is my little suit of D&amp;D tools written in Python.
-I just started working with Python and since I am mastering a D&amp;D campaign I thought I'd make my job easier by programming some little tools to help in some tasks and avoid throwing tons of dices.
-If you want to use any of this little scripts feel free to do it.
-Feel free to modify them and, if you want, send me an email with the changes and the uses you put these codes to. My contacts are at the end of this file.
-Have fun with programming and Dungeons and Dragons!!</p>
+<h4>
+<a id="but" class="anchor" href="#but" aria-hidden="true"><span class="octicon octicon-link"></span></a>BUT</h4>
 
-<p>Right now I have:</p>
+<p>I find Tkinter kinda boring and sad so first I'll create a Windows release for some of my friends to test out the app and, after that, I'll start rewriting the whole GUI using more appealing libraries.
+My main idea is to use Kivy (<a href="http://kivy.org/">http://kivy.org/</a>), but I'm researching more and I'll decide when it's time.
+In <em>Releases</em> you can find the .app file to run it on MacOS, so that you can test it.
+Bear in mind that most of the funtionalities are really basic: the weapon generator is to be completely rewritten, the encounter generator features only town encounter generation, the NPC generator generates characteristics that are awful and unusable and it generates only NPC to be fought and, finally, I want to expand even more the database for the name generator and implement better algorithms overall.</p>
 
-<ul>
-<li>A command line interface dice roller</li>
-<li>The basics of a Magic Weapon Generator.</li>
-</ul>
+<p>In the end I'm very happy for this 1.0 release and I hope that this application finds some use in some D&amp;D campaigns around the world.
+If you have any idea or you wish that some features were implemented don't hesitate contacting me!!</p>
 
-<p>What I am working on right now:</p>
+<p>A quick final recap:
+Right now the app consists in:</p>
 
 <ul>
-<li>A graphic user interface for my dice roller, still thinking about how I want it to look and to work</li>
-<li>Finishing the Weapon Generator, I have all the ideas written on a piece of paper so I just need to translate them in code.</li>
+<li>A basic dice roller,</li>
+<li>A basic weapon generator,</li>
+<li>A name generator,</li>
+<li>A NPC generator,</li>
+<li>A random encounter generator.</li>
 </ul>
 
-<p>What I want to have in the end:</p>
-
-<ul>
-<li>A armor Generator</li>
-<li>A random encounter Generator</li>
-<li>A random NPC Generator</li>
-<li>A single GUI which incorporates all these little scripts</li>
-<li>Some other stuff, that I might find myself needing while I'm mastering my campaign.</li>
-</ul>
+<p>All of these have to be expanded and improved, but this is just the beginning!!</p>
 
 <p>Pietro Bongiovanni
 <a href="mailto:bongiovanni.pietro.vc@gmail.com">bongiovanni.pietro.vc@gmail.com</a>
 4800 Ca'oan Road - Jiading - Shanghai - China
 @pietrogoodjohn on Twitter</p>
-      </section>
 
-      <footer>
-        <span class="ribbon-outer">
-          <span class="ribbon-inner">
-            <p>this project by <a href="https://github.com/pgoodjohn">pgoodjohn</a> can be found on <a href="https://github.com/pgoodjohn/Dungeons-And-Dragons-Tools-Python">GitHub</a></p>
-          </span>
-          <span class="left-tail"></span>
-          <span class="right-tail"></span>
-        </span>
-        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
-        <span class="octocat"></span>
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/pgoodjohn/Dungeons-And-Dragons-Tools-Python">Dungeons And Dragons Tools in Python</a> is maintained by <a href="https://github.com/pgoodjohn">pgoodjohn</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
       </footer>
 
-    </div>
+    </section>
 
-    
+  
   </body>
 </html>
