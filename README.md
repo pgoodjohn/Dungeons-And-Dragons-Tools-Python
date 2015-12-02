@@ -1,11 +1,11 @@
-###HUGE UPDATE!!
+#HUGE UPDATE!!
 ##Version 1.0 is HERE!
-#(For MACOS at least)
+###(For MACOS at least)
 
 Yess!! Finally my suite of tools is here and it's working like a charm!!
 
 Right now I got the tools I want to finish outlined as code as well as GUI
-#BUT
+####BUT
 I find Tkinter kinda boring and sad so first I'll create a Windows release for some of my friends to test out the app and, after that, I'll start rewriting the whole GUI using more appealing libraries.
 My main idea is to use Kivy (http://kivy.org/), but I'm researching more and I'll decide when it's time.
 In *Releases* you can find the .app file to run it on MacOS, so that you can test it.
