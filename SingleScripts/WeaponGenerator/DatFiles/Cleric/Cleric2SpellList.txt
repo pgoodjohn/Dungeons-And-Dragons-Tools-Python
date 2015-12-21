@@ -1,0 +1,57 @@
+Aid(PH p196) – +1 on attack rolls, +1 on saves against fear, 1d8 temporary hp +1/lvl (max +10)
+Align Weapon(PH p197) – Weapon becomes good, evil, lawful, or chaotic.
+Augury(PH p202) – Leans whether an action will be good or bad.
+Aura against Flame(MoF p78) – Ignore 12 flame damage/round and extinguish fires.
+Bear’s Endurance(PH p203) – Subject gains +4 Constitution for 1 minute per level.
+Body Blades(MoF p82) – You attack as if armed, deal bonus damage, harm grapples.
+Brambles(CDiv p156) – Wood weapon grows spikes that deal +1 damage per caster level (max +10).
+Bull’s Strength(PH p207) – Subject gains +4 Strength for 1 minute per level.
+Calm Emotions(PH p207) – Calms creatures, negating emotion effects.
+Consecrate(PH p212) – Fills area with positive energy, making undead weaker.
+Cure Moderate Wounds(PH p216) – Cures 2d8 damage +1 per level (max +10).
+Curse of Ill Fortune(CDiv p160) (MoF p86)(MoFe)+ – Subject suffers –3 penalty on attacks, saves, and checks.
+Darkness(PH p216) – 20’ radius of supernatural shadow.
+Death Knell(PH p217) – Kills dying creature; you gain 1d8 temporary hp, +2 Strength, and 1 level.
+Deific Vengeance(CDiv p161) – God’s punishment deals 1d6 damage per two levels (max 5d6).
+Delay Poison(PH p217) – Stops poison from harming subject for 1 hour per level.
+Desecrate(PH p218) – Fills area with negative energy, making undead stronger.
+Dispel Ward(DR313 p90) – As Dispel Magic, but only dispels Abjuration spells cast on objects and/or areas.
+DivineInsight(CAdvp147) - You gain Insight bonus of 5 + caster level on one single skill check.
+Eagle’s Splendor(PH p225) – Subject gains +4 Charisma for 1 minute per level.
+Ease Pain(BoED p97) – Remove lingering effects of pain.
+Elation(BoED p98) – Allies gain +2 Morale bonus to Strength & Dexterity, and +5’ movement.
+Enthrall(PH p227) – Captivates all within 100’ + 10’ per level.
+Estanna’s Stew(BoED p99) – Conjures stew the heals 1d6+1 per serving (one serving per two levels).
+Find Traps(PH p230) – Notice traps as a rogue does.
+Gentle Repose(PH p234) – Preserves one corpse.
+Hand of Divinity(MoF p98) – Gives +2 sacred or profane bonus on worshipers of your patron.
+Healing Lorecall(CAdv p151) If you have 5 or more ranks in Heal, you can remove harmful conditions with Conjuration (healing) spells.
+Hold Person(PH p241) – Paralyzes one person for up to 1 round per level.
+Inflict Moderate Wounds(PH p244) – Touch attack, 2d8 +1 per level (max +10).
+Insignia of Alarm(RoD p166) – Alert the bearers of a special insignia.
+Iron Silence(CAdv p153) Armor touched has no Armor Check penalty on Hide and Move Silently checks for 1 hour per level.
+Lastai’s Caress(BoED p102) – Intense feelings of good leave an evil subject cowering, frightened, nauseated, or shaken.
+Make Whole(PH p252) – Repairs an object.
+Mark of the Outcast(Und p59) – Subject takes –5 penalty on Bluff and Diplomacy checks and –2 penalty to AC.
+Owl’s Wisdom(PH p259) – Subject gains +4 Wisdom for 1 minute per level.
+Phade’s Fearsome Aspect(DR333 p72) – The target looks like a demon, gaining a +5 bonus on Intimidate checks and can Demoralize as a Swift Action.
+Remove Addiction(BoED p105) – Cures target of drug addiction.
+Remove Paralysis(PH p271) – Frees one or more creatures from paralysis, hold, or Slow.
+Resist Energy(PH p246) – Ignores the first 10 (or more) points of damage per attack from a specified energy type.
+Restoration, Lesser(PH p272) – Dispels magic ability penalty or repairs 1d4 ability damage.
+Shatter(PH p278) – Sonic vibration damages objects or crystalline creatures.
+Shield Other(PH p278) – You take half of subject’s damage.
+Silence(PH p279) – Negate sound in 15’ radius.
+Sound Burst(PH p281) – Deals 1d8 sonic damage to subjects; may stun them.
+Spiritual Weapon(PH p283) – Magical weapon attacks on its own.
+Status(PH p284) – Monitors condition & position of allies.
+Stone Bones(MoF p123) – Corporeal undead gains +3 natural armor bonus.
+Stone Fist(RoS p163) – Caster’s fists have their damage increased, are treated as ‘armed’, and do Bludgeoning damage. Dwarves and Goliaths have their fists treated as Cold Iron.
+Stonemantle(DR314 p29) – Target object becomes as hard as stone.
+Summon Monster II(PH p286) – Summons an extraplanar creature to fight for you.
+Summon Undead II(PGF p114) – Summons undead to fight for you.
+Undetectable Alignment(PH p297) – Conceals alignment for 24 hours.
+Unseen Crafter(RoE p191) – Invisible force obeys your command and can use the Craft skill.
+Venomous Volley(DR330 p73) – Cone of fangs damages and weakens targets.
+Wave of Grief(CDiv p188) – All in cone receive a –3 penalty on attacks, checks, and saves.
+Zone of Truth(PH p303) – Subjects within range cannot lie.

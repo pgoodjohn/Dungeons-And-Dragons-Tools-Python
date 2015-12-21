@@ -1,0 +1,50 @@
+Allegro(CAdv p142) – You and your allies gain +30’ speed for 1 minute per level.
+Analyze Portal(FR p66) – Detects and analyzes Portals within 60’.
+Anamensis(DR338 p77) – Taps into an alien unconscious, providing a bonus on Knowledge skill checks.
+Blink(PH p206) – You randomly vanish and reappear for 1 round per level.
+Charm Monster(PH p209) – Makes monster believe it is your ally.
+Clairaudience/Clairvoyance(PH p209) – Hear or see at a distance for 1 minute per level.
+Confusion(PH p212) – Makes subject behave oddly for 1 round per level.
+Crushing Despair(PH p215) – Subject takes –2 on attack rolls, damage rolls, saves, & checks.
+Cure Serious Wounds(PH p216) – Cures 3d8 damage + 1 per level (max +15).
+Daylight(PH p216) – 60’ radius of bright light.
+Deep Slumber(PH p217) – Puts 10HD of creatures to sleep.
+Dirge of Discord(CAdv p145) – All within 20’ take –4 on attack rolls, Concentration checks, and
+Dexterity, and reduce speed by 50%.
+Dispel Magic(PH p223)(PH3.5e)+ – Cancels magical spells and effects.
+Displacement(PH p223) – Attacks miss subject 50% of the time.
+Dissonant Chord(CAdv p145) – Deals 1d8 per two levels of Sonic damage in a 10’ burst. Fear(PH p229) – Subjects within cone flee for 1 round per level.
+G’elsewhere Chant(MoF p96) – Teleport target to random safe place within 100’.
+Gaseous Form(PH p234) – Subject becomes insubstantial and can fly slowly.
+Geas, Lesser(PH p235) – Commands subject of 7 HD or less.
+Glibness(PH p235)(PH3.5e)+ – You gain +30 bonus on Bluff checks, and your lies can escape magical discernment.
+Good Hope(PH p237) – Subjects gain +2 on attack rolls, damage rolls, saves, and checks.
+Harmonic Chorus(CAdv p150) – Give another caster +2 caster levels and a +2 on save DC’s as long as you concentrate.
+Haste(PH p239) – One creature per level moves faster, +1 on attack rolls, AC, and Reflex saves.
+Haunting Tune(MoF p99) – 1 target per level becomes shaken.
+Hymn of Praise(CAdv p152) – Add +2 caster levels to all Good Divine casters within range.
+Illusory Script(PH p243) – Only intended reader can decipher.
+Infernal Threnody(CAdv p152) – Add +2 cater levels to all Evil Divine casters within range.
+Insignia of Healing(RoD p166) – Bearers of a special insignia are healed 1d8 + 1/lvl hit-points (max 1d8+10).
+Invisibility Sphere(PH p245) – Makes everyone within 10’ invisible.
+Leomund’s Tiny Hut(PH p247) – Creates shelter for ten creatures.
+Love’s Lament(DR328 p70) – A cone of disheartening music deals 1d6 Wisdom damage and Nauseates those affected.
+Major Image(PH p252) – As Silent Image, but sound, smell, and thermal effects.
+Phantom Steed(PH p260) – Magical horse appears for 1 hour per level.
+Puppeteer(MoF p112) – Target mimics your actions.
+Refreshment(BoED p105) – Cures all non-lethal damage on creatures in a 20’ radius of the caster
+Remove Curse(PH p270) – Frees person or object from a curse.
+Scrying(PH p274)(PH3.5e)+ – Spies on subject from a distance.
+Sculpt Sound(PH p275) – Creates new sounds or changes existing ones.
+Secret Page(PH p275) – Changes one page to hide its real contents.
+See Invisibility(PH p275) – Reveals invisible creatures or objects.
+Sepia Snake Sigil(PH p276) – Creates text symbol that immobilizes reader.
+Slow(PH p280) – One subject per level takes only one action per round, –1 AC and attack rolls.
+Speak with Animals(PH p281) – You can communicate with animals.
+Speechlink(CAdv p157) – You and one other creature can talk, no matter how far apart.
+Summon Monster III(PH p286) – Summons an extraplanar creature to fight for you.
+Verraketh’s Shadow Crown(RoF p191) – +4 Competence bonus on Perform checks that doesn’t stack with Feat: Shadow Weave Magic.
+Vision of Fear(DR333 p73) – You gain knowledge of the target’s greatest or most recent fear.
+Warcry(BoED p111) – Creatures within a 30’ cone cower for 1d4 rounds.
+Winding Alleys(RoD p169) – Trap foe in phantasmal maze.
+Wounding Whispers(MoF p134) – Sonic aura damages foes that strike you.

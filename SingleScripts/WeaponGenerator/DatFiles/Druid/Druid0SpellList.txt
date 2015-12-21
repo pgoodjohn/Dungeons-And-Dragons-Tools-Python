@@ -1,0 +1,18 @@
+Create Water(PH p215) – Creates 2 gallons/level of pure water.
+Cure Minor Wounds(PH p216) – Cures 1 point of damage.
+Detect Crossroads(MoF p88) – Detect fey crossroads within 60’.
+Detect Magic(PH p219) – Detects spells and magic items within 60’.
+Detect Poison(PH p219) – Detects poison in one creature or small object.
+Flare(PH p232) – Dazzles one creature (–1 on attack rolls).
+Ground Smoke(DR326 p73) – Prevents smoke from rising from a small fire.
+Guidance(PH p238) – +1 on one attack roll, saving throw, or skill check.
+Know Direction(PH p246) – You discern north.
+Light(PH p248) – Object shines like a torch. Mending(PH p253) – Makes minor repairs on an object.
+Naturewatch(CDiv p170)(MoF p110) – See how wound level of animals and plants within 30’.
+Purify Food and Drink(PH p267) – Purifies 1 cubic foot per level of food or water.
+Ram’s Might(MoF p112) – You hands become harder and your unarmed attacks inflict normal damage.
+Read Magic(PH p269) – Reads scrolls and spellbooks.
+Resistance(PH p272) – Subject gains +1 resistance bonus on all saving throws.
+Snowshoes(DR312 p65) – Subject can walk on ice & snow without falling and not leaving an obvious trail.
+Vengeful Mount(DR326 p74) – Makes an animal more difficult to ride or handle.
+Virtue(PH p289) – Subject gains 1 temporary hp.

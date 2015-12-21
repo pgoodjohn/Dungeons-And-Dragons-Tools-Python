@@ -1,3 +1,11 @@
+'''
+ ___  _____     Python - Encounter Generator - v 1.0
+|    |_   _|
+|   _  | |
+|___|  | |
+      /_ /      Pietro Goodjohn Bongiovanni - December 2015
+'''
+
 import Tkinter as tk
 from Tkinter import *
 from tkMessageBox import *

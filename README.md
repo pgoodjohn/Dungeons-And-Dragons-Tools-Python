@@ -1,18 +1,20 @@
-#HUGE UPDATE!!
-##Version 1.0 is HERE!
-###(For MACOS at least)
+#Dungeons And Dragons Tools
 
-Yess!! Finally my suite of tools is here and it's working like a charm!!
+Hello there!
 
-Right now I got the tools I want to finish outlined as code as well as GUI
-####BUT
-I find Tkinter kinda boring and sad so first I'll create a Windows release for some of my friends to test out the app and, after that, I'll start rewriting the whole GUI using more appealing libraries.
-My main idea is to use Kivy (http://kivy.org/), but I'm researching more and I'll decide when it's time.
-In *Releases* you can find the .app file to run it on MacOS, so that you can test it.
-Bear in mind that most of the funtionalities are really basic: the weapon generator is to be completely rewritten, the encounter generator features only town encounter generation, the NPC generator generates characteristics that are awful and unusable and it generates only NPC to be fought and, finally, I want to expand even more the database for the name generator and implement better algorithms overall.
+If you came in here there is a good chance you like D&D and you either are a player or a DM.
+If you ever found yourself throwing tons and tons and tons of dices or spent hours on generators, this is the application for you!
 
-In the end I'm very happy for this 1.0 release and I hope that this application finds some use in some D&D campaigns around the world.
-If you have any idea or you wish that some features were implemented don't hesitate contacting me!!
+Generate whatever you want, from Weapons, to random encounters to full NPCs ready to be met or fought.
+
+So right now I have completed a very basic release, I'd not even call it an Alpha version, using some really basic graphics.
+I wanted to see how the app would behave on different systems and I'm quite pleased with how it turend out.
+
+As I'm updating this Readme I have already began working on a new graphic and I got it working on Mac, on PC and on Android; but I'm still focusing on the single scripts, trying to improve them and trying to expand the databases.
+
+If you want to try the application (if you do, feedback would be *highly* appreciated), you can find the .exe or .app files in *Releases*, depending on what your system is.
+
+Also if you want something to be implemented in the app be sure to email me or tweet at me, my contacts can be found at the end of this Readme!!
 
 A quick final recap:
 Right now the app consists in:
@@ -22,7 +24,11 @@ Right now the app consists in:
 - A NPC generator,
 - A random encounter generator.
 
-All of these have to be expanded and improved, but this is just the beginning!!
+What I'm working on is:
+- Expanding the Weapon Generator
+  - I'm creating a wand/staff generator, and I'll probably rewrite the whole weapon generator from scratch because I really don't like the program I came up with.
+- Creating more types of encounter and improving what I already have
+- Expanding the database of the names and working on algorithms to implement to generate better names.
 
 Pietro Bongiovanni
 bongiovanni.pietro.vc@gmail.com

@@ -1,0 +1,33 @@
+Azuth’s Spell Shield(MoF p79) – Subjects gain +12 +1/level SR.
+Bastion of Good(BoED p92) – Acts as Minor Glob of Invulnerability and a double-strength Magic Circle against Evil.
+Bestow Curse, Greater(CDiv p153)(CDivErrata)+(RoD p164) – As Bestow Curse, but more severe penalties.
+Blasphemy(PH p205)(PH3.5e)+ – Kills, paralyzes, weakens, or dazes non-evil subjects.
+Blood to Water(DR314 p45) – Changes some of the blood in up to three creatures into water, causing Constitution damage.
+Control Weather(PH p214) – Changes weather in local area.
+Cure Serious Wounds, Mass(PH p216) – Cures 3d8 damage +1 per level for many creatures.
+Death Dragon(MoF p88) – You gain +4 natural armor, +4 deflection, and natural attacks.
+Destruction(PH p218) – Kills subject and destroys remains.
+Dictum(PH p220) – Kills, paralyzes, slows, or deafens non-lawful subjects.
+Ethereal Jaunt(PH p227) – You become ethereal for 1 round per level.
+Fortunate Fate(MoF p95) – Target immediately receives a Heal if killed by damage.
+Holy Word(PH p242) – Kills, paralyzes, blinds, or deafens non-good subjects.
+Humanoid Essence, Greater(RoE p186) – Gives a Construct the Humanoid type.
+Inflict Serious Wounds, Mass(PH p244) – Deals 3d8 + 1 / level to many creatures.
+Refuge(PH p270) – Alters item to transport its possessor to you.
+Regenerate(PH p270) – Subject’s severed limbs grow back, cures 4d8 damage +1 per level (max +35).
+Renewal Pact(CDiv p177) – Creature is automatically healed if adverse condition affects it.
+Repulsion(PH p271) – Creatures can’t approach you.
+Restoration, Greater(PH p272) – As Restoration, plus restores all levels and ability scores.
+Resurrection(PH p273) – Fully restore dead subject.
+Righteous Glare(BoED p105) – Your gaze attack kills evil creatures with less than 5HD, causes Fear in others.
+Righteous Smite(BoED p106) – Deals 1d6 damage per level (1d8 damage per level to Evil Outsiders) in a 20’ radius and blinds Evil foes.
+Righteous Wrath of the Faithful(CDiv p178)(CDivErrata)+ – Your allies get bonuses, especially if they worship your deity.
+Scrying, Greater(PH p275)(PH3.5e)+ – As Scrying, but faster and longer.
+Slime Wave(CDiv p180)(CDivErrata)+ – Creates a 15’ spread of Green Slime.
+Spell Resistance, Mass(CDiv p181) – As Spell Resistance, but multiple targets.
+Summon Monster VII(PH p287) – Summons an extraplanar creature to fight for you.
+Symbol of Stunning(PH p291) – Triggered rune stuns nearby creatures.
+Symbol of Weakness(PH p291) – Triggered rune weakens nearby creatures.
+Tomb of Light(BoED p110) – Entraps and harms evil extraplanar creatures.
+Withering Palm(Eb p117)(CArc p130) – Touch attack deals 1 point of Strength damage plus 1 point of Constitution damage per two levels.
+Word of Chaos(PH p2303 – Kills, confuses, stuns, or deafens non-chaotic subjects.

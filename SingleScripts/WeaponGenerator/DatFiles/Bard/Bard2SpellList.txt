@@ -1,0 +1,61 @@
+Alter Self(PH p197) – Assume the form of a similar creature.
+Animal Messenger(PH p198) – Sends a Tiny animal to a specific place.
+Animal Trance(PH p198) – Fascinates 2d6 HD of animals.
+Bladeweave(CAdv p144) – Swift. Your melee attacks Daze your opponent.
+Blindness/Deafness(PH p206) – Makes subject blind or deaf.
+Blur(PH p206) – Attacks miss subject 20% of the time.
+Calm Emotions(PH p207) – Calms creatures, negating emotion effects.
+Cat’s Grace(PH 3.5 p208) – Subject gains +4 Dexterity for 1 minute per level.
+Circle Dance(MoF p84) – Indicates direction to known target.
+Cloud of Bewilderment(PGF p101) – Stun and blind targets.
+Cure Moderate Wounds(PH p216) – Cures 2d8 damage +1 per level (max +10).
+Darkness(PH p216) – 20’ radius of supernatural shadow.
+Delay Poison(PH p217) – Stops poison from harming subject for 1 hour per level.
+Delusions of Grandeur(DR324 p71) – Subject becomes overconfident and careless.
+Detect Thoughts(PH p220) – Allows “listening” to surface thoughts.
+Eagle’s Splendor(PH p225) – Subject gains +4 Charisma for 1 minute per level.
+Elation(BoED p98) – Allies gain +2 Morale bonus to Strength & Dexterity, and +5’ movement.
+Enthrall(PH p227) – Captivates all within 100’ + 10’ per level.
+Faerinaal’s Hymn(BoED p99) – Up to one creature per level cannot take attacks of opportunity.
+Fly, Swift(CAdv p149) – Swift. Gain Fly speed of 60’ for 1 round.
+Force Whip(CArc p108) – Whip of magical force keeps animals at bay and can frighten animals as a ranged touch attack.
+Fox’s Cunning(PH p233) – Subject gains +4 Intelligence for 1 minute per level.
+Glitterdust(PH p236) – Blinds creatures, outlines invisible creatures.
+Harmonize(RoS p162) – Bardic Music can be started as a Move Action, instead of a Standard Action.
+Heartfire(DR314 p20) – Intelligent creatures in a 5’ burst are covered with flames, which cause damage and negate Blur, Invisibility, etc.
+Heroism(PH p240) – Gives a +2 on attack rolls, saves, & skill checks.
+Hold Person(PH p241) – Paralyzes one person for up to 1 round per level.
+Hypnotic Pattern(PH p242) – Fascinates (2d4 + level) HD of creatures.
+Insidious Insight(RoE p187) – Gain Insight bonus on Bluff, Diplomacy, Intimidate, & Sense Motive checks against a target creature.
+Insidious Rhythm(CAdv p152) – Subject has –4 penalty on Intelligence-based skill checks and Concentration checks, and must make Concentration check to cast spells.
+Insignia of Alarm(RoD p166) – Alert the bearers of a special insignia.
+Invisibility(PH p245) – Subject is invisible for 1 minute per level or until it attacks.
+Invisibility, Swift(CAdv p153) – Swift. You are invisible for 1 round or until you attack.
+Iron Silence(CAdv p153) – Armor touched has no Armor Check penalty on Hide and Move Silently checks for 1 hour per level.
+Lively Step(PGF p106) – You and you allies gain a +10’ increase to speed and can ‘hustle’ for an extra hour per day per level.
+Locate Object(PH p249) – Senses direction toward object (specific or type).
+Mindless Rage(CAdv p155) – Target compelled to attack you physically for 1 round per level.
+Minor Image(PH p254) – As Silent Image, plus some sound.
+Mirror Image(PH p254) – Creates decoy duplicates of you (1d4 + 1 per three levels (max 8)).
+Misdirection(PH p254) – Misleads divinations for one creature or object.
+Misrepresent Alignment(RoE p188) – Projects a false alignment for an object or creature.
+Phantom Threat(CWar p118) – Subject thinks it’s flanked.
+Proud Arrogance(RoD p167) – Targets (who must be the same race as the caster) gain +4 Resistance bonus on saves vs. charm, compulsion, and fear.
+Pyrotechnics(PH p267) – Turns fire into blinding light or choking smoke.
+Rage(PH p268) – Gives +2 to Str and Con, +1 on Will saves, –2 to AC.
+Reflective Disguise(Und p60) – Viewers see you as their own species and gender.
+Scare(PH p274) – Panics creatures of less than 6HD.
+Shatter(PH p278) – Sonic vibration damages objects or crystalline creatures.
+Silence(PH p279) – Negate sound in 15’ radius.
+Sonic Weapon(CAdv p157) – Touched weapon deal +1d6 Sonic damage with each hit.
+Sound Burst(PH p281) – Deals 1d8 sonic damage to subjects; may stun them.
+Suggestion(PH p285) – Compels subject to follow stated course of action.
+Summon Monster II(PH p286) – Summons an extraplanar creature to fight for you.
+Summon Swarm(PH p289) – Summons a swarm of bats, rats, or spiders.
+Tactical Precision(CAdv p157) – Allies gain an additional +2 bonus on attack rolls and +1d6 additional damage against flanked foes.
+Tongues(PH p294) – Speak any language.
+Tvash-Prull’s Bonefiddle(DR328 p72) – A spectral bow plays upon the target’s bones, dealing sonic damage.
+Unseen Crafter(RoE p191) – Invisible force obeys your command and can use the Craft skill.
+Wave of Grief(CDiv p188) – All in cone receive a –3 penalty on attacks, checks, and saves.
+Whirling Blade(CArc p129) – Hurled slashing weapon magically attacks all foes in a 60’ line.
+Whispering Wind(PH p301) – Sends a short message one mile per level.

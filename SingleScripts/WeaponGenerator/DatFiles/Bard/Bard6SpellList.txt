@@ -1,0 +1,31 @@
+Analyze Dweomer(PH p197) – Reveals magical aspects of subject.
+Animate Objects(PH p199) – Objects attack your foes.
+Bestow Curse, Greater(CDiv p153)(CDivErrata)+(RoD p164) – As Bestow Curse, but more severe penalties.
+Cacophonic Shield(CAdv p144)(MoF p83) – Shield 10’ from you blocks sound, deals 1d6+1 per level Sonic damage, and deafens creatures passing through.
+Cat’s Grace, Mass(PH p208) – As Cat’s Grace, affects one subject per level.
+City Stride(RoD p164) – Teleport between two cities.
+Cure Moderate Wounds, Mass(PH p216) – Cures 2d8 damage + 1 per level for many creatures.
+Dirge(MoF p89) – Enemies suffer 2 points of Strength & Dexterity damage per round.
+Dominate Person, Mass(DR312 p51) – As Dominate Person, but up to 2 * Caster level of HD.
+Eagle’s Splendor, Mass(PH p225) – As Eagle’s Splendor, affects one subject per level.
+Empyreal Ecstasy(BoED p98) – Targets become immune to pain and mind-influencing effects, and take half damage from melee and ranged attacks; –4 to skill checks.
+Eyebite(PH p228) – Target becomes panics, sickened, and comatose.
+Find the Path(PH p230) – Shows most direct way to a location.
+Fox’s Cunning, Mass(PH p233) – As Fox’s Cunning, affects one subject per level.
+Gate Seal(FR p70) – Permanently seals a Gate or Portal.
+Geas, Mass Lesser(DR312 p51) – As Lesser Geas, but affects one subject per level.
+Geas/Quest(PH p234) – As Lesser Geas, plus it affects any creature.
+Heroes’ Feast(PH p240) – Ford for one creature per level, cures, and grants combat bonuses.
+Hindsight(CAdv p151) – You see into the past.
+Nixie’s Grace(DR314 p46) – Caster gains attributes of a Nixie, including enhancements to Charisma, Dexterity, & Wisdom, the ability to breath water, and Damage Reduction 5 / cold iron.
+Otto’s Irresistible Dance(PH p259) – Forces subject to dance.
+Permanent Image(PH p260) – Includes sight, sound, and smell.
+Programmed Image(PH p265) – As Major Image, plus triggered by an event.
+Project Image(PH p265) – Illusory double can talk and cast spells.
+Protégé(CAdv p155) – Subject can use Bardic Music and Bardic Knowledge as a Bard of half your level.
+Scrying, Greater(PH p275)(PH3.5e)+ – As Scrying, but faster and longer.
+Shout, Greater(PH p279) – Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.
+Summon Monster VI(PH p287) – Summons an extraplanar creature to fight for you.
+Sympathetic Vibration(PH p291) – Inflicts 2d10 damage per round on a free-standing structure.
+Symphonic Nightmare(DR328 p72) – Disruptive music fills the target’s sleep, preventing him from resting, regaining spells, etc.
+Veil(PH p298) – Changes appearance of group of creatures.

@@ -1,0 +1,17 @@
+Astral Projection(PH p201) – Projects you and companions into the Astral Plane.
+End to Strife(BoED p98) – Any attack made within 80’ of the caser causes attacker to take 1d6 points of lethal or non-lethal damage per caster level (max 20d6).
+Energy Drain(PH p226) – Subject gains 2d4 negative levels.
+Etherealness(PH p228) – Travel to Ethereal Plane with companions.
+Feast of Champions(Eb p111) – Food for one creature per level heals and grants comprehensive bonuses.
+Gate(PH p234) – Connects two planes for travel or summoning.
+Heal, Mass(PH p239) – As Heal, but with several subjects.
+Implosion(PH p243) – Kills one creature per round.
+Miracle(PH p254) – Requests a deity’s intercession.
+Raise from the Deep(DR314 p46) – Target object (usually a sunken ship) rises to the surface of the water and floats for 1 hour per level, allowing salvage or repair.
+Soul Bind(PH p226) – Traps newly dead soul to prevent Resurrection.
+Storm of Vengeance(PH p285) – Storm rains acid, lightning, and hail.
+Sublime Revelry(BoED p109) – Targets immune to pain and mind-influencing effects, and take half damage from melee and ranged attacks.
+Summon Elemental Monolith(CArc p124) – Calls a powerful elemental creature to fight for you.
+Summon Monster IX(PH p288) – Summons an extraplanar creature to fight for you.
+True Resurrection(PH p296) – As Resurrection, plus remains aren’t needed.
+Visage of the Deity, Greater(CDiv p187) – As Less Visage of the Deity, but you become a Half- Celestial or Half-Fiend.

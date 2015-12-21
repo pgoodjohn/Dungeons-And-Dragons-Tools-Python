@@ -1,0 +1,29 @@
+Antimagic Field(PH p200) – Negates magic within 10’.
+Brain Spider(CDiv p156) – Listen to thoughts of up to eight other creatures.
+Brilliant Blade(CArc p100) – Weapon or projectiles shed light, ignore armor.
+Cloak of Chaos(PH p210) – +4 to AC, +4 resistance, SR 25 vs. lawful spells.
+Create Greater Undead(PH p215) – Creates shadows, wraiths, spectres, or devourers.
+Cure Critical Wounds, Mass(PH p216) – Cures 4d8 damage +1 per level for many creatures.
+Death Pact(CDiv p161)(MoF p88) – Deity brings you back from the dead automatically.
+Dimensional Lock(PH p221) – Teleportation and interplanar travel are blocked for 1 day per level.
+Discern Location(PH p222) – Reveals the exact location of a creature or object.
+Earthquake(PH p225) – Intense tremor shakes 5’ per level radius.
+Fire Storm(PH p231) – Deals 1d6 per level fire damage.
+General of Undeath(MoF p96) – Increases your maximum HD of controlled undead by 10 times your level.
+Golem Immunity(RoE p186) – Grants a Construct the ‘magic immunity special quality’ of a particular golem.
+Heat Leech(DR312 p64) – Living creatures in a 30’ area loose hp due to cold & the caster gains them as healing & temporary hp.
+Holy Aura(PH p241) – +4 to AC, +4 resistance, SR25 against evil spells.
+Illusion Purge(RoE p187) – Dispels illusions within 5’/level radius.
+Inflict Critical Wounds, Mass(PH p244) – Deals 3d8 + 1 / level to many creatures.
+Planar Ally, Greater(PH p261) – As Lesser Planar Ally, but up to 18 HD.
+Shield of Law(PH p278) – +4 to AC, +4 resistance, SR25 against chaotic spells.
+Spell Immunity, Greater(PH p281) – As Spell Immunity, but up to 8th level spells.
+Spread of Contentment(BoED p107) – Calms hostile creatures within 10’ per level radius.
+Stormrage(CDiv p182)(MoF p125) – Fly, Wind Wall, protection from strong winds, and make electrical attacks.
+Summon Monster VIII(PH p287) – Summons an extraplanar creature to fight for you.
+Symbol of Death(PH p289) – Triggered rune slays nearby creatures.
+Symbol of Insanity(PH p290) – Triggered rune renders nearby creatures insane.
+Symbol, Death Symbol of Bane(MoF p127) – Functions like a Symbol of Death, plus 1d12 Cold damage and Doom effect.
+Symbol, Symbol of Spell Loss(MoF p127) – Spellcasters in the area loose highest-level spell.
+Unholy Aura(PH p297) – +4 to AC, +4 resistance, SR25 against good spells.
+Wall of Greater Dispel Magic(Und p63) – Creatures passing through a transparent wall become subjects of targeted Greater Dispel Magic.

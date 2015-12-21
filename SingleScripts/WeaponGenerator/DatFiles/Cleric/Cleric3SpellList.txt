@@ -1,0 +1,87 @@
+Affliction(BoED p89) – Infects an Evil subject with a chosen Affliction (a disease that only affect Evil creatures).
+Amanuensis(MoF p77) – Copy nonmagical text.
+Animate Dead(PH p198) – Creates undead skeletons and zombies.
+Bestow Curse(PH p203) – Subject either receives a –6 on one ability; –4 penalty on attacks, saves, and skill checks; or 50% chance of losing each action.
+Bladebane(UE p48) – Slashing weapon becomes a bane weapon.
+Blessed Aim(CDiv p154) – +2 bonus of allies’ ranged attacks.
+Blessed Sight(BoED p92) – Evil auras become visible to you.
+Blindness/Deafness(PH p206) – Makes subject blind or deaf.
+Blindsight(PGF p100) – Subject gains blindsight 30’ for 1min/lvl.
+Briar Web(CDiv p156) – Area entangles creatures and thorns deal 2d6 damage.
+Burrow(Und p56) – Subject grows claws and gains a Burrowing speed of 10’.
+Chain of Eyes(CDiv p158) – You attach a magical sensor to a target, who can unwittingly pass it on to anyone he/she touches, and so on.
+Circle Dance(MoF p84) – Indicates direction to known target.
+Cloak of Bravery(CWar p117) – You and your allies gain a bonus on saves against fear.
+Cold Fire(DR312 p62) – The target fire gives off cold instead of heat for 1 minute per level –or– a creature with cold vulnerability / a fire subtype takes instantaneous damage.
+Contagion(PH p213) – Infects subject with chosen disease.
+Continual Flame(PH p213) – Makes a permanent, heatless torch.
+Create Food and Water(PH p214) – Feeds 3 humans (or 1 horse) per level.
+Cure Serious Wounds(PH p216) – Cures 3d8 damage + 1 per level (max +15).
+Dark Way(MoF p87) – Creates unbreakable bridge supporting up to 200 pounds per level.
+Darkfire(MoF p86) (LoD p186) – As Produce Flame, but dark flames visible only with darkvision.
+Daylight(PH p216) – 60’ radius of bright light.
+Deeper Darkness(PH p217) – Object sheds supernatural shadow in 60’ radius.
+Delay Death(RoD p165) – Losing hit points doesn’t kill the subject.
+Detect Metal and Minerals(RoF p189) – Reveals metal & minerals within 60’.
+Dispel Magic(PH p223)(PH3.5e)+ – Cancels magical spells and effects.
+Energize Potion(BoED p98) – Transforms a potion into a grenade that deals energy damage in a 10’ radius burst.
+Flame of Faith(CDiv p166) – Gives a weapon the Flaming Burst quality.
+Frost Breath(DR312 p64) – Everyone in the cone takes 1d4 per 2 levels (max 5d4) cold damage.
+Furnace Within(RoE p185) – Flames burst from your body, dealing 1d8 per level damage in a 10’ radius. Dwarf only.
+Glyph of Warding(PH p236) – Inscription harms those who pass it.
+Handfang(LoD p187)(RoF p190) – Biting mouth in your palm deals 1d8 damage and start a grapple.
+Heart’s Ease(BoED p100) – Remove fear, despair, confusion, insanity, and some mind-influencing effects; restores 2d4 points of temporary Wisdom damage.
+Helping Hand(PH p239) – Ghostly hand leads subject to you.
+Humanoid Essence, Lesser(RoE p187) – Imposes upon a Construct some of the weakness of the Humanoid type.
+Ice Axe(DR312 p64) – Creates a shard of ice shaped like a battleaxe blade that does slashing & cold damage, with which the caster has proficiency.
+Inflict Serious Wounds(PH p244) – Touch attack, 3d8 +1 per level (max +15).
+Insignia of Blessing(RoD p166) – Bearers of a special insignia gain +1 Morale bonus on attacks and saves against fear.
+Insignia of Healing(RoD p166) – Bearers of a special insignia are healed 1d8 + 1/lvl hit-points (max 1d8+10).
+Insignia of Warding(RoD p166) – Bearers of a special insignia gain +1 Divine bonus to AC and Fortitude saves.
+Inspired Aim(BoED p101) – Allies within 40’ gain +2 Insight bonus on ranged attack rolls.
+Invisibility Purge(PH p245) – Dispels invisibility within 5’ per level.
+Irian’s Light(RoE p188) – Ranged touch attack heals 2d8 damage, +1 ray per four levels (max 3).
+Locate Node(Und p58) – Finds closet earth node in a 1 mile per level radius.
+Locate Object(PH p249) – Senses direction toward object (specific or type).
+Magic Circle against Chaos(PH p249) – As Protection from Chaos, but 10’ radius and 10 minutes per level.
+Magic Circle against Evil(PH p249) – As Protection from Evil, but 10’ radius and 10 minutes per level.
+Magic Circle against Good(PH p250) – As Protection from Good, but 10’ radius and 10 minutes per level.
+Magic Circle against Law(PH p250) – As Protection from Law, but 10’ radius and 10 minutes per level.
+Magic Vestment(PH p251) – Armor, shield, or clothes gain +1 enhancement per four levels.
+Meld into Stone(PH p252) – You and your gear merge with stone.
+Misrepresent Alignment(RoE p188) – Projects a false alignment for an object or creature.
+Obscure Object(PH p258) – Masks object against scrying.
+Phantom Plow(LoD p187) – Creates a furrow in the earth, knocks creatures in its path prone.
+Plague Carrier(RoF p190) – As Contagion, but target is contagious during incubation period.
+Prayer(PH p264) – Allies gain +1 bonus on most rolls, enemies suffer –1 penalty.
+Protection from Energy(PH p266) – Absorb 12 damage per level from one kind of energy.
+Refreshment(BoED p105) – Cures all non-lethal damage on creatures in a 20’ radius of the caster
+Remedy Moderate Wounds(MoF p113) – Target gains fast healing 2 for 10 rounds +1 rounds/2 levels.
+Remove Blindness/Deafness(PH p270) – Cures normal or magical conditions.
+Remove Curse(PH p270) – Frees person or object from a curse.
+Remove Disease(PH p271) – Cures all diseases affecting subject.
+Remove Nausea(BoED p105) – Cure a nauseated or sickened character.
+Resist Energy, Mass(CArc p120) – Targeted creatures ignore damage from specified energy type.
+Ring of Blades(CArc p121) – Blades surround you, damaging other creatures (1d6+1/lvl damage).
+Screen of Heat(DR331 p73) – Shimmering illusion causes 25% miss chance to all attacks through it.
+Searing Light(PH p275) – Ray deals 1d8 per two levels, more against undead.
+Skull Watch(PGF p111) – Skull shrieks when creature enters warded area.
+Snake Shield(DR330 p72) – Serpentine force surrounds you and protects you from attack.
+Snowshoes, Mass(DR312 p65) – One subject per level can walk on ice & snow without falling and not leaving an obvious trail.
+Speak with Dead(PH p281) – Corpse answer one question per two levels.
+Spikes(CDiv p181) – As Brambles, but weapon gains a +2 Enhancement bonus on attacks and has a double threat range
+Stone Shape(PH p284)(PH3.5e)+ – Sculpts stone into any shape.
+Summon Monster III(PH p286) – Summons an extraplanar creature to fight for you.
+Summon Undead III(PGF p114) – Summons undead to fight for you.
+Telepathic Bond, Lesser(CDiv p158) – As Rary’s Telepathic Bond, but you and one other creature.
+Tremor(DR314 p29) – The ground shakes in a 40’ radius.
+Updraft(DR314 p40) – Caster is held up by a column of air, which can be used to negate falling or to awkwardly fly.
+Vigor(CDiv p186) (DR324 p103)+ – Creature heals 2hp per round (max 25 rounds).
+Vigor, Mass Lesser(CDiv p186) (DR324 p103)+ – As Lesser Vigor, but multiple targets (max 25 rnds).
+Visage of the Deity, Lesser(CDiv p187) – You gain +4 Charisma & resistance 10 to certain energy types.
+Vision of Fear(DR333 p73) – You gain knowledge of the target’s greatest or most recent fear.
+Water Breathing(PH p300) – Subject can breathe underwater.
+Water Walk(PH p300) – Subject treads on water as if solid.
+Weapon of Impact(MoF p134) – As Keen Edge, but aids blunt weapons.
+Wind Wall(PH p302) – Deflects arrows, smaller creatures, and gases.
+Wrack(CDiv p190) – Renders a creature helpless with pain.

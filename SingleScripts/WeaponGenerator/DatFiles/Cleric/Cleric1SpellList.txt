@@ -1,0 +1,50 @@
+Airbubble(DR314 p45) – If underwater, the caster’s head is surrounded by air for 1 minute per level.
+Bane(PH p203) – Enemies take –1 on attack rolls and saves against fear.
+Bless Water(PH p205) – Makes Holy Water.
+Bless(PH p205) – Allies gain+1 morale bonus to attacks & saves vs. fear.
+Cause Fear(PH p208) – One creature of 5HD or less flees for 1d4 rounds.
+Command(PH p211) – One subject obeys selected command for 1 round.
+Comprehend Languages(PH p212) – You understand all spoken and written languages.
+Cure Light Wounds(PH p215) – Cures 1d8 + 1 per level damage (max +5).
+Curse Water(PH p216) – Makes Unholy Water.
+Deathwatch(PH p217) – Reveals how near death subjects within 30’ are.
+Detect Chaos(PH p218) – Reveals chaotic creatures, spells, or objects.
+Detect Evil(PH p218) – Reveals evil creatures, spells, or objects.
+Detect Good(PH p219) – Reveals good creatures, spells, or objects.
+Detect Law(PH p219) – Reveals lawful creatures, spells, or objects.
+Detect Undead(PH p220) – Reveals undead within 60’.
+Divine Favor(PH p224) – You gain +1 per three levels on attack and damage rolls.
+Doom(PH p225) – One subject takes –2 on attack rolls, damage rolls, saves, and checks.
+Endure Elements(PH p226) – Exist comfortably in hot or cold environments.
+Entropic Shield(PH p227) – Ranged attacks against you suffer 20% miss chance.
+Eyes of the Avoral(BoED p99) – Subject gets +8 on Spot checks.
+Faith Healing(MoF p93) – Cures 8 hp +1/level damage (max +5) to worshiper of your patron.
+Float(DR334 p74) – Makes a willing creature or object buoyant.
+Glimpse of Fear(DR333 p71) – A flash of horror causes the target to become shaken.
+Grave Strike(CAdv p150) – Swift. You can Sneak attack Undead for 1 round.
+Hide from Undead(PH p241) – Undead can’t perceive one subject per level.
+Ice Gauntlet(DR312 p65) – One hand covered with ice, which acts like a +1 Spiked Gauntlet that does +1 Cold damage.
+Inflict Light Wounds(PH p244) – Touch deals 1d8 damage +1 per level (max +5).
+Lantern Light(BoED p101) – Ranged touch attacks deal 1d6 points of damage.
+Magic Stone(PH p251) – Three stones become +1 projectiles, 1d6+1 damage.
+Magic Weapon(PH p251) – Weapon gains +1 enhancement bonus.
+Nimbus of Light(CDiv p170) – Sunlight illuminates you until released as an attack for 1d8 +1/lvl damage.
+Obscuring Mist(PH p258) – Fog surrounds you.
+Omen of Peril(CDiv p171)(RoD p166) – You know how dangerous the future will be.
+Protection from Chaos(PH p266) – +2 bonus to AC & saves against chaos, counters mind control, & hedges out elementals & outsiders.
+Protection from Evil(PH p266) – +2 bonus to AC & saves against evil, counters mind control, & hedges out elementals & outsiders.
+Protection from Good(PH p266) – +2 bonus to AC & saves against good, counters mind control, & hedges out elementals & outsiders.
+Protection from Law(PH p266) – +2 bonus to AC & saves against law, counters mind control, & hedges out elementals & outsiders.
+Ray of Hope(BoED p105) – Subject gains +2 Morale bonus on attacks, saves, & checks.
+Remove Fear(PH p271) – Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+Resurgence(CDiv p177) – You grant a subject a second chance at a saving throw.
+Sanctuary(PH p274) – Opponents can’t attack you and you can’t attack.
+Scholar’s Touch(RoD p167) – Read book in seconds.
+Shield of Faith(PH p278) – Aura grants +2 (or higher) deflection bonus.
+Snowshoes(DR312 p65) – Subject can walk on ice & snow without falling and not leaving an obvious trail.
+Summon Monster I(PH p285) – Summons an extraplanar creature to fight for you.
+Summon Undead I(PGF p114) – Summons undead to fight for you.
+Touch of Jorasco(RoE p190) – Touch heals up to 2hp/level, divided among multiple targets.
+Vigor, Lesser(CDiv p186)(DR324 p103)+ – Creature heals 1hp per round (max 15 rounds).
+Vision of Glory(MoF p131) – Target gains +1 morale bonus on next saving throw.
+Vision of Heaven(BoED p111) – Evil creature is dazed for 1 round.

@@ -1,0 +1,26 @@
+Blink, Improved / Greater (CArc p99)UE p50)(CDiv p154) – Controlled blinking between the Material and Ethereal Planes grants defenses for 1 round per level.
+Body Harmonics(DR314 p45) – Target creature’s body vibrates, causing ability damage each round.
+Cure Light Wounds, Mass(PH p216) – Cures 1d8 damage +1 per level for many creatures.
+Dispel Magic, Greater(PH p210)(PH3.5e) – As Dispel Magic, but up to +20 on the check.
+Dream(PH p225) – Sends message to anyone sleeping.
+False Vision(PH p229) – Fools scrying with an illusion.
+Heroism, Greater(PH p285) – Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.
+Improvisation(CAdv p152) – You gain a pool of Luck bonus points equal to twice your caster level and can spend them to improve attack rolls, skill checks, and ability checks.
+Inescapable Swarm(DR333 p72) – Targets feel as though they are covered by an invisible swarm of insects.
+Leomund’s Hidden Lodge(CArc p113) – Creates a sturdy cottage camouflaged to blend into natural surroundings.
+Mind Fog(PH p253) – Subjects in fog get a –10 on Will saves & Wisdom checks.
+Mirage Arcana(PH p254) – As Hallucinatory Terrain, plus structures.
+Mislead(PH p255) – Turns you invisible and creates illusory double.
+Nightmare(PH p257) – Send vision dealing 1d10 damage, fatigue.
+Persistent Image(PH p260) – As Major Image, but no concentration required.
+Reflective Disguise, Mass(Und p61) – Viewers see subjects as their own species and gender.
+Seeming(PH p275) – Changes the appearance of one person per two levels.
+Shadow Evocation(PH p277) – Mimics evocation of lower than 5th level, but only 20% real.
+Shadow Walk(PH p277) – Step into shadow to travel rapidly.
+Song of Discord(PH p281) – Forces targets to attack each other.
+Suggestion, Mass(PH p285) – As Suggestion, plus one subject per level.
+Summon Monster V(PH p287) – Summons an extraplanar creature to fight for you.
+Telepathy Block(BoED p109) – Blocks all telepathic communication within an 80’ radius.
+Unfettered Heroism(RoE p190) – Spend more than one Action Point per round, plus gain one free Action Point per round.
+Wail of Doom(CAdv p158) – Deal 1d4 per level damage in a 30’ cone, plus targets are panicked or shaken.
+Wall of Greater Dispel Magic(Und p63) – Creatures passing through a transparent wall become subjects of targeted Greater Dispel Magic.

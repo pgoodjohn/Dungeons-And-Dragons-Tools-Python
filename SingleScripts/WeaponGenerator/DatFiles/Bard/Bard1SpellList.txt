@@ -1,0 +1,53 @@
+Accelerated Movement(CAdv p142) – Swift. Balance, Climb, or Move Silently at normal speed with no penalty on skill check.
+Alarm(PH p197) – Wards an area for 2 hours per level.
+Amplify(MoF p77) – Lowers Listen DC by 20.
+Animate Rope(PH p199) – Makes a rope move at your command.
+Appraising Touch(DR325 p70) – Grants a bonus on Appraise checks.
+Balagarn’s Iron Horn(MoF p79) – Intense vibrations trip those in the area.
+Cause Fear(PH p208) – One creature of 5HD or less flees for 1d4 rounds.
+Charm Person(PH p209) – Make one person your friend.
+Comprehend Languages(PH p212) – You understand all spoken and written languages.
+Confusion, Lesser(PH p212) – One creature acts randomly for 1 round.
+Cure Light Wounds(PH p215) – Cures 1d8 + 1 per level damage (max +5).
+Dead End(DR325 p71) – Illusions conceal the targets’ trail.
+Detect Secret Doors(PH p220) – Reveals hidden doors within 60’.
+Discern Bloodline(RoD p165) – Know the race of one creature per level.
+Disguise Self(PH p222) – Changes your appearance
+Disquietude(MoF p90) – Target avoids physical contact with others.
+Distort Speech(CAdv p145) – Subject’s speech is 50% unintelligible; subject may miscast spells.
+Distract(DR314 p20) – One creature per level has trouble concentrating & receives a –4 penalty on Concentration, Search, Spot, & Listen checks.
+Empathy(DR313 p93) – Read the emotions of one living creature; gain a +2 Competence bonus on Charisma-based skill checks against the target.
+Erase(PH p227) – Mundane or magical writing vanishes.
+Expeditious Retreat(PH p228) – Your land speed increases by 30’.
+Expeditious Retreat, Swift(CAdv p149) – Swift. Your speed increases by 30’ for 1 round.
+Feather Fall(PH p229) – Objects or creatures fall slowly.
+Focusing Chant(CAdv p149) – Gain +1 on attack rolls, skill checks, and ability checks, so long as you don’t speak or cast other spells.
+Friendly Face(RoD p166) – Gain a +5 Circumstance bonus on Diplomacy and Gather Information checks.
+Grease(PH p237) – Makes 10’ square or 1 object slippery.
+Harmony(PGF p104) – Increases Inspire Courage ability to +4/+2.
+Healthful Rest(CAdv p151) – Subjects heal at twice the normal rate.
+Herald’s Call(CAdv p151)(MoF p100) – Swift. Creatures of 5HD or less within 20’ are Slow’d for 1 round.
+Hypnotism(PH p242) – Fascinates 2d4 HD of creatures.
+Identify(PH p243) – Determines properties of a magic item.
+Inspirational Boost(CAdv p153) – Swift. The bonuses granted by you Inspire Courage ability are increased by 1.
+Joyful Noise(CAdv p154) – You negate Silence in a 10’ radius Emanation for as long as you concentrate.
+Know Protections(MoF p104) – Determine target’s defenses.
+Locate City(RoD p166) – Find nearest city.
+Magic Mouth(PH p251) – Speaks once when triggered.
+Master’s Touch(CAdv p154) – Swift. You gain proficiency in a touched weapon or shield for 1 minute per level.
+Nystul’s Magic Aura(PH p257) – Alters object’s magic aura.
+Obscure Object(PH p258) – Masks object against scrying.
+Phade’s Fearsome Aspect(DR333 p72) – The target looks like a demon, gaining a +5 bonus on Intimidate checks and can Demoralize as a Swift Action.
+Ray of Hope(BoED p105) – Subject gains +2 Morale bonus on attacks, saves, & checks.
+Remove Fear(PH p271) – Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.
+Scholar’s Touch(RoD p167) – Read book in seconds.
+Serene Visage(DR325 p72) – Grants a bonus on Bluff checks.
+Shock and Awe(DR325 p72) – Reduces a surprised creature’s initiative roll.
+Silent Image(PH p279) – Creates a minor illusion of your design.
+Sleep(PH p280) – Puts 4HD of creatures into magical slumber.
+Summon Monster I(PH p285) – Summons an extraplanar creature to fight for you.
+Tasha’s Hideous Laughter(PH p292) – Subject loses actions for 1 round per level.
+Undersong(DR328 p72) – You may make Perform checks in place of Concentration checks.
+Undetectable Alignment(PH p297) – Conceals alignment for 24 hours.
+Unseen Servant(PH p297) – Invisible force obeys your commands.
+Ventriloquism(PH p298) – Throws voice for 1 minute per level.

@@ -1,0 +1,39 @@
+Blinding Beauty(BoED p92) – You become as beautiful as a nymph, and can blind humanoids who look at you.
+Break Enchantment(PH p207) – Frees subject from enchantments, alterations, curses, and petrifaction.
+Celebration(MoF p84) – Intoxicate subjects.
+Charm Person, Mass(RoD p164)(DR312 p51) – As Charm Person, but up to 2 * Caster level of HD.
+Cure Critical Wounds(PH p215) – Cures 4d8 + 1 per level (max. +20).
+Detect Scrying(PH p219) – Alerts you to magical eavesdropping.
+Dimension Door(PH p221) – Teleports you a short distance.
+Dolorous Motes(BoED p97) – Creates clouds of flickering light (one 10’ cube per level) that dazes creatures.
+Dominate Person(PH p224) – Controls humanoid telepathically.
+Freedom of Movement(PH p233) – Subject moves normally despite impediments.
+Fugue of Tvash-Prull(DR328 p71) – Targets in a 30’ radius are hindered or harmed in a manner dictated by the caster’s Perform check.
+Hallucinatory Terrain(PH p238) – Makes one type of terrain appear like another (field into forest, or the like).
+Harmonize, Greater(RoS p162) – Bardic Music can be started as a Move Action, instead of a Standard Action. Also, maintaining Bardic Music is only a Move Action.
+Hold Monster(PH p241) – As Hold Person, but can effect any creature.
+Insidious Suggestion(RoE p187) – Suggestion repeats over and over in the target creature’s mind.
+Inspired Aim(BoED p101) – Allies within 40’ gain +2 Insight bonus on ranged attack rolls.
+Invisibility, Greater(PH p245) – As Invisibility, but subject can attack and stay invisible.
+Know Vulnerabilities(MoF p104) – Determine target’s vulnerabilities and resistances.
+Legend Lore(PH p246) – Lets you learn tales about a person, place, or thing.
+Leomund’s Secure Shelter(PH p247) – Creates study cottage.
+Listening Coin(CAdv p154) – You can eavesdrop through a magic coin.
+Locate Creature(PH p249) – Indicates direction to familiar creature.
+Modify Memory(PH p255) – Changes 5 minutes of subject’s memories.
+Neutralize Poison(PH p257) – Immunizes subject against poison, detoxifies venom in or on subject.
+Portal View(Und p60) – Turns target Portal transparent.
+Rainbow Pattern(PH p268) – Lights fascinate 24 HD of creatures.
+Repel Vermin(PH p271) – Insects, spiders, and other vermin stay 10’ away.
+Resonating Bolt(CArc p121) – Sonic energy deals 1d4 damage per level (max 10d4).
+Shadow Conjuration(PH p276) – Mimics conjuring below 4th level, but only 20% real.
+Shout(PH p279) – Deafens all within cone and deals 5d6 damage.
+Speak with Plants(PH p282) – You can talk to normal plants and plant creatures.
+Spectral Weapon(CAdv p157) – Swift. Use quasi-real weapon to make touch attacks.
+Speechlink(MoF p121) – You and the target can verbally communicate at any distance.
+Stone Shatter(MoF p124) – Shatter a stone object or creature.
+Summon Monster IV(PH p286) – Calls an extraplanar creature to fight for you.
+Unluck(CArc p128) – Target remakes all rolls, uses worst result for 1 round per level.
+Wall of Dispel Magic(Und p63) – Creatures passing through a transparent wall become subjects of targeted Dispel Magic.
+War Cry(CAdv p158)(MoF p132) – Swift. Gain +2 Morale bonus on attack and damage rolls, or +4 if you Charge, for 1 round per level. Any opponent you damage must save or become panicked for 1 round.
+Zone of Silence(PH p303) – Keeps eavesdroppers from overhearing conversations.

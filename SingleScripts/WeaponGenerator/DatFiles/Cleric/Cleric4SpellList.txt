@@ -1,0 +1,61 @@
+Aerial Summoning Dance(RoF p189) – A flying caster plus at least 4 Aarakocra (i.e., bird-men) summon a Large Air Elemental to fight for them.
+Air Walk(PH p196) – Subject treads on air as if solid (climb at 45 degree angle).
+Assay Resistance(CArc p120) – +10 bonus on caster level checks to defeat one creature’s Spell Resistance.
+Beast Claws(CDiv p151) – Your hands become slashing natural weapons.
+Blood of the Martyr(BoED p92) – You heal a target at range and take a like amount of damage.
+Camel’s Tenacity(DR331 p71) – Travel without food or water.
+Castigate(CDiv p158) – Verbal rebuke deafens all who hear and damages those whose alignment differs from yours.
+Celestial Brilliance(BoED p94) – Object sheds brilliant light to 120’, hurts undead and evil outsiders.
+Control Water(PH p214) – Raises, lowers bodies of water.
+Corona of Cold(DR312 p63) – A 10’ radius area of cold protects the caster from heat and causes damage & shivers to anyone else in the area.
+Cure Critical Wounds(PH p215) – Cures 4d8 + 1 per level (max. +20).
+Death Ward(PH p217) – Grants immunity to death spells and negative energy effects.
+Dimensional Anchor(PH p221)(PH p250)+ – Bars extradimensional movement.
+Discern Lies(PH p221) – Reveals deliberate falsehoods.
+Dismissal(PH p222) – Forces a creature to return to native plane.
+Divination(PH p224) – Provides useful advice for specific proposed actions.
+Divine Power(PH p224) – You gain attack bonus, +6 to Str, and 1 hp per level.
+Doomtide(CDiv p163)(MoF p90) – Black mist obscures vision, dazes creatures.
+Dust to Dust(RotW p174) – Disintegrate Undead with your ray attack.
+Energy Vortex(CDiv p164) – Burst of energy centered on you damages nearby creatures.
+Fang Blade(DR330 p71) – Transforms a snake into a sword that can bite and poison targets.
+Freedom of Movement(PH p233) – Subject moves normally despite impediments.
+Frostbite(DR312 p64) – One creature immediately takes cold & subdual damage from frostbite.
+Giant Vermin(PH p235) – Turns centipedes, scorpions, or spiders into giant vermin.
+Hand of Torm(MoF p99) – Immobile zone of warding stuns those of different patrons.
+Imbue with Spell Ability(PH p243) – Transfer spells to subject.
+Inflict Critical Wounds(PH p244) – Touch attack, 4d8 + 1 per level (max +20).
+Iron Bones(MoF p102) – Corporeal undead gains +5 natural armor bonus.
+Know Vulnerabilities(MoF p104) – Determine target’s vulnerabilities and resistances.
+Magic Weapon, Greater(PH p251) – +1 bonus per four levels (max +5).
+Merrshaulk’s Kiss(DR330 p71) – Enhances a number of living snakes.
+Neutralize Poison(PH p257) – Immunizes subject against poison, detoxifies venom in or on subject.
+Night’s Mantle(LoD p187) – Invisible shield protects target from sunlight.
+Nchaser’s Glowing Orb(PGF p107) – Creates permanent magical light; you control brightness.
+Planar Ally, Lesser(PH p261) – Exchange services with a 6 HD extraplanar creature.
+Poison(PH p262) – Touch deals 1d10 Constitution damage, repeats in 1 minute.
+Recitation(CDiv p176)(UE p52) – Allies gain +2 or +3 Luck bonus on attacks and saves, while enemies suffer –2 penalty on attacks & saves.
+Repel Vermin(PH p271) – Insects, spiders, and other vermin stay 10’ away.
+Remove Fatigue(BoED p105) – Removes effects of fatigue as 8 hours of sleep.
+Resurgence, Mass(CDiv p177) – As Resurgence, but multiple targets.
+Restoration(PH p272) – Restores level and ability score drains.
+Revenance(CDiv p178)(MoF p113) – Restores dead creature to life for 1 minute per level.
+Rogue Wave(DR314 p46) – Creates a wave of water on dry land or at sea which knocks down anyone in its path.
+Sending(PH p275) – Delivers a short message anywhere, instantly.
+Shape Metal(RoF p191) – Sculpts metal into any form.
+Shark Bolt(DR334 p76) – Summons sharks made of water to attack your enemies.
+Shield of Faith, Legion’s(Eb p115) – Allies gain +3 or higher AC bonus.
+Spell Immunity(PH p281) – Subject is immune to one spell per four levels.
+Stars of Arvandor(BoED p108) – Tiny starbursts each deal 1d8 damage (half non-lethal) or 1d8 (all lethal) to evil creatures.
+Status, Greater(BoED p100) – As Status, but you cast some spells through the bond.
+Stone Metamorphosis(Und p61) – Changes type of stone.
+Summon Monster IV(PH p286) – Calls an extraplanar creature to fight for you.
+Summon Undead IV(PGF p114) – Summons undead to fight for you.
+Sword of Conscience(BoED p109) – Evil creature confesses crime, takes Wisdom damage.
+Tongues(PH p294) – Speak any language.
+Wall of Chaos(MoF p131) – As Magic Circle against Law, except as a one-sided wall.
+Wall of Evil(MoF p131) – As Magic Circle against Good, except as a one-sided wall.
+Wall of Good(MoF p131) – As Magic Circle against Evil, except as a one-sided wall.
+Wall of Law(MoF p132) – As Magic Circle against Chaos, except as a one-sided wall.
+Weapon of the Deity(CDiv p188) – Gives your weapon magical powers appropriate to your patron deity.
+Weather Eye(CDiv p189) – You accurately predict weather up to one week ahead.

@@ -1,0 +1,44 @@
+Animate Objects(PH p199) – Objects attack your foes.
+Antilife Shell(PH p199) – 10’ radius field hedges out living creatures.
+Auril’s Flowers(DR312 p62) – 30’ radius of non-dry ground explodes with rocks and ice.
+Azuth’s Exalted Triad(MoF p78) – Cast a prepared spell three times.
+Banishment(PH p202) – Banishes 2 HD per level of extraplanar creatures.
+Bear’s Endurance, Mass(PH p203) – As Bear’s Endurance, affects one subject per level.
+Blade Barrier(PH p205) – Wall of blades deals 1d6 per level damage.
+Bull’s Strength, Mass(PH p207) – As Bull’s Strength, affects one subject per level.
+Celestial Blood(BoED p94) – Grant energy resistance, +4 on saves against poison, and Damage Reduction 10 / evil.
+Cold Snap(DR312 p62) – Lowers the air temperature (possibly below freezing) in a 1 mile radius area for 2d4 hours (2x for Druids).
+Cometfall(CDiv p159)(CDivErrata)+ – Comet falls atop foes, damaging them and knocking them prone.
+Create Undead(PH p215) – Create ghouls, ghasts, mummies, or mohrgs.
+Cure Moderate Wounds, Mass(PH p216) – Cures 2d8 damage +1 per level for many creatures.
+Dispel Magic, Greater(PH p210)(PH3.5e)+ – As Dispel Magic, but up to +20 on the check.
+Eagle’s Splendor, Mass(PH p225) – As Eagle’s Splendor, affects one subject per level.
+Energy Immunity(CArc p105) – Subject and equipment gain immunity to damage of a specified energy type.
+Find the Path(PH p230) – Shows most direct way to a location.
+Forbiddance(PH p232) – Blocks planar travel, damages creatures of different alignment.
+Gate Seal(FR p70) – Permanently seals a Gate or Portal.
+Geas/Quest(PH p234) – As Lesser Geas, plus it affects any creature.
+Glyph of Warding, Greater(PH p237) – As Glyph of Warding, but up to 10d8 damage or a 6th level spell.
+Harm(PH p239) – Deals 10 hp per level to target
+Heal(PH p239) – Cures 10 points per level, all diseases and mental conditions.
+Heroes’ Feast(PH p240) – Ford for one creature per level, cures, and grants combat bonuses.
+Inflict Moderate Wounds, Mass(PH p244) – Deals 2d8 + 1 / level to many creatures.
+Owl’s Wisdom, Mass(PH p259) – As Owl’s Wisdom, affects one subject per level.
+Planar Ally(PH p261) – As Planar Ally, Lesser, but up to 12 HD.
+Sarcophagus of Stone(DR313 p91) – Creates an air-tight stone sarcophagus around one target of up to Medium-size. The sarcophagus is permanent, so the target must either be freed or will suffocate.
+Secure Corpse(BoED p106) – Traps corpse inside holy symbol.
+Serpent Storm(DR330 p71) – Creates a hail of deadly serpents that bite and poison everyone in the area.
+Stone Body(PGF p113) – Your body becomes living stone.
+Stone Metamorphosis, Greater(Und p61) – Changes 10 cubic feet + 10 cubic feet per level of stone into another type of stone.
+Summon Monster VI(PH p287) – Summons an extraplanar creature to fight for you.
+Suppress Glyph(MoF p126) – You notice but do not trigger magical writing traps.
+Symbol of Fear(PH p290) – Triggered rune panics nearby creatures.
+Symbol of Persuasion(PH p290) – Triggered rune charms nearby creatures.
+Touch of Adamantine(BoED p110) – Weapon gains the properties of an adamantine weapon.
+Undeath to Death(PH p297) – Destroys 1d4 per level HD of undead (max 20d4).
+Vengeance Halo(BoED p111) – Any creature that slays the spell’s recipient takes 1d6 per level damage.
+Vigorous Circle(CDiv p187) (DR324 p103)+ – As Mass Lesser Vigor, but 3hp per round (max 40 rnds).
+Visage of the Deity(CDiv p187) – As Lesser Visage of the Deity, but you become Celestial or Fiendish.
+Wind Walk(PH p302) – You and your allies turn vaporous and travel fast.
+Word of Recall(PH p303) – Teleports you back to a designated place.
+Zealot Pact(CDiv p191) – You automatically gain combat bonuses when you attack someone of opposite alignment.

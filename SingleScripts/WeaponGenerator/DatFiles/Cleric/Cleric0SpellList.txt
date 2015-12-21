@@ -1,0 +1,12 @@
+Create Water(PH p215) – Creates 2 gallons/level of pure water.
+Cure Minor Wounds(PH p216) – Cures 1 point of damage.
+Detect Magic(PH p219) – Detects spells and magic items within 60’.
+Detect Poison(PH p219) – Detects poison in one creature or small object.
+Guidance(PH p238) – +1 on one attack roll, saving throw, or skill check.
+Inflict Minor Wounds(PH p244) – Touch attack, 1 point of damage.
+Fleeting Flame(DR326 p73) – Gives you a +2 bonus on one Bluff, Diplomacy, or Intimidate check.
+Light(PH p248) – Object shines like a torch. Mending(PH p253) – Makes minor repairs on an object.
+Purify Food and Drink(PH p267) – Purifies 1 cubic foot per level of food or water.
+Read Magic(PH p269) – Reads scrolls and spellbooks.
+Resistance(PH p272) – Subject gains +1 resistance bonus on all saving throws.
+Virtue(PH p289) – Subject gains 1 temporary hp.

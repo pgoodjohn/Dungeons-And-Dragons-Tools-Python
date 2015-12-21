@@ -1,0 +1,24 @@
+Dancing Lights(PH p216) – Creates torches or other lights.
+Daze(PH p217) – Humanoid creature of 4HD or less loses next action.
+Detect Crossroads(MoF p88) – Detect fey crossroads within 60’.
+Detect Magic(PH p219) – Detects spells and magic items within 60’.
+Flare(PH p232) – Dazzles one creature (–1 on attack rolls).
+Fleeting Flame(DR326 p73) – Gives you a +2 bonus on one Bluff, Diplomacy, or Intimidate check.
+Ghost Sound(PH p235) – Figment sounds.
+Ghostharp(MoF p97) – Object records, plays a song at your command.
+Glimpse of Fear(DR333 p71) – A flash of horror causes the target to become shaken.
+Know Direction(PH p246) – You discern north.
+Light(PH p248) – Object shines like a torch.
+Lullaby(PH p249) – Makes subject drowsy; –5 on Spot & Listen checks, –2 Will saves against Sleep.
+Mage Hand(PH p249) – 5 pound telekinesis.
+Mending(PH p253) – Makes minor repairs on an object.
+Message(PH p253) – Whispered conversation at distance.
+Minor Disguise(MoF p108) – Makes slight changes to your appearance.
+Open/Close(PH p258) – Opens or closes small or light things.
+Prestidigitation(PH p264) – Performs minor tricks.
+Read Magic(PH p269) – Reads scrolls and spellbooks.
+Resistance(PH p272) – Subject gains +1 resistance bonus on all saving throws.
+Seeker’s Chant(DR326 p74) – Gives you a +1 bonus on Search checks, but a –2 penalty on Move Silently checks.
+Songbird(MoF p120) – Perform and gain +1 Competence bonus on your next Charisma check.
+Stick(Und p61) – Glues an object weighting 5 pounds or less to a larger object.
+Summon Instrument(PH p285) – Summons one instrument of the caster’s choice.

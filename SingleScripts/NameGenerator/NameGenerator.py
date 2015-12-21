@@ -10,8 +10,6 @@
 #check out merkov chain to get it to improve https://en.wikipedia.org/wiki/Markov_chain
 
 from random import randint
-import sys
-sys.path.insert(0, '/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/')
 
 def generate(gender, race):
     #RACE == 1 IS DWARF

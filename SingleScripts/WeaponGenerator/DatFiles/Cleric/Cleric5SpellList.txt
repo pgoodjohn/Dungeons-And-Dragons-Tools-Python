@@ -1,0 +1,55 @@
+Atonement(PH p201) – Removes burden of misdeeds from subject.
+Blistering Radiance(CArc p99) – Sphere of light blinds creatures, deals 2d6 Fire damage in a 50’ radius spread.
+Break Enchantment(PH p207) – Frees subject from enchantments, alterations, curses, and petrifaction.
+Chaav’s Laugh(BoED p94) – Good creatures gain +2 on attack rolls and saves against fear, plus 1d8 temporary hp + 1 per level (max +20). Evil creatures receive a –2 penalty on attack rolls and saves against fear.
+Command, Greater(PH p211) – As Command, but affects one subject per level.
+Commune(PH p211) – Deity answers one yes-or-no question per level.
+Commune with Earth(RoF p189) – Learn about hills, mountains, and/or underground for 1⁄2 mile per level radius & 1⁄4 mile per level depth.
+Contagion, Mass(RoF p190) – Infects all targets in a 30’ area with chosen disease.
+Convert Wand(BoED p95) – Transforms a magic wand into a heal wand for 1 minute per level.
+Crawling Darkness(MoF p86)(Sav p64) – Cloud of tentacles provides concealment, skill bonuses, and several defenses.
+Crown of Flame(BoED p95) – Aura burns evil outsiders, undead, and fey for 2d6 points of damage per round.
+Cure Light Wounds, Mass(PH p216) – Cures 1d8 + 1 / level damage for many creatures.
+Dance of the Unicorn(CDiv p161) – Purifying mist washes the air clean of smoke, dust, and poisons.
+Dancing Web(BoED p96) – Energy strands deal 1d6 non-lethal damage per level plus entangles evil creatures for 1d6 rounds.
+Dispel Chaos(PH p222) – +4 bonus against attacks by chaotic creatures.
+Dispel Evil(PH p222) – +4 bonus against attacks by evil creatures.
+Dispel Good(PH p222) – +4 bonus against attacks by good creatures.
+Dispel Law(PH p222) – +4 bonus against attacks by lawful creatures.
+Disrupting Weapon(PH p223) – Melee weapon destroys undead.
+Divine Agility(CDiv p162) – You improve a creature’s Reflex save, Dexterity, and maneuverability in combat.
+Downdraft(DR314 p40) – A 20’ radius column of air forces creatures towards the ground.
+Dragon Breath(CDiv p164) – You choose a dragon type and mimic its breath weapon.
+Earth Hammer(RoS p162) – Touched weapon has its damage increased, is treated as Adamantine, and only does Bludgeoning damage. Swift.
+Energetic Healing(BoED p98) – Target is immune to one energy type and gain 10% of the energy damage as healing.
+Fallen Soul(DR312 p22) – Touch creatures is marked as having the potential to become evil. Any evil act he/she commits is rewarded by a temporary bonus to Strength, Constitution, & Charisma. If the target becomes evil, then any good acts he/she commits are punished.
+Flame Strike(PH p231) – Smites foes with divine fire (1d6 / level).
+Freeze(DR312 p63) – Ray encases the target in a block of ice for 1 round per 2 levels.
+Hallow(PH p238) – Designates location as Holy.
+Humanoid Essence(RoE p186) – Imposes upon a Construct some of the weakness of the Humanoid type.
+Incarnation of Set(DR313 p90) – The caster becomes an animal or vermin that is sacred to Set, including Snakes, Monstrous Scorpions, Crocodiles, Jackals, etc.
+Inflict Light Wounds, Mass(PH p244) – Deals 1d8 + 1 / level to many creatures.
+Insect Plague(PH p244) – Locust swarms attack creatures.
+Mark of Justice(PH p252) – Designates action that will trigger cure on subject.
+Monstrous Regeneration(MoF p109) – Grants the regeneration ability for 1 round/2 levels.
+Plane Shift(PH p262) – As many as eight subjects travel to another plane.
+Raise Dead(PH p268) – Restores life to subject who died up to 1 day per level ago.
+Righteous Might(PH p273)(PH3.5e)+ – Your size increases and you gain combat bonuses.
+Sacred Circle(DR314 p73) – All creatures standing in an immobile 10’ radius circle receive a +2 Enhancement bonus on their melee and ranged weapon attacks.
+Soul Scour(UE p52) – Touch attack causes 2d6 Charisma & 1d6 Wisdom damage immediately, and then 1d6 Charisma damage in 1 minute.
+Scrying(PH p274)(PH3.5e)+ – Spies on subject from a distance.
+Slay Living(PH p280) – Touch attack kills target.
+Spell Resistance(PH p282) – Subject gains Spell Resistance of 12 + 1 per level.
+Stalwart Pact(CDiv p181) (RoD p168) – You gain combat bonuses automatically when reduced to half hit points or lower.
+Stone Shape, Greater(Und p62) – Sculpts 10 cubic feet + 10 cubic feet per level of stone to any shape.
+Subvert Planar Essence(CDiv p183) – Reduces target’s Damage Reduction & Spell Resistance.
+Summon Monster V(PH p287) – Summons an extraplanar creature to fight for you.
+Summon Undead V(PGF p114) – Summons undead to fight for you.
+Symbol of Pain(PH p290) – Triggered rune wracks nearby creatures with pain.
+Symbol of Sleep(PH p291) – Triggered rune puts nearby creatures into a catatonic slumber.
+True Seeing(PH p296) – See all things as they really are.
+Unhallow(PH p297) – Designates location as Unholy.
+Vigor, Greater(CDiv p186) (DR324 p103)+ – Creature heals 4hp per round (max 35 rounds).
+Wall of Dispel Magic(Und p63) – Creatures passing through a transparent wall become subjects of targeted Dispel Magic.
+Wall of Stone(PH p299) – Creates a stone wall that can be shaped.
+Warding Gems(BoED p111) – Creates gems that store healing energy, encircle the target, and release their healing power on command.

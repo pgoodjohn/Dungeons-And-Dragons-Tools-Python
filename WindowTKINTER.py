@@ -104,9 +104,9 @@ class DiceRoller(tk.Frame):
                 diceNumber = self.dicesEntry.get()
                 modifier = self.modifierEntry.get()
                 if(diceNumber.isdigit()):
-                    if(modifier.isdigit()):
-                        diceNumber = int(diceNumber)
+                    try:
                         modifier = int(modifier)
+                        diceNumber = int(diceNumber)
                         diceType = self.var.get()
                         if(diceType):
                             dice = 0
@@ -123,7 +123,7 @@ class DiceRoller(tk.Frame):
                             self.text.config(state=DISABLED)
                         else:
                             showerror('Error', 'Please choose a dice type')
-                    else:
+                    except:
                         showerror('Error', 'Please insert a numeric value in the modifier field')
                 else:
                     showerror('Error', 'Please insert a numeric value in the number of dices field')
@@ -236,7 +236,7 @@ class NPCGenerator(tk.Frame):
         tk.Frame.__init__(self, root)
 
         generateFighter = Button(self, text = 'Generate Fighter', command = self.GenerateFighter)
-        generateCitizen = Button(self, text = 'Genereate Citizen', command = self.GenerateCitizen, state = DISABLED)
+        generateCitizen = Button(self, text = 'Genereate Citizen', command = self.GenerateCitizen)
         quit = Button(root, text = 'Quit', command = self.quit)
 
         self.text = Text(self)
@@ -254,14 +254,18 @@ class NPCGenerator(tk.Frame):
         #quit.grid(row = 2, column = 0, sticky = W)
 
     def GenerateFighter(self):
-        string = npc.generateFighterNPC()
+        string = npc.generateNPC(0)
         self.text.config(state=NORMAL)
         self.text.delete(1.0, END)
         self.text.insert(INSERT, string)
         self.text.config(state=DISABLED)
 
     def GenerateCitizen(self):
-        pass
+        string = npc.generateNPC(1)
+        self.text.config(state=NORMAL)
+        self.text.delete(1.0, END)
+        self.text.insert(INSERT, string)
+        self.text.config(state=DISABLED)
 
     def quit(self):
         sys.exit()
