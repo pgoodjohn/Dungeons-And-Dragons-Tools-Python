@@ -1,0 +1,117 @@
+Arcane Lock(PH p200) – Magically locks a portal or chest.
+Daggerspell Stance(CAdv p145) – Swift. You gain +2 Insight bonus on attack and damage if you make a Full Attack, Spell Resistance 5 + caster level if you Fight Defensively, and Damage Reduction 5 / magic if you use the Total Defense action.
+Dispel Ward(DR313 p90) – As Dispel Magic, but only dispels Abjuration spells cast on objects and/or areas.
+Obscure Object(PH p258) – Masks object against scrying.
+Protection from Arrows(PH p266) – Subject immune to most ranged attacks.
+Resist Energy(PH p246) – Ignores the first 10 (or more) points of damage per attack from a specified energy type.
+Blades of Fire(CArc p99) – Your melee weapons deal +1d6 Fire damage for 1 round.
+Create Magic Tattoo(PGF p101) – Subject receives a magic tattoo with various effects.
+Decastave(UE p49) – Create a quarterstaff of force for 1rnd/lvl, that does 1d6 damage on a touch attack & an extra +1d8 sonic & deafen on a critical hit.
+Fog Cloud(PH p232) – Fog obscures vision.
+Glitterdust(PH p236) – Blinds creatures, outlines invisible creatures.
+Igedrazaar’s Miasma(MoF p101) – Cloud of fog deals 1d4 subdual damage per level (max 5d4).
+Melf’s Acid Arrow(PH p253) – Ranged touch attack; 2d4 acid damage for 1 round + 1 round per 3 levels (7 rounds max).
+Summon Monster II(PH p286) – Summons an extraplanar creature to fight for you.
+Summon Swarm(PH p289) – Summons a swarm of bats, rats, or spiders.
+Summon Undead II(PGF p114) – Summons undead to fight for you.
+Unseen Crafter(RoE p191) – Invisible force obeys your command and can use the Craft skill.
+Web(PH p301) – Fills 20’ radius spread with sticky spider webs.
+Balancing Lorecall(CAdv p143) – You gain a +4 bonus on Balance checks and can balance on impossible surfaces if you have 5 or more ranks in Balance.
+Detect Thoughts(PH p220) – Allows “listening” to surface thoughts.
+Insidious Insight(RoE p187) – Gain Insight bonus on Bluff, Diplomacy, Intimidate, & Sense Motive checks against a target creature.
+Listening Lorecall(CAdv p154) – You gain a +4 bonus on Listen checks, plus Blindsense or Blindsight if you 5 or more ranks in Listen.
+Locate Node(Und p58) – Finds closet earth node in a 1 mile per level radius.
+Locate Object(PH p249) – Senses direction toward object (specific or type).
+Marked Man(DR325 p71) – Helps track a subject.
+See Invisibility(PH p275) – Reveals invisible creatures or objects.
+Vision of Fear(DR333 p73) – You gain knowledge of the target’s greatest or most recent fear.
+Daze Monster(PH3.5 217) – Living creature up to 6HD or less looses next action.
+Mindless Rage(CAdv p155) – Target compelled to attack you physically for 1 round per level.
+Nybor’s Gentle Reminder(PGF p107) – Target is dazed for 1 round, –2 on attacks, saves, and checks for 1rnd/lvl.
+Proud Arrogance(RoD p167) – Targets (who must be the same race as the caster) gain +4 Resistance bonus on saves vs. charm, compulsion, and fear.
+Tasha’s Hideous Laughter(PH p292) – Subject loses actions for 1 round per level.
+Touch of Idiocy(PH p294) – Subject takes 1d6 Intelligence, Wisdom & Charisma damage.
+Yoke of Mercy(BoED p112) – Target deals non-lethal damage.
+Aganazzar’s Scorcher(FR p66) – Path of fire deals 1d8 per 2 levels (max 5d8).
+Battering Ram(MoF p80) – Deals 1d6 damage plus bull rush.
+City Lights(RoD p164) – Absorb nearby light to release as blinding flare.
+Cloud of Bewilderment(PGF p101) – Generates a nauseating 10’ long Cone.
+Combust(MoF p85) – Target takes 2d6 fire damage +1 per level.
+Continual Flame(PH p213) – Makes a permanent, heatless torch.
+Darkness(PH p216) – 20’ radius of supernatural shadow.
+Fire Burst(CArc p107) – Subjects adjacent to the caster take 1d8/level Fire damage.
+Flame Dagger(MoF p94) – As Flame Blade, but 1d4 +1 per level (max +10).
+Flaming Sphere(PH p232) – Creates a ball of fire, 2d6 damage, lasts 1 round per level.
+Force Ladder(MoF p95) – Creates a movable ladder of force.
+Furnace Within(RoE p185) – Flames burst from your body, dealing 1d8 per level damage in a 10’ radius. Dwarf only.
+Gedlee’s Electric Loop(PGF p103) – 5’ radius burst deals 1d6 electricity damage per 2 levels (max 5d6) plus stunning.
+Geyser(DR334 p75) – Creates a line of water that deals d6 nonlethal damage +1d6/2 additional levels.
+Gust of Wind(PH p238) – Blows away or knocks down smaller creatures.
+Scorching Ray(PH p274) – Ranged touch attack, deals 4d6 fire damage, +1 ray/4 levels (max 3).
+Shatter(PH p278) – Sonic vibration damages objects or crystalline creatures.
+Snilloc’s Snowball Swarm(FR p74) – Deals 1d6 cold damage per 2 levels (max 5d6) to a 10’ radius.
+Bladeweave(CAdv p144) – Swift. Your melee attacks Daze your opponent.
+Blur(PH p206) – Attacks miss subject 20% of the time.
+Claws of Darkness(FR p67) – Your hands become reach melee touch attacks that deal 1d4 cold damage plus Slow.
+Delusions of Grandeur(DR324 p71) – Subject becomes overconfident and careless.
+Disguise Undead(MoF p89)(T&B p87) – Change appearance of one corporeal undead for 10 minutes per level.
+Hypnotic Pattern(PH p242) – Fascinates (2d4 + level) HD of creatures.
+Invisibility(PH p245) – Subject is invisible for 1 minute per level or until it attacks.
+Leomund’s Trap(PH p247) – Makes one item seem trapped.
+Magic Mouth(PH p251) – Speaks once when triggered.
+Minor Image(PH p254) – As Silent Image, plus some sound.
+Mirror Image(PH p254) – Creates decoy duplicates of you (1d4 + 1 per three levels (max 8)).
+Misdirection(PH p254) – Misleads divinations for one creature or object.
+Misrepresent Alignment(RoE p188) – Projects a false alignment for an object or creature.
+Phade’s Fearsome Aspect(DR333 p72) – The target looks like a demon, gaining a +5 bonus on Intimidate checks and can Demoralize as a Swift Action.
+Phantasmal Assailants(CArc p117) – Nightmare creatures strike target for 4 Wisdom damage and 4 Dexterity damage.
+Phantom Foe(DR324 p71) – Phantasm flanks subject.
+Reflective Disguise(Und p60) – Viewers see you as their own species and gender.
+Shadow Mask(FR p73) – Shadows hide your face and protect against darkness, light, and gazes.
+Shadow Spray(FR p74) – Shadows daze targets and deal 2 points of Strength damage.
+Wall of Gloom(CArc p129) – Shadow barrier obscures vision and deters passage.
+Blindness/Deafness(PH p206) – Makes subject blind or deaf.
+Command Undead(PH p211) – An undead creature obeys your commands.
+Death Armor(MoF p87) – Black aura does 1d4 + 1 per 2 levels (max +5) damage to creatures attacking you.
+False Life(PH p229) – Gain 1d10 +1 per level (max +10) temporary hit points.
+Ghoul Touch(PH p235) – Paralyzes one subject, who exudes stench that sickens those nearby.
+Life Bolt(MoF p105) – 1 ray per 2 levels (max 5) draws 1 hp from you to deal 2d4 damage to undead.
+Scare(PH p274) – Panics creatures up to 5HD.
+Shroud of Undeath(MoF p117) – Negative energy shroud makes undead perceive you as undead.
+Spectral Hand(PH p282) – Creates disembodied glowing hand to deliver touch attacks.
+Stolen Breath(DR314 p40) – Target living creature has its breath taken away, leaving it gasping.
+Wracking Touch(CAdv p158) – Deal 1d6 + 1 per level damage; you also deal Sneak Attack damage if you have any.
+Alter Self(PH p197) – Assume the form of a similar creature.
+Augment Familiar(CWar p116) – Your familiar becomes more powerful.
+Balagarn’s Iron Horn(MoF p79) – Intense vibrations trip those in the area.
+Bear’s Endurance(PH p203) – Subject gains +4 Constitution for 1 minute per level.
+Blindsight(PGF p100) – Subject gains blindsight 30’ for 1min/lvl.
+Body of the Sun(CDiv p155) – Your body emanates fire, dealing 1d4+1 damage.
+Bull’s Strength(PH p207) – Subject gains +4 Strength for 1 minute per level.
+Cat’s Grace(PH 3.5 p208) – Subject gains +4 Dexterity for 1 minute per level.
+Construct Essence, Lesser(RoE p184) – Grants a Living Construct qualities of the Construct type.
+Darkvision(PH p216) – See 60’ in total darkness.
+Eagle’s Splendor(PH p225) – Subject gains +4 Charisma for 1 minute per level.
+Earthen Grasp(CArc p104) – Arm made of earth and soil grapples foes.
+Fly, Swift(CAdv p149) – Swift. Gain Fly speed of 60’ for 1 round.
+Fox’s Cunning(PH p233) – Subject gains +4 Intelligence for 1 minute per level.
+Knock(PH p246) – Opens locked or magically sealed door.
+Levitate(PH p248) – Subject moves up and down at your direction.
+Lively Step(PGF p106) – You and you allies gain a +10’ increase to speed and can ‘hustle’ for an extra hour per day per level.
+Mountain Stance(DR314 p28) – The subject can root himself to the ground, making him must harder to Bull Rush, Overrun, Trip, etc.
+Owl’s Wisdom(PH p259) – Subject gains +4 Wisdom for 1 minute per level.
+Pyrotechnics(PH p267) – Turns fire into blinding light or choking smoke.
+Repair Moderate Damage(CArc p120)(Eb p114)(DR317 p36) – Restores 2d8 + 1/lvl (max +10) points of damage to a Construct.
+Returning Weapon(RotW p175) – Thrown weapon returns to thrower.
+Rope Trick(PH p273) – As many as eight creatures hide in an extradimensional space.
+Scent(CDiv p178)(CDivErrata)+ – Grants the scent ability for 1 hour/level.
+Sonic Weapon(CAdv p157) – Touched weapon deal +1d6 Sonic damage with each hit.
+Spider Climb(PH p283) – Grants ability to walk on walls & ceilings.
+Stone Bones(MoF p123) – Corporeal undead gain +3 natural armor bonus.
+Stonemantle(DR314 p29) – Target object becomes as hard as stone.
+Swim(CArc p125) – Subject gains Swim speed, +8 bonus on Swim checks.
+Venomous Volley(DR330 p73) – Cone of fangs damages and weakens targets.
+Whirling Blade(CArc p129) – Hurled slashing weapon magically attacks all foes in a 60’ line.
+Whispering Wind(PH p301) – Sends a short message one mile per level.
+Wraithstrike(CAdv p158) – Swift. Your melee attacks strike as touch attacks for 1 round.
+Familiar Pocket(CArc p106) – Garment of container becomes extradimensional safe haven for your familiar.

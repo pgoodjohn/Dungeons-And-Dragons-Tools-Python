@@ -1,0 +1,27 @@
+Balancing Lorecall(CAdv p143) – You gain a +4 bonus on Balance checks and can balance on impossible surfaces if you have 5 or more ranks in Balance.
+Barkskin(PH p202) – Grants +2 (or higher) enhancement to natural armor.
+Bear’s Endurance(PH p203) – Subject gains +4 Constitution for 1 minute per level.
+Blades of Fire(CArc p99) – Your melee weapons deal +1d6 Fire damage for 1 round.
+Briar Web(CDiv p156) – Area entangles creatures and thorns deal 2d6 damage.
+Burrow(Und p56) – Subject grows claws and gains a Burrowing speed of 10’.
+Cat’s Grace(PH 3.5 p208) – Subject gains +4 Dexterity for 1 minute per level.
+Claws of the Beast(PGF p101) – Your hands become 1d6 weapons.
+Cure Light Wounds(PH p215) – Cures 1d8 + 1 per level damage (max +5).
+Easy Climb(CAdv p147) – You make a vertical surface easy to Climb (i.e., DC 10).
+Haste, Swift(CAdv p151) – Swift. Move faster, +1 on attacks, AC, and Reflex saves.
+Hold Animal(PH p241) – Paralyzes one animal for 1 round per level.
+Listening Lorecall(CAdv p154) – You gain a +4 bonus on Listen checks, plus Blindsense or Blindsight if you 5 or more ranks in Listen.
+Nature’s Favor(CAdv p155) (CDiv p170) (CDivErrata) – A touched animal gains a Luck bonus on attack and damage rolls of +1 per three levels.
+One with the Land(MoF p111) – Link with nature gives a +2 bonus on nature-related skill checks.
+Owl’s Wisdom(PH p259) – Subject gains +4 Wisdom for 1 minute per level.
+Protection from Energy(PH p266) – Absorb 12 damage per level from one kind of energy.
+Reachwalker’s Wariness(RoE p189) – Automatically locate Aberrations within 30’.
+Scent(CDiv p178)(CDivErrata)+ – Grants the scent ability for 1 hour/level.
+Silvered Weapon(BoED p107) – Transforms one weapon into a silvered weapon.
+Snare(PH p280) – Creates a magical booby trap.
+Speak with Plants(PH p282) – You can talk to normal plants and plant creatures.
+Spike Growth(PH p283) – Creatures in area take 1d4 damage, may be slowed.
+Summon Nature’s Ally II(PH p288) – Calls creature to fight.
+Train Animal(CAdv p157) – Affected animal gains additional tricks equal to 1⁄2 caster level for 1 hour per level.
+Wind Wall(PH p302) – Deflects arrows, smaller creatures, and gases.
+Woodland Veil(RotW p176) – Blend unobtrusively into natural surroundings, along with your friends.

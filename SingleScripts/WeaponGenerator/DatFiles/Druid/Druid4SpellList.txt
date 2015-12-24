@@ -1,0 +1,40 @@
+Air Walk(PH p196) – Subject treads on air as if solid (climb at 45 degree angle).
+Antiplant Shell(PH p200) – Keeps animated plants at bay.
+Arc of Lightning(CArc p97) – Line of electricity between two creatures (1d6/level damage).
+Aspect of the Werebeast(RoE p183) – Gain bonuses from hybrid animal form.
+Blight(PH p206) – Withers one plant or deals 1d6 per level damage to a plant creature.
+Blinding Beauty(BoED p92) – You become as beautiful as a nymph, and can blind humanoids who look at you.
+Bottle of Smoke(CDiv p155) – Uncorking a bottle creates a fast horse made of smoke.
+Camouflage, Mass(CDiv p157) (MoF p106)(MoFe)+ – As Camouflage, but multiple targets.
+Chain of Eyes(CDiv p158) – You attach a magical sensor to a target, who can unwittingly pass it on to anyone he/she touches, and so on.
+Command Plants(PH p211) – Sway the actions of one or more plant creatures.
+Control Water(PH p214) – Raises, lowers bodies of water.
+Corona of Cold(DR312 p63) – A 10’ radius area of cold protects the caster from heat and causes damage & shivers to anyone else in the area.
+Cure Serious Wounds(PH p216) – Cures 3d8 damage + 1 per level (max +15).
+Desert Burial(DR331 p71) – Buries targets up to their necks in sand.
+Dispel Magic(PH p223)(PH3.5e)+ – Cancels magical spells and effects.
+Energy Vortex(CDiv p164) – Burst of energy centered on you damages nearby creatures.
+Eye of the Hurricane(DR314 p38) – The caster is surrounded by a 40’ radius sphere of hurricane- force winds, with a 10’ radius “eye” in the center. The effect moves with the caster.
+Forestfold(CAdv p149)(CDiv p166) – Gain +20 Competence bonus on Hide and Move Silently checks in one type of terrain.
+Flame Strike(PH p231) – Smites foes with divine fire (1d6 / level).
+Freedom of Movement(PH p233) – Subject moves normally despite impediments.
+Freeze(DR312 p63) – Ray encases the target in a block of ice for 1 round per 2 levels.
+Giant Vermin(PH p235) – Turns centipedes, scorpions, or spiders into giant vermin.
+Icelance(PGF p105) – Changes ice into lance, which attacks target for 5d6 damage and stuns for 1d4 rounds.
+Ice Storm(PH p243) – Hail deals 5d6 damage in cylinder 40’ across.
+Jaws of the Wolf(MoF p102) – One carving/2 levels turns into a wolf with SR 13 and frightful presence.
+Land Womb(MoF p104) – You and one creature/level hide within the earth.
+Languor(CDiv p167) – Ray slows target and diminishes its Strength.
+Murderous Mist(CDiv p169) (MoF p109)(MoFe)+ – Steam deals 2d6 damage & blinds creatures.
+Nature’s Balance(PGF p107) – You transfer 4 ability score points to the target for 10 minutes/level.
+Reincarnate(PH p270) – Brings dead subject back in a random humanoid body.
+Repel Vermin(PH p271) – Insects, spiders, and other vermin stay 10’ away.
+Rusting Grasp(PH p273) – Your touch corrodes iron and alloys.
+Scrying(PH p274)(PH3.5e)+ – Spies on subject from a distance.
+Spike Stones(PH p283) – Creatures in area take 1d8 damage, may be slowed.
+Spitting Cobra(DR330 p73) – You make ranged attacks with a snake’s venom.
+Stars of Arvandor(BoED p108) – Tiny starbursts each deal 1d8 damage (half non-lethal) or 1d8 (all lethal) to evil creatures.
+Stone Metamorphosis(Und p61) – Changes type of stone.
+Summon Nature’s Ally IV(PH p288) – Calls creature to fight.
+Wall of Water(DR314 p47) – Creates a wall of water that creatures must swim through to cross.
+Wind at Back(MoF p134) – Doubles overland speed for targets for 1 day.

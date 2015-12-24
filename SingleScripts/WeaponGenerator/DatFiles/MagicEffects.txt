@@ -1,0 +1,47 @@
+ of Powerful Strenght. Increase strength of +3.
+ of Powerful Dexterity. Increases dexterity of +3.
+ of Powerful Constitution. Increase Constitution of +3.
+ of Powerful Wisdom. Increase Wisdom of +3.
+ of Powerful Intelligence. Increase Intelligence of +3.
+ of Powerful Charisma. Increase Charisma of +3.
+ of Strength. Increase Strength of +2.
+.
+ of the Evil Slaughter. Basic attacks deal +2d6 damage to Evil targets.
+ of Detect Good. Grants the wielder the ability to Detect Good.
+ of Freezing. 25% chance of freezing an enemy for one round.
+ of Lock picking. Once per day, the wielder can pick a lock he wants for free.
+ of Invisibility. Grants invisibility to the wielder 1 minute per day.
+ of the Humanoid Slayer. Basic attacks deal +2d6 damage to humanoid targets.
+ of Detect Magic. Once a day, grants the wielder a successful action of Detect Magic.
+ of Light. Creates light in a circular region around the wielder with range 9 meters.
+ of strong Reflexes. The wielder gets a bonus of +3 to his Reflexes saving throw.
+ of strong Fortitude. The wielder gets a bonus of +3 to his Fortitude saving throw.
+ of strong Will. The wielder gets a bonus of +3 to his Will saving throw.
+ of Dexterity. Increase Dexterity of +2
+ of Revelation. Once per day, reveals to the wielder the position of all the enemies in a room.
+of Dark vision. Grants dark vision to the wielder.
+of Persuasion. Once per day, grants the ability to the wielder to obtain anything he wants from a person.
+of Transmutation. Once per day, can transmute any material into gold, the transformation will last for one hour. The amount of gold produced is equal to 1/5 of the weight of material transmuted.
+of Fortitude. The wielder gets a bonus of +2 to his Fortitude saving throw.
+of Wisdom. Increases Wisdom of +2.
+of Magic Leaking. Basic attacks have a 25% chance of inflicting Magic Leaking for 1d4 turns (1d4 damage per turn, stacking).
+of the Disorder Seeker. Basic attacks of the wielder deal +2d6 damage to neutral creatures.
+of Charisma. Increases Charisma of +2.
+of Absorption. Each time the wielder kills an enemy, this weapon gains the power of the enemy's weapons.
+of Magic Shield. Once per day, the wielder gains a Magic Shield (+3 AC) for one minute.
+.
+of Defense. +2 AC.
+of Reflexes. The wielder gets a bonus of +2 to his Reflexes saving throw.
+.
+of Life stealing. Basic attacks have 25% chance of healing the wielder of 1d4hp.
+of the Order Bringer. Basic attacks deals +2d6 vs chaotic targets.
+of Seeking the Invisible. The wielder gains the ability to see invisible things for one minute per day.
+of Detect Evil. Grants the wielder the ability to Detect Good.
+of Will. The wielder gets a bonus of +2 to his Will saving throw.
+of Spell Storing. can store any spell and launch it once per day, but it must be charged by a spell caster.
+of Rapidity. Grants the wielder the ability to perform another full attack per turn.
+of Range. Melee weapon have 1,5m of extended range; ranged weapons have 30m of extended range.
+of Sunfire. Deals 1d4 damage every turn to adjacent enemies.
+of Intelligence. Increases the Intelligence of +2.
+of Discord. Deals 1d8 extra damage, it has a 50% chance of hitting the wrong target.
+of the Diehard. Grants the wielder the feat of Diehard.

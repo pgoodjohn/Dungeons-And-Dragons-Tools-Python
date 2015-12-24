@@ -1,0 +1,24 @@
+Aura of Glory(MoF p78) – Bonus on Charisma-based skill checks, cure allies, and bolster them against fear.
+Bladebane(UE p48) – Slashing weapon becomes a bane weapon.
+Blessed Aim(CDiv p154) – +2 bonus of allies’ ranged attacks.
+Bull’s Strength(PH p207) – Subject gains +4 Strength for 1 minute per level.
+Call Mount(BoED p93) – Call your special mount, even if you have already called it today.
+Clarity of Mind(Und p57) – Grants +4 bonus on saves involving charm, compulsion, and glamer spells; reduces glamer miss chance by 10%.
+Cloak of Bravery(CWar p117) – You and your allies gain a bonus on saves against fear.
+Delay Poison(PH p217) – Stops poison from harming subject for 1 hour per level.
+Divine Insight(CAdv p147) – You gain Insight bonus of 5 + caster level on one single skill check.
+Eagle’s Splendor(PH p225) – Subject gains +4 Charisma for 1 minute per level.
+Estanna’s Stew(BoED p99) – Conjures stew the heals 1d6+1 per serving (one serving per two levels).
+Hand of Divinity(MoF p98) – Gives +2 sacred or profane bonus to worshipers of your patron.
+Insignia of Alarm(RoD p166) – Alert the bearers of a special insignia.
+Moment of Clarity(BoED p103) – Target immediately makes a new saving throw to resist a mind- affecting spell or effect.
+Owl’s Wisdom(PH p259) – Subject gains +4 Wisdom for 1 minute per level.
+Remove Paralysis(PH p271) – Frees one or more creatures from paralysis, hold, or Slow.
+Resist Energy(PH p246) – Ignores the first 10 (or more) points of damage per attack from a specified energy type.
+Righteous Fury(MoF p114) – Gain temporary hp, +2 natural armor, +2 to Strength and Dexterity. Undead that strike you take 1 point.
+Shield Other(PH p278) – You take half of subject’s damage.
+Stone Fist(RoS p163) – Caster’s fists have their damage increased, are treated as ‘armed’, and do Bludgeoning damage. Dwarves and Goliaths have their fists treated as Cold Iron.
+Strength of Stone(MoF p125) – Bull’s Strength that ends if you lose contact with the ground.
+Undetectable Alignment(PH p297) – Conceals alignment for 24 hours.
+Zeal(CDiv p191) – You move through foes to attack the enemy you want.
+Zone of Truth(PH p303) – Subjects within range cannot lie.

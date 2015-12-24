@@ -1,0 +1,101 @@
+Alarm(PH p197) – Wards an area for 2 hours per level.
+Endure Elements(PH p226) – Exist comfortably in hot or cold environments.
+Hold Portal(PH p241) – Holds one door shut.
+Ironguts(MoF p102) – Target gains +4 circumstance bonus on saving throws vs. poison.
+Protection from Chaos(PH p266) – +2 bonus to AC & saves against chaos, counters mind control, & hedges out elementals & outsiders.
+Protection from Evil(PH p266) – +2 bonus to AC & saves against evil, counters mind control, & hedges out elementals & outsiders.
+Protection from Good(PH p266) – +2 bonus to AC & saves against good, counters mind control, & hedges out elementals & outsiders.
+Protection from Law(PH p266) – +2 bonus to AC & saves against law, counters mind control, & hedges out elementals & outsiders.
+Shield(PH p278) – Invisible disc gives +4 Shield bonus to AC and blocks Magic Missiles.
+Airbubble(DR314 p45) – If underwater, the caster’s head is surrounded by air for 1 minute per level.
+Corrosive Grasp(MoF p85) – 1 touch per level deals 1d6+1 acid damage.
+Deep Breath(DR314 p46) – Caster’s lungs constantly refill with air.
+Grease(PH p237) – Makes 10’ square or 1 object slippery.
+Hail of Stone(Und p58) – Stones deal 1d4/level (max 5d4) damage to creatures in the area.
+Mage Armor(PH p249) – Gives subject +4 armor bonus.
+Mount(PH p256) – Summons riding horse for 2 hours per level.
+Obscuring Mist(PH p258) – Fog surrounds you.
+Orb of Acid, Lesser(CArc p115) – Ranged touch attack deals 1d8 Acid damage + 1d8 per two levels beyond 1st (max 5d8).
+Orb of Cold, Lesser(CArc p116) – Ranged touch attack deals 1d8 Cold damage + 1d8 per two levels beyond 1st (max 5d8).
+Orb of Electricity, Lesser(CArc p116) – Ranged touch attack deals 1d8 Electricity damage + 1d8 per two levels beyond 1st (max 5d8).
+Orb of Fire, Lesser(CArc p116) – Ranged touch attack deals 1d8st Fire damage + 1d8 per two levels beyond 1 (max 5d8).
+Orb of Sound, Lesser(CArc p116) – Ranged touch attack deals 1d6 Sonic damage + 1d6 per two levels beyond 1st (max 5d6).
+Summon Monster I(PH p285) – Summons an extraplanar creature to fight for you.
+Summon Undead I(PGF p114) – Summons undead to fight for you.
+Unseen Servant(PH p297) – Invisible force obeys your commands.
+Appraising Touch(DR325 p70) – Grants a bonus on Appraise checks.
+Arrow Mind(CAdv p143) – Immediate. You threaten nearby squares with your bow and fire without provoking attacks of opportunity.
+Comprehend Languages(PH p212) – You understand all spoken and written languages.
+Critical Strike(CAdv p145) – Swift. For 1 round you gain +1d6 damage, doubled threat range, and +4 on attack rolls to confirm critical hits.
+Detect Secret Doors(PH p220) – Reveals hidden doors within 60’.
+Detect Undead(PH p220) – Reveals undead within 60’.
+Discern Bloodline(RoD p165) – Know the race of one creature per level.
+Empathy(DR313 p93) – Read the emotions of one living creature; gain a +2 Competence bonus on Charisma-based skill checks against the target.
+Golem Strike(CAdv p149) – Swift. You can Sneak Attack Constructs for 1 round.
+Guided Shot(CAdv p150) – Swift. You ignore distance penalties with your ranged attacks for 1 round.
+Identify(PH p243) – Determines properties of a magic item.
+Insightful Feint(CAdv p153) – Swift. Gain +10 on your next Bluff check to Feint in combat.
+Instant Search(CAdv p153) – Swift. Make Search check at +2 as a Free Action.
+Know Protections(MoF p104) – Determine target’s defenses.
+Locate City(RoD p166) – Find nearest city.
+Magecraft(Eb p113) – +5 Competence bonus on one Craft check.
+Master’s Touch(CAdv p154) – Swift. You gain proficiency in a touched weapon or shield for 1 minute per level.
+Scholar’s Touch(RoD p167) – Read book in seconds.
+Sniper’s Shot(CAdv p157) – Swift. No range limit on next ranged sneak attack.
+Spontaneous Search(DR325 p72) – Searches a 30’ cube area in 1 round.
+True Strike(PH p296) – Add +20 insight bonus to your next attack roll.
+Charm Person(PH p209) – Make one person your friend.
+Distract(DR314 p20) – One creature per level has trouble concentrating & receives a –4 penalty on Concentration, Search, Spot, & Listen checks.
+Distract Assailant(CAdv p146) – Swift. One creature is flat-footed for 1 round.
+Hypnotism(PH p242) – Fascinates 2d4 HD of creatures.
+Shock and Awe(DR325 p72) – Reduces a surprised creature’s initiative roll.
+Sleep(PH p280) – Puts 4HD of creatures into magical slumber.
+Burning Hands(PH p207) – 1d4 fire damage per level (max 5d4).
+Forcewave(MoF p95) – Deals 1d4+1 damage plus bull rush.
+Horizikaul’s Boom(MoF p100) – Target takes 1d4 sonic damage per 2 levels (max 5d4), plus deafness.
+Ice Dagger(MoF p101) – Grenade-like weapon deals target 1d4 cold damage per caster level (max 5d4), plus area damage.
+Lantern Light(BoED p101) – Ranged touch attacks deal 1d6 points of damage.
+Magic Missile(PH p251) – 1d4+1 force damage; +1 missile per two levels above 1st (max 5 missiles)
+Shelgarn’s Persistent Blade(MoF p117) – Blade of force attacks target, automatically flanks.
+Shocking Grasp(PH p279) – Touch delivers 1d6 per level (max 5d6) of electricity damage.
+Snilloc’s Snowball(UE p52) – Creates an orb of cold that can be used for a touch attack or thrown once per level (up to 5). Does 1d6 +1/lvl cold damage (max 1d6+5).
+Tenser’s Floating Disk(PH p294) – 3’ diameter horizontal disk that holds 100 pounds per level.
+Color Spray(PH p210) – Knocks unconscious, blinds, or stuns weak creatures.
+Dead End(DR325 p71) – Illusions conceal the targets’ trail.
+Disguise Self(PH p222) – Changes your appearance
+Friendly Face(RoD p166) – Gain a +5 Circumstance bonus on Diplomacy and Gather Information checks.
+Glimpse of Fear(DR333 p71) – A flash of horror causes the target to become shaken.
+Net of Shadows(MoF p110) – Ordinary shadows that provide 90% concealment to all in the area.
+Nystul’s Magic Aura(PH p257) – Alters object’s magic aura.
+Serene Visage(DR325 p72) – Grants a bonus on Bluff checks.
+Silent Image(PH p279) – Creates a minor illusion of your design.
+Ventriloquism(PH p298) – Throws voice for 1 minute per level.
+Backbiter(CArc p98) – Wooden-hafted weapon strikes wielder.
+Cause Fear(PH p208) – One creature of 5HD or less flees for 1d4 rounds.
+Chill Touch(PH p209) – 1 touch per level deals 1d6 damage and possibly 1 Strength damage.
+Ray of Enfeeblement(PH p260) – Ray reduces Strength by 1d6 points +1 per 2 levels (max +5).
+Spirit Worm(MoF p123) – Target takes 1 point of Constitution damage every round for 1 round per level (max 5).
+Accelerated Movement(CAdv p142) – Swift. Balance, Climb, or Move Silently at normal speed with no penalty on skill check.
+Animate Rope(PH p199) – Makes a rope move at your command.
+Enlarge Person(PH p226) – Humanoid creature doubles in size.
+Erase(PH p227) – Mundane or magical writing vanishes.
+Expeditious Retreat(PH p228) – Your land speed increases by 30’.
+Expeditious Retreat, Swift(CAdv p149) – Swift. Your speed increases by 30’ for 1 round.
+Extend Shifting(RoE p185) – Extend duration of Shifting racial ability by 4 rounds.
+Eyes of the Avoral(BoED p99) – Subject gets +8 on Spot checks.
+Feather Fall(PH p229) – Objects or creatures fall slowly.
+Fist of Stone(CArc p107) – Gain +6 Strength and Natural Slam Attack.
+Float(DR334 p74) – Makes a willing creature or object buoyant.
+Jump(PH p246) – Subject gains bonus on Jump checks.
+Kaupaer’s Skittish Nerves(MoF p103) – Target gains +5 bonus on initiative checks.
+Laeral’s Cutting Hand(MoF p104) – Your hand gains a +2 enhancement bonus and is considered armed.
+Launch Item(MoF p105) – Hurls Fine-sized item (10 pounds or less) up to 400’ + 40’ per level.
+Low-Light Vision(CArc p113) – See twice as far as a Human in poor illumination.
+Magic Weapon(PH p251) – Weapon gains +1 enhancement bonus.
+Raging Flame(DR314 p21) – A non-magical fire burns twice as bright, twice as hot, but half as long.
+Reduce Person(PH p269) – Humanoid creature is halved in size.
+Repair Light Damage(CArc p120)(Eb p114)(DR317 p35) – Restores 1d8 + 1/lvl (max +5) points of damage to a Construct.
+Scatterspray(FR p73)(DR317 p36) – A collection of small objects (stones, apples, etc.) fly in a 10’ radius burst, doing lethal or nonlethal damage, as appropriate.
+Shifter Prowess(RoE p190) – Shifter racial bonuses to skills increase to +8 while shifting.
+Slow Burn(DR314 p21) – A non-magical fire burns twice as long with the same amount of fuel, & is hard to put out.
+Speed Swim(MoF p121) – Target gains swim speed 30’.

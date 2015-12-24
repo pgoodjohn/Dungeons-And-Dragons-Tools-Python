@@ -1,0 +1,29 @@
+Blade Storm(CAdv p144) – Swift. You make melee attacks against every foe you threaten.
+Blade Thirst(MoF p82) – Slashing weapon glows and gains +3 enhancement bonus.
+Bottle of Smoke(CDiv p155) – Uncorking a bottle creates a fast horse made of smoke.
+Command Plants(PH p211) – Sway the actions of one or more plant creatures.
+Cure Moderate Wounds(PH p216) – Cures 2d8 damage +1 per level (max +10).
+Darkvision(PH p216) – See 60’ in total darkness.
+Decoy Image(MoF p88) – Figment mimics you and allies.
+Detect Favored Enemy(CDiv p162) – You know if your favored enemies are within 60’.
+Diminish Plants(PH p221) – Reduces size or blights growth of normal plants.
+Earth Hammer(RoS p162) – Touched weapon has its damage increased, is treated as Adamantine, and only does Bludgeoning damage. Swift.
+Fang Blade(DR330 p71) – Transforms a snake into a sword that can bite and poison targets.
+Forestfold(CAdv p149)(CDiv p166) – Gain +20 Competence bonus on Hide and Move Silently checks in one type of terrain.
+Inspired Aim(BoED p101) – Allies within 40’ gain +2 Insight bonus on ranged attack rolls.
+Living Prints(MoF p106) – You perceive tracks as if they had just been made.
+Magic Fang, Greater(PH p250) – One natural weapon of subject creature gets +1 per three levels to attack and damage rolls –or– all the subject’s natural weapons get a +1 bonus.
+Mark of the Hunter(CDiv p168) – Rune on creature makes it easier to track and attack.
+Neutralize Poison(PH p257) – Immunizes subject against poison, detoxifies venom in or on subject.
+Phantasmal Decoy(CDiv p172) – Creates illusory enemy for a foe to chase.
+Plant Growth(PH p262) – Grows vegetation, improves crops.
+Reduce Animal(PH p269) – Shrinks one willing animal.
+Remove Disease(PH p271) – Cures all diseases affecting subject.
+Repel Vermin(PH p271) – Insects, spiders, and other vermin stay 10’ away.
+Safe Clearing(MoF p114) – As Sanctuary, but protects an area and lasts 1 hour/level.
+Snowshoes, Mass(DR312 p65) – One subject per level can walk on ice & snow without falling and not leaving an obvious trail.
+Summon Nature’s Ally III(PH p288) – Calls creature to fight.
+Tree Shape(PH p296) – You look exactly like a tree for 1 hour per level.
+Tremorsense(Und p62) – Grants tremorsense out to 30’.
+Water Walk(PH p300) – Subject treads on water as if solid.
+Wild Instincts(RoE p191) – You gain a +10 Insight bonus on Listen & Spot checks –and– do not loose your Dex bonus to AC when flat-footed or fighting an unseen opponent.

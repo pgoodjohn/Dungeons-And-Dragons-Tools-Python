@@ -1,0 +1,59 @@
+Affliction(BoED p89) – Infects an Evil subject with a chosen Affliction (a disease that only affect Evil creatures).
+Beast Claws(CDiv p151) – Your hands become slashing natural weapons.
+Call Lightning(PH p207) – Calls down lightning bolts (3d6 per bolt) from the sky.
+Camel’s Tenacity(DR331 p71) – Travel without food or water.
+Capricious Zephyr(DR314 p38) – Creates a ball of spinning wind that the caster can move around. Any creature touched by it receives a Bull Rush.
+Circle Dance(MoF p84) – Indicates direction to known target.
+Contagion(PH p213) – Infects subject with chosen disease.
+Crushing Coils(DR330 p70) – Teleport constrictor to crush opponent.
+Cure Moderate Wounds(PH p216) – Cures 2d8 damage +1 per level (max +10).
+Daylight(PH p216) – 60’ radius of bright light.
+Diminish Plants(PH p221) – Reduces size or blights growth of normal plants.
+Dominate Animal(PH p224) – Subject animal obeys silent mental commands.
+Energize Potion(BoED p98) – Transforms a potion into a grenade that deals energy damage in a 10’ radius Burst.
+Enhanced Shifting(RoE p184) – Gain bonuses for the duration of the current use of your racial Shifting ability.
+Entangling Staff(CAdv p147) – Swift. Quarterstaff gains improved grab and can constrict grappled foes.
+Fang Blade(DR330 p71) – Transforms a snake into a sword that can bite and poison targets.
+Fire Wings(CDiv p165) – Your arms become wings that enable flight & deal 2d6 fire damage.
+Fly, Swift(CAdv p149) – Swift. Gain Fly speed of 60’ for 1 round.
+Frost Breath(DR312 p64) – Everyone in the cone takes 1d4 per 2 levels (max 5d4) cold damage.
+Frostbite(DR312 p64) – One creature immediately takes cold & subdual damage from frostbite.
+Geyser(DR334 p75) – Creates a line of water that deals d6 nonlethal damage +1d6/2 additional levels.
+Greenfire(UE p50) – 2d6 + 1/lvl (max 2d6 +10) acid damage to one contiguous 5’ cube per level. Caster can cause plants to ignore the damage.
+Infestation of Maggots(CDiv p166)(MoF p102) – Maggot-like creatures deal 1d4 Constitution damage every round.
+Lash of the Kraken(DR334 p75) – Transforms the caster’s arm into a constricting tentacle.
+Magic Fang, Greater(PH p250) – One natural weapon of subject creature gets +1 per three levels to attack and damage rolls –or– all the subject’s natural weapons get a +1 bonus.
+Meld into Stone(PH p252) – You and your gear merge with stone.
+Merrshaulk’s Kiss(DR330 p71) – Enhances a number of living snakes.
+Neutralize Poison(PH p257) – Immunizes subject against poison, detoxifies venom in or on subject.
+Phantom Plow(LoD p187) – “Plow” a furrow 20’ long per level. Anyone standing in its path must make a Balance check to avoid falling. Underground creatures take 4d4 damage.
+Plague Carrier(RoF p190) – Infects touched target with a chosen disease that is not noticeable immediately, but is infectious.
+Plant Growth(PH p262) – Grows vegetation, improves crops.
+Poison(PH p262) – Touch deals 1d10 Constitution damage, repeats in 1 minute.
+Protection from Energy(PH p266) – Absorb 12 damage per level from one kind of energy.
+Quench(PH p267) – Extinguishes nonmagical fires or one magic item.
+Quillfire(MoF p112) – Your hand sprouts poisonous quills useful for melee or ranged attacks.
+Remove Disease(PH p271) – Cures all diseases affecting subject.
+Resist Energy, Mass(CArc p120) – Targeted creatures ignore damage from specified energy type.
+Rogue Wave(DR314 p46) – Creates a wave of water on dry land or at sea which knocks down anyone in its path.
+Screen of Heat(DR331 p73) – Shimmering illusion causes 25% miss chance to all attacks through it.
+Sleet Storm(PH p280) – Hampers vision and movement.
+Snake Shield(DR330 p72) – Serpentine force surrounds you and protects you from attack.
+Snakebite(MoF p120) – Your arm turns into poisonous snake you can use to attack.
+Snare(PH p280) – Creates a magical booby trap.
+Speak with Plants(PH p282) – You can talk to normal plants and plant creatures.
+Spiderskin(Und p61) – Subject gains increasing bonus of natural armor bonus, saves against poison, and Hide checks.
+Spike Growth(PH p283) – Creatures in area take 1d4 damage, may be slowed.
+Spikes(CDiv p181) – As Brambles, but weapon gains a +2 Enhancement bonus on attacks and has a double threat range.
+Standing Wave(CDiv p182) – Magically propels boat or swimming creature.
+Stone Shape(PH p284)(PH3.5e)+ – Sculpts stone into any shape.
+Summon Nature’s Ally III(PH p288) – Calls creature to fight.
+Thornskin(CArc p127) – Your Unarmed attacks deal +1d6 damage; natural and unarmed attacks against you take 1d4 damage.
+Tremor(DR314 p29) – The ground shakes in a 40’ radius.
+Updraft(DR314 p40) – Caster is held up by a column of air, which can be used to negate falling or to awkwardly fly.
+Vigor(CDiv p186) (DR324 p103)+ – Creature heals 2hp per round (max 25 rounds).
+Vigor, Mass Lesser(CDiv p186) (DR324 p103)+ – As Lesser Vigor, but multiple targets (max 25 rnds).
+Walk the Mountain’s Path(RoS p163) – Touched creature can go up slopes without slowing down, gains a Climb speed, and receives a +10 on Balance and Jump checks.
+Water Breathing(PH p300) – Subject can breathe underwater.
+Weather Eye(CDiv p189) – You accurately predict weather up to one week ahead.
+Wind Wall(PH p302) – Deflects arrows, smaller creatures, and gases.

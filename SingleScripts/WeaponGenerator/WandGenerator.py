@@ -1,7 +1,7 @@
 '''
  ___  _____     Python - Wand Generator - v 1.0
-|    |_   _|
-|   _  | |
+|    |_   _|    To do:
+|   _  | |            -
 |___|  | |
       /_ /      Pietro Goodjohn Bongiovanni - December 2015
 '''
@@ -9,75 +9,180 @@
 from random import randint
 
 def generateWand():
-    '''
-    Druid /Warrior / Thief / Mage / Monk / Paladin / Ranger / Wizard
-    '''
-    dice = randint(1,2)
+    dice = randint(1,5)
     #BARD
     if dice == 1:
-        dice = randint(0,6)
-        if(dice == 0):
-            bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard0SpellList.txt", 'r')]
-            spell = 'Lvl 0 '
-        elif(dice == 1):
-            bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard1SpellList.txt", 'r')]
-            spell = 'Lvl 1 '
-        elif(dice == 2):
-            bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard2SpellList.txt", 'r')]
-            spell = 'Lvl 2 '
-        elif(dice == 3):
-            bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard3SpellList.txt", 'r')]
-            spell = 'Lvl 3 '
-        elif(dice == 4):
-            bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard4SpellList.txt", 'r')]
-            spell = 'Lvl 4 '
-        elif(dice == 5):
-            bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard5SpellList.txt", 'r')]
-            spell = 'Lvl 5 '
-        elif(dice == 6):
-            bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard6SpellList.txt", 'r')]
-            spell = 'Lvl 6 '
+        dice = randint(0,100)
+        if(dice < 50):
+            try:
+                bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard0SpellList.txt", 'r')]
+            except:
+                bard = 'Error opening the file for Bard Level 0 Spells'
+        elif(dice >= 50 and dice < 75):
+            try:
+                bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard1SpellList.txt", 'r')]
+            except:
+                bard = 'Error opening the file for Bard Level 1 Spells'
+        elif(dice >= 75 and dice < 90):
+            try:
+                bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard2SpellList.txt", 'r')]
+            except:
+                bard = 'Error opening the file for Bard Level 2 Spells'
+        elif(dice >= 90 and dice < 95):
+            try:
+                bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard3SpellList.txt", 'r')]
+            except:
+                bard = 'Error opening the file for Bard Level 3 Spells'
+        elif(dice >= 95):
+            try:
+                bard = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Bard/Bard4SpellList.txt", 'r')]
+            except:
+                bard = 'Error opening the file for Bard Level 4 Spells'
         else:
-            bard = 'derp'
+            bard = 'Error with a dice.'
             return bard
         dice = randint(0, len(bard)-1)
-        spell = spell + bard[dice]
+        spell = bard[dice]
     #CLERIC
     elif dice == 2:
-        dice = randint(0,9)
-        if(dice == 0):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric0SpellList.txt", 'r')]
-            spell = 'Lvl 0 '
-        elif(dice == 1):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric1SpellList.txt", 'r')]
-            spell = 'Lvl 1 '
-        elif(dice == 2):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric2SpellList.txt", 'r')]
-            spell = 'Lvl 2 '
-        elif(dice == 3):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric3SpellList.txt", 'r')]
-            spell = 'Lvl 3 '
-        elif(dice == 4):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric4SpellList.txt", 'r')]
-            spell = 'Lvl 4 '
-        elif(dice == 5):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric5SpellList.txt", 'r')]
-            spell = 'Lvl 5 '
-        elif(dice == 6):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric6SpellList.txt", 'r')]
-            spell = 'Lvl 6 '
-        elif(dice == 7):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric7SpellList.txt", 'r')]
-            spell = 'Lvl 7 '
-        elif(dice == 8):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric8SpellList.txt", 'r')]
-            spell = 'Lvl 8 '
-        elif(dice == 9):
-            cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric9SpellList.txt", 'r')]
-            spell = 'Lvl 9 '
+        dice = randint(0,100)
+        if(dice < 50):
+            try:
+                cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric0SpellList.txt", 'r')]
+            except:
+                cleric = 'Error opening the file for Cleric Level 0 Spells'
+        elif(dice >= 50 and dice < 75):
+            try:
+                cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric1SpellList.txt", 'r')]
+            except:
+                cleric = 'Error opening the file for Cleric Level 1 Spells'
+        elif(dice >= 75 and dice < 90):
+            try:
+                cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric2SpellList.txt", 'r')]
+            except:
+                cleric = 'Error opening the file for Cleric Level 2 Spells'
+        elif(dice >= 90 and dice < 95):
+            try:
+                cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric3SpellList.txt", 'r')]
+            except:
+                cleric = 'Error opening the file for Cleric Level 3 Spells'
+        elif(dice >= 95):
+            try:
+                cleric = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Cleric/Cleric4SpellList.txt", 'r')]
+            except:
+                cleric = 'Error opening the file for Cleric Level 4 Spells'
         else:
             cleric = 'derp'
         dice = randint(0, len(cleric)-1)
-        spell = spell + cleric[dice]
-
+        spell = cleric[dice]
+    #DRUID
+    elif dice == 3:
+        dice = randint(0,100)
+        if(dice < 50):
+            try:
+                druid = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Druid/Druid0SpellList.txt", 'r')]
+            except:
+                druid = 'Error opening the file for Druid Level 0 Spells'
+        elif(dice >= 50 and dice < 75):
+            try:
+                druid = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Druid/Druid1SpellList.txt", 'r')]
+            except:
+                druid = 'Error opening the file for Druid Level 1 Spells'
+        elif(dice >= 75 and dice < 90):
+            try:
+                druid = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Druid/Druid2SpellList.txt", 'r')]
+            except:
+                druid = 'Error opening the file for Druid Level 2 Spells'
+        elif(dice >= 90 and dice < 95):
+            try:
+                druid = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Druid/Druid3SpellList.txt", 'r')]
+            except:
+                druid = 'Error opening the file for Druid Level 3 Spells'
+        elif(dice >= 95):
+            try:
+                druid = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Druid/Druid4SpellList.txt", 'r')]
+            except:
+                druid = 'Error opening the file for Druid Level 4 Spells'
+        dice = randint(0, len(druid)-1)
+        spell = druid[dice]
+    #PALADIN
+    elif dice == 4:
+        dice = randint(0, 100)
+        if(dice < 50):
+            try:
+                paladin = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Paladin/Paladin1SpellList.txt", 'r')]
+            except:
+                paladin = 'Error opening the file for Paladin Level 1 Spells'
+        elif(dice >= 50 and dice < 80):
+            try:
+                paladin = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Paladin/Paladin2SpellList.txt", 'r')]
+            except:
+                paladin = 'Error opening the file for Paladin Level 2 Spells'
+        elif(dice >= 80 and dice < 95):
+            try:
+                paladin = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Paladin/Paladin3SpellList.txt", 'r')]
+            except:
+                paladin = 'Error opening the file for Paladin Level 3 Spells'
+        elif(dice >= 95):
+            try:
+                paladin = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Paladin/Paladin4SpellList.txt", 'r')]
+            except:
+                paladin = 'Error opening the file for Paladin Level 4 Spells'
+        dice = randint(0, len(paladin)-1)
+        spell = paladin[dice]
+    #RANGER
+    elif dice == 4:
+        dice = randint(0, 100)
+        if(dice < 50):
+            try:
+                ranger = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Paldin/Ranger1SpellList.txt", 'r')]
+            except:
+                ranger = 'Error opening the file for Ranger Level 1 Spells'
+        elif(dice >= 50 and dice < 75):
+            try:
+                ranger = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Paladin/Ranger2SpellList.txt", 'r')]
+            except:
+                ranger = 'Error opening the file for Ranger Level 2 Spells'
+        elif(dice >= 80 and dice < 95):
+            try:
+                ranger = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Paladin/Ranger3SpellList.txt", 'r')]
+            except:
+                ranger = 'Error opening the file for Ranger Level 3 Spells'
+        elif(dice >= 95):
+            try:
+                ranger = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Paladin/Ranger4SpellList.txt", 'r')]
+            except:
+                ranger = 'Error opening the file for Ranger Level 4 Spells'
+        dice = randint(0, len(ranger)-1)
+        spell = ranger[dice]
+    #MAGE/WIZARD
+    elif dice == 5:
+        dice = randint(0,100)
+        if(dice < 50):
+            try:
+                mage = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Mage/Mage0SpellList.txt", 'r')]
+            except:
+                mage = 'Error opening the file for Mage/Wizard Level 0 Spells'
+        elif(dice >= 50 and dice < 75):
+            try:
+                mage = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Mage/Mage1SpellList.txt", 'r')]
+            except:
+                mage = 'Error opening the file for Mage/Wizard Level 1 Spells'
+        elif(dice >= 75 and dice < 90):
+            try:
+                mage = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Mage/Mage2SpellList.txt", 'r')]
+            except:
+                mage = 'Error opening the file for Mage/Wizard Level 2 Spells'
+        elif(dice >= 90 and dice < 95):
+            try:
+                mage = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Mage/Mage3SpellList.txt", 'r')]
+            except:
+                mage = 'Error opening the file for Mage/Wizard Level 3 Spells'
+        elif(dice >= 95):
+            try:
+                mage = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator/DatFiles/Mage/Mage4SpellList.txt", 'r')]
+            except:
+                mage = 'Error opening the file for Mage/Wizard Level 4 Spells'
+        dice = randint(0, len(mage)-1)
+        spell = mage[dice]
     return spell

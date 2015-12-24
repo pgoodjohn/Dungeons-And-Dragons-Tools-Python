@@ -1,0 +1,67 @@
+Animal Messenger(PH p198) – Sends a Tiny animal to a specific place.
+Animal Trance(PH p198) – Fascinates 2d6 HD of animals.
+Animate Fire(CArc p96) – Turn Small or smaller fire into an animated object.
+Balancing Lorecall(CAdv p143) – You gain a +4 bonus on Balance checks and can balance on impossible surfaces if you have 5 or more ranks in Balance.
+Barkskin(PH p202) – Grants +2 (or higher) enhancement to natural armor.
+Bear’s Endurance(PH p203) – Subject gains +4 Constitution for 1 minute per level.
+Blinding Spittle(PGF p100) – Ranged touch attack makes subject blind.
+Blindsight(PGF p100) – Subject gains blindsight 30’ for 1min/lvl.
+Blood Frenzy(MoF p82) – Rage gives +2 to Strength and Constitution, +1 on Will saves, and –1 to AC.
+Body of the Sun(CDiv p155) – Your body emanates fire, dealing 1d4+1 damage.
+Brambles(CDiv p156) – Wood weapon grows spikes that deal +1 damage per caster level (max +10).
+Branch to Branch(CAdv p144)(MoF p83) – You gain +10 Competence bonus on Climb checks in trees and can brachiate through forest.
+Briar Web(CDiv p156) – Area entangles creatures and thorns deal 2d6 damage.
+Bull’s Strength(PH p207) – Subject gains +4 Strength for 1 minute per level.
+Burrow(Und p56) – Subject grows claws and gains a Burrowing speed of 10’.
+Cat’s Grace(PH 3.5 p208) – Subject gains +4 Dexterity for 1 minute per level.
+Chameleon(CArc p100) – Subject gets +10 on Hide checks.
+Chill Metal(PH p209) – Cold metal damages those who touch it.
+Cloudburst(CDiv p158)(MoF p84)(MoFe)+ – Rain obscures vision, extinguishes fires, and hampers missiles.
+Cold Fire(DR312 p62) – The target fire gives off cold instead of heat for 1 minute per level –or– a creature with cold vulnerability / a fire subtype takes instantaneous damage.
+Creeping Cold(CDiv p159) – Creature feels chill that increases with each round.
+Daggerspell Stance(CAdv p145) – Swift. You gain +2 Insight bonus on attack and damage if you make a Full Attack, Spell Resistance 5 + caster level if you Fight Defensively, and Damage Reduction 5 / magic if you use the Total Defense action.
+Decomposition(CDiv p161) – Wounds deal 1 extra point of damage each round.
+Delay Poison(PH p217) – Stops poison from harming subject for 1 hour per level.
+Earthen Grace(DR314 p28) – The subject only take nonlethal damage from stone & earth attacks.
+Earthfast(MoF p90) – Double hardness and hit points for stone structures or rock formation.
+Easy Trail(CAdv p147)(MoF p91) – You make a temporary trail through any kind of undergrowth.
+Embrace the Wild(CAdv p147) (MotW p87)(Sav p65) – You gain an animal’s sense for 10 minutes per level. Estanna’s Stew(BoED p99) – Conjures stew the heals 1d6+1 per serving (one serving per two levels).
+Fire Trap(PH p231) – Opened object deals 1d4 + 1 per level fire damage.
+Flame Blade(PH p231) – Touch attack deals 1d8 + 1 per 2 levels damage.
+Flaming Sphere(PH p232) – Creates a ball of fire, 2d6 damage, lasts 1 round per level.
+Fog Cloud(PH p232) – Fog obscures vision. Gust of Wind(PH p238) – Blows away or knocks down smaller creatures.
+Healing Lorecall(CAdv p151) – If you have 5 or more ranks in Heal, you can remove harmful conditions with Conjuration (healing) spells.
+Heartfire(DR314 p20) – Intelligent creatures in a 5’ burst are covered with flames, which cause damage and negate Blur, Invisibility, etc.
+Heat Metal(PH p239) – Makes metal so hot it damages those who touch it.
+Hold Animal(PH p241) – Paralyzes one animal for 1 round per level.
+Listening Lorecall(CAdv p154) – You gain a +4 bonus on Listen checks, plus Blindsense or Blindsight if you 5 or more ranks in Listen.
+Locate Node(Und p58) – Finds closet earth node in a 1 mile per level radius.
+Mark of the Outcast(Und p59) – Subject takes –5 penalty on Bluff and Diplomacy checks and –2 penalty to AC.
+Master Air(MoF p107) – You sprout insubstantial wings and can fly.
+Mountain Stance(DR314 p28) – The subject can root himself to the ground, making him must harder to Bull Rush, Overrun, Trip, etc.
+Nature’s Favor(CAdv p155) (CDiv p170) (CDivErrata)+ – A touched animal gains a Luck bonus on attack and damage rolls of +1 per three levels.
+One with the Land(MoF p111) – Link with nature gives a +2 bonus on nature-related skill checks.
+Owl’s Wisdom(PH p259) – Subject gains +4 Wisdom for 1 minute per level.
+Reachwalker’s Wariness(RoE p189) – Automatically locate Aberrations within 30’.
+Reduce Animal(PH p269) – Shrinks one willing animal.
+Remedy Moderate Wounds(MoF p113) – Target gains fast healing 2 for 10 rounds +1 rounds/2 levels.
+Remove Addiction(BoED p105) – Cures target of drug addiction.
+Resist Energy(PH p246) – Ignores the first 10 (or more) points of damage per attack from a specified energy type.
+Restoration, Lesser(PH p272) – Dispels magic ability penalty or repairs 1d4 ability damage.
+Scent(CDiv p178)(CDivErrata)+ – Grants the scent ability for 1 hour/level.
+Share Husk(MoF p116) – See and hear through the sense of a touched animal.
+Snowshoes, Mass(DR312 p65) – One subject per level can walk on ice & snow without falling and not leaving an obvious trail.
+Soften Earth and Stone(PH p280) – Turns stone to clay or dirt to sand or mud.
+Spider Climb(PH p283) – Grants ability to walk on walls & ceilings.
+Summon Dire Hawk(RotW p175) – Summons a Dire Hawk to serve you.
+Summon Nature’s Ally II(PH p288) – Calls creature to fight.
+Summon Swarm(PH p289) – Summons a swarm of bats, rats, or spiders.
+Swim(CArc p125) – Subject gains Swim speed, +8 bonus on Swim checks.
+Train Animal(CAdv p157) – Affected animal gains additional tricks equal to 1⁄2 caster level for 1 hour per level.
+Tree Shape(PH p296) – You look exactly like a tree for 1 hour per level.
+Venomous Volley(DR330 p73) – Cone of fangs damages and weakens targets.
+Warp Wood(PH p300) – Bends wood (shaft, handle, door, plank).
+Wild Instincts(RoE p191) – You gain a +10 Insight bonus on Listen & Spot checks –and– do not loose your Dex bonus to AC when flat-footed or fighting an unseen opponent.
+Wood Shape(PH p303) – Rearranges wooden objects to suit you.
+Woodland Veil(RotW p176) – Blend unobtrusively into natural surroundings, along with your friends.
+Wracking Touch(CAdv p158) – Deal 1d6 + 1 per level damage; you also deal Sneak Attack damage if you have any.

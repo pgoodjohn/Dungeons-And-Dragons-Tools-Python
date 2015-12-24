@@ -1,0 +1,53 @@
+Accelerated Movement(CAdv p142) – Swift. Balance, Climb, or Move Silently at normal speed with no penalty on skill check.
+Alarm(PH p197) – Wards an area for 2 hours per level.
+Animal Messenger(PH p198) – Sends a Tiny animal to a specific place.
+Arrow Mind(CAdv p143) – Immediate. You threaten nearby squares with your bow and fire without provoking attacks of opportunity.
+Bloodhound(CAdv p144) – You gain an immediate retry if you fail a Survival check while tracking.
+Branch to Branch(CAdv p144)(MoF p83) – You gain +10 Competence bonus on Climb checks in trees and can brachiate through forest.
+Calm Animals(PH p207) – Calms (2d4 + level) HD of animals.
+Camouflage(CDiv p157)(Und p56) – Subject gains a +10 bonus on Hide checks.
+Charm Animal(PH p208) – Makes one animal your friend.
+Delay Poison(PH p217) – Stops poison from harming subject for 1 hour per level.
+Detect Animals or Plants(PH p218) – Detects species of animals or plants.
+Detect Poison(PH p219) – Detects poison in one creature or small object.
+Detect Snares and Pits(PH p220) – Reveals natural or primitive traps.
+Easy Trail(CAdv p147)(MoF p91) – You make a temporary trail through any kind of undergrowth.
+Embrace the Wild(CAdv p147) (MotW p87)(Sav p65) – You gain an animal’s sense for 10 minutes per level.
+Entangle(PH p227) – Plants entangle everyone in a 40’ radius.
+Exacting Shot(CAdv p148) – Your ranged weapon automatically confirms critical hits against your favored enemies.
+Extend Shifting(RoE p185) – Extend duration of Shifting racial ability by 4 rounds.
+Eyes of the Avoral(BoED p99) – Subject gets +8 on Spot checks.
+Ground Smoke(DR326 p73) – Prevents smoke from rising from a small fire.
+Guided Shot(CAdv p150) – Swift. You ignore distance penalties with your ranged attacks for 1 round.
+Hawkeye(CAdv p151) – Increase range increments by 50%, +5 on Spot checks.
+Healing Lorecall(CAdv p151) – If you have 5 or more ranks in Heal, you can remove harmful conditions with Conjuration(healing) spells.
+Hide from Animals(PH p241) – Animals can’t perceive one subject per level.
+Hunter’s Mercy(MoF p101) – Your next hit with a bow automatically threatens a critical hit.
+Instant Search(CAdv p153) – Swift. Make Search check at +2 as a Free Action.
+Jump(PH p246) – Subject gains bonus on Jump checks.
+Locate City(RoD p166) – Find nearest city.
+Longstrider(PH p249) – Increases your speed.
+Low-Light Vision(CArc p113) – See twice as far as a Human in poor illumination.
+Magic Fang(PH p250) – One natural weapon of subject creature gets +1 on attack and damage.
+Marked Man(DR325 p71) – Helps track a subject.
+Naturewatch(CDiv p170)(MoF p110) – See how wound level of animals and plants within 30’.
+Pass without Trace(PH p259) – One subject per level leaves no tracks or scent trail for 1 hour per level.
+Ram’s Might(MoF p112) – Your hands become harder and your unarmed attacks inflict normal damage.
+Raptor’s Sight(RotW p175) – Gain +4 on Spot checks; range increment penalty is halved.
+Read Magic(PH p269) – Reads scrolls and spellbooks.
+Resist Energy(PH p246) – Ignores the first 10 (or more) points of damage per attack from a specified energy type.
+Ride of the Valenar(RoE p189) – Gain +5 Competence bonus on Ride checks for 10 minutes per level.
+Shifter Prowess(RoE p190) – Shifter racial bonuses to skills increase to +8 while shifting.
+Silvered Claws(BoED p107) – One creature’s natural attacks are treated as silvered weapons.
+Smell of Fear(MoF p119) – Target’s aroma triples the chance of wandering encounters.
+Sniper’s Shot(CAdv p157) – Swift. No range limit on next ranged sneak attack.
+Snowshoes(DR312 p65) – Subject can walk on ice & snow without falling and not leaving an obvious trail.
+Speak with Animals(PH p281) – You can communicate with animals.
+Speed Swim(MoF p121) – Target gains swim speed 30.
+Stalking Brand(MoF p123) – Target marked with symbol you can see despite disguises.
+Summon Nature’s Ally I(PH p288) – Calls creature to fight.
+Surefoot(MoF p127) – +10 bonus on Balance checks.
+Towering Oak(MoF p128) – +10 on Intimidate checks.
+Traveler’s Mount(CDiv p184) – Creature moves faster but can’t attack.
+Vengeful Mount(DR326 p74) – Makes an animal more difficult to ride or handle.
+Vine Strike(CAdv p158) – Swift. You can Sneak Attack Plant Creatures for 1 round.

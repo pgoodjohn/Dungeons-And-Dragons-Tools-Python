@@ -1,0 +1,22 @@
+Blessed Sight(BoED p92) – Evil auras become visible to you.
+Blessing of Bahamut(CDiv p154) – You gain damage reduction 10 / magic.
+Cure Moderate Wounds(PH p216) – Cures 2d8 damage +1 per level (max +10).
+Daylight(PH p216) – 60’ radius of bright light.
+Discern Lies(PH p221) – Reveals deliberate falsehoods.
+Dispel Magic(PH p223)(PH3.5e)+ – Cancels magical spells and effects.
+Forceward(MoF p95) – Creates sphere that prevents intrusion.
+Heal Mount(PH p239) – As Heal on warhorse or other special mount.
+Insignia of Blessing(RoD p166) – Bearers of a special insignia gain +1 Morale bonus on attacks and saves against fear.
+Insignia of Warding(RoD p166) – Bearers of a special insignia gain +1 Divine bonus to AC and Fortitude saves.
+Magic Circle against Chaos(PH p249) – As Protection from Chaos, but 10’ radius and 10 minutes per level.
+Magic Circle against Evil(PH p249) – As Protection from Evil, but 10’ radius and 10 minutes per level.
+Magic Weapon, Greater(PH p251) – +1 bonus per four levels (max +5).
+Mind Bond(BoED p102) – You and your mount gain +4 flanking bonus when flanking the same opponent; mount gains bonus on attack rolls.
+Know Greatest Enemy(MoF p103) – Determines relative power level of creatures within the area.
+Loyal Vassal(MoF p106) – Ally gains +3 against mind-affecting effects and cannot be compelled to harm you.
+Prayer(PH p264) – Allies gain +1 bonus on most rolls, enemies suffer –1 penalty.
+Remove Blindness/Deafness(PH p270) – Cures normal or magical conditions.
+Remove Curse(PH p270) – Frees person or object from a curse.
+Resurgence, Mass(CDiv p177) – As Resurgence, but multiple targets.
+Smite Heretic(BoED p107) – You gain a +2 Sacred bonus on attack roll and deal extra damage with your ‘Smite Evil’ call ability when used against an evil creature that can cast divine spells.
+Undead Bane Weapon(MoF p128) – Weapon gains the Bane property and is considered blessed.

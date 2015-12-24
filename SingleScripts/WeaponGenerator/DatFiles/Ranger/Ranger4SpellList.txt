@@ -1,0 +1,21 @@
+Animal Growth(PH p198) – One animal per two levels doubles in size.
+Arrow Storm(CAdv p143) – Swift. You make one ranged attack against each foe within one range increment.
+Aspect of the Werebeast(RoE p183) – Gain bonuses from hybrid animal form.
+Bane Bow(CDiv p151) – Weapon becomes a +5 Bane against one of your favored enemies.
+Blinding Beauty(BoED p92) – You become as beautiful as a nymph, and can blind humanoids who look at you.
+Burrow, Mass(Und p56) – As Burrow, but affects one subject per level.
+Camouflage, Mass(CDiv p157) (MoF p106)(MoFe)+ – As Camouflage, but multiple targets.
+Commune with Nature(PH p211) – Learn about terrain for one mile per level.
+Cure Serious Wounds(PH p216) – Cures 3d8 damage + 1 per level (max +15).
+Deeper Darkvision(Und p58) – Subject can see 60’ in magical darkness.
+Foebane(CAdv p149) – Your weapon becomes +5 and deals +2d6 damage against any of your favored enemies.
+Freedom of Movement(PH p233) – Subject moves normally despite impediments.
+Implacable Pursuer(CDiv p166) – You know where your prey is, as long as it’s moving.
+Land Womb(MoF p104) – You and one creature/level hide within the earth.
+Nondetection(PH p257) – Hides subject from divination and scrying.
+Snakebite(MoF p120) – Your arm turns into poisonous snake you cause to attack.
+Spear of Valarian(BoED p107) – Transforms a non- magical weapon into a +1 Silvered Spear (+3 against Magical Beasts, which take +2d6 points of damage).
+Stars of Arvandor(BoED p108) – Tiny starbursts each deal 1d8 damage (half non-lethal) or 1d8 (all lethal) to evil creatures.
+Summon Nature’s Ally IV(PH p288) – Calls creature to fight.
+Superior Darkvision(UE p53) – See normally in total darkness.
+Tree Stride(PH p296) – Step from one tree to another far away.

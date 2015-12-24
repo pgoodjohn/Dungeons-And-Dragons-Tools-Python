@@ -25,8 +25,6 @@ Right now the app consists in:
 - A random encounter generator.
 
 What I'm working on is:
-- Expanding the Weapon Generator
-  - I'm creating a wand/staff generator, and I'll probably rewrite the whole weapon generator from scratch because I really don't like the program I came up with.
 - Creating more types of encounter and improving what I already have
 - Expanding the database of the names and working on algorithms to implement to generate better names.
 

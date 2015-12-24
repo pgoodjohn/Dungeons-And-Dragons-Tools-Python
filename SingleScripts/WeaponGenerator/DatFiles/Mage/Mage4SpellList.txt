@@ -1,0 +1,104 @@
+Anticipate Teleportation(CArc p97) – Predict and delay the arrival of creatures teleporting into range by 1 round.
+Dimensional Anchor(PH p221)(PH p250)+ – Bars extradimensional movement.
+Fire Trap(PH p231) – Opened object deals 1d4 + 1 per level fire damage.
+Globe of Invulnerability, Lesser(PH p236) – Stops 1st – 3rd level spell effects.
+Ilyykur’s Mantle(UE p50) – Caster gains Electricity Resistance 10 & a Luck bonus against spells & spell-like abilities of +1 per 3 levels (max +5).
+Otiluke’s Dispelling Screen(CArc p116) – Targeted Dispel Magic on any creatures and unattended items, +10 max on caster level check.
+Remove Curse(PH p270) – Frees person or object from a curse.
+Resist Energy, Mass(CArc p120) – Targeted creatures ignore damage from specified energy type.
+Stoneskin(PH p284) – Ignore 10 points of damage per attack.
+Wall of Chaos(MoF p131) – As Magic Circle against Law, except as a one-sided wall.
+Wall of Evil(MoF p131) – As Magic Circle against Good, except as a one-sided wall.
+Wall of Good(MoF p131) – As Magic Circle against Evil, except as a one-sided wall.
+Wall of Law(MoF p132) – As Magic Circle against Chaos, except as a one-sided wall.
+Blast of Flame(CArc p99) – 60’ cone of Fire (1d6 per level damage, max 10d6).
+Crushing Coils(DR330 p70) – Teleport constrictor to crush opponent.
+Cynosure(DR338 p77) – Increases the accuracy of inaccurate teleportation spells.
+Dimension Door(PH p221) – Teleports you a short distance.
+Evard’s Black Tentacles(PH p228) – Tentacles grapple all within a 15’ spread.
+Leomund’s Secure Shelter(PH p247) – Creates study cottage.
+Minor Creation(PH p253) – Creates one cloth or wood object.
+Orb of Acid(CArc p115) – Ranged touch attack deals 1d6 per level Acid damage (max 15d6) and the target may be Sickened for 1 round.
+Orb of Cold(CArc p115) – Ranged touch attack deals 1d6 per level Cold damage (max 15d6) and the target may be Blinded for 1 round.
+Orb of Electricity(CArc p116) – Ranged touch attack deals 1d6 per level Electricity damage (max 15d6) and the target may be Entangled for 1 round.
+Orb of Fire(CArc p116) – Ranged touch attack deals 1d6 per level Fire damage (max 15d6) and the target may be Dazed for 1 round.
+Orb of Force(CArc p116) – Ranged touch attack deals 1d6 per level Force damage (max 10d6).
+Orb of Sound(CArc p116) – Ranged touch attack deals 1d4 per level Sonic damage (max 15d4) and the target may be Deafened for 1 round.
+Radiant Fog(BoED p104) – As Solid Fog, but dazzles or blinds creatures within.
+Rogue Wave(DR314 p46) – Creates a wave of water on dry land or at sea which knocks down anyone in its path.
+Solid Fog(PH p281) – Blocks vision and slows movement.
+Summon Monster IV(PH p286) – Calls an extraplanar creature to fight for you.
+Summon Undead IV(PGF p114) – Summons undead to fight for you.
+Unseen Servant, Mass(RoD p168) – As Unseen Servant except it creates one servant per level.
+Viscid Glob(Und p63) – Ranged touch attack hurls 5’ diameter glob of glue at target.
+Wall of Sand(PGF p118) – Swirling sand blocks ranged attacks, slows movement through it.
+Wall of Water(DR314 p47) – Creates a wall of water that creatures must swim through to cross.
+Anamensis(DR338 p77) – Taps into an alien unconscious, providing a bonus on Knowledge skill checks.
+Arcane Eye(PH p200) – Invisible floating eye moves 30’ per round.
+Assay Resistance(CArc p120) – +10 bonus on caster level checks to defeat one creature’s Spell Resistance.
+Celestial Brilliance(BoED p94) – Object sheds brilliant light to 120’, hurts Undead and EvilOutsiders.
+Dancing Web(BoED p96) – Energy strands deal 1d6 non-lethal damage per level plus entangles evil creatures for 1d6 rounds.
+Detect Scrying(PH p219) – Alerts you to magical eavesdropping.
+Locate Creature(PH p249) – Indicates direction to familiar creature.
+Portal View(Und p60) – Turns target Portal transparent.
+Radiant Shield(BoED p104) – Creatures attacking you take Electricity damage; you are protected from Electricity.
+Scrying(PH p274)(PH3.5e)+ – Spies on subject from a distance.
+Unluck(CArc p128) – Target remakes all rolls, uses worst result for 1 round per level.
+Charm Monster(PH p209) – Makes monster believe it is your ally.
+Confusion(PH p212) – Makes subject behave oddly for 1 round per level.
+Crushing Despair(PH p215) – Subjects take –2 on attack rolls, damage rolls, saves, and checks.
+Geas, Lesser(PH p235) – Commands subject of 7 HD or less.
+Blistering Radiance(CArc p99) – Sphere of light blinds creatures, deals 2d6 Fire damage in a 50’ radius spread. Lasts for 1 round per level.
+Caligarde’s Claw(PGF p100) – Claw of force attacks opponent or guards area.
+Dancing Web(BoED p96) – Creatures in a 20’ radius take 1d6 nonlethal damage per level (max 10d6) and Evil creatures are Entangled for 1d6 rounds.
+Defenstrating Sphere(CArc p103) – Cloudy gray sphere knocks enemies prone, hurls them upward for subsequent falling damage.
+Desert Burial(DR331 p71) – Buries targets up to their necks in sand.
+Explosive Cascade(MoF p93) – Bouncing flame ball deals 1d6 per level fire damage (max 10d6).
+Fire Shield(PH p230) – Creatures attacking you take 1d6 + 1 per level damage (fire damage for a Warm Shield, cold damage for a Chill Shield); you are protected from cold (in the case of a Warm Shield) or heat (in the case of a Chill Shield).
+Force Orb(UE p49) – Globes of force deal 1d6 per level damage, divided among multiple targets.
+Ice Storm(PH p243) – Hail deals 5d6 damage in cylinder 40’ across.
+Otiluke’s Resilient Sphere(PH p258) – Force globe protects but traps one subject.
+Shout(PH p279) – Deafens all within cone and deals 5d6 damage.
+Thunderlance(FR p72) – Lance of force deals 2d6 damage with a reach of up to 20’, plus can dispel force effects.
+Wall of Fire(PH p298) – Deals 2d4 fire damage out to 10’ and 1d4 out to 20’. Passing through wall deals 2d6 + 1 per level.
+Wall of Ice(PH p299) – Creates either an ice plane with 15 hp + 1 per level, or a hemisphere which can trap creatures inside.
+Hallucinatory Terrain(PH p238) – Makes one type of terrain appear like another (field into forest, or the like).
+Illusory Wall(PH p243) – Wall, floor, or ceiling looks real, but anything can pass through.
+Inescapable Swarm(DR333 p72) – Targets feel as though they are covered by an invisible swarm of insects.
+Invisibility, Greater(PH p245) – As Invisibility, but subject can attack and stay invisible.
+Phantasmal Killer(PH p260) – Fearsome illusion kill subject or deals 3d6 damage.
+Rainbow Pattern(PH p268) – Lights fascinate 24 HD of creatures.
+Shadow Conjuration(PH p276) – Mimics conjuring below 4th level, but only 20% real.
+Shadow Well(MoF p116) – Target enters gloomy pocket plane and emerges frightened.
+Sphere of Terror(DR333 p72) – Creates a 30’ radius of supernatural shadow filled with deadly shadowy illusions.
+Affliction(BoED p89) – Infects an Evil subject with a chosen Affliction (a disease that only affect Evil creatures).
+Animate Dead(PH p198) – Creates undead skeletons and zombies.
+Bestow Curse(PH p203) – Subject either receives a –6 on one ability; –4 penalty on attacks, saves, and skill checks; or 50% chance of losing each action.
+Burning Blood(CArc p100) – Target takes 1d8 Acid damage plus 1d8 Fire damage per round.
+Contagion(PH p213) – Infects subject with chosen disease.
+Enervation(PH p226) – Subject gains 1d4 negative levels.
+Fear(PH p229) – Subjects within cone flee for 1 round per level.
+Plague Carrier(RoF p190) – As Contagion, but target is contagious during incubation period.
+Sinsabur’s Baleful Bolt(UE p52) – Bolt of dark energy deals 1d3 Strength and Constitution damage +1 per four levels.
+Wrack(CDiv p190) – Renders a creature helpless with pain.
+Aerial Alacrity(RotW p174) – +30’ Fly speed, +1 AC and Reflex saves while flying, Maneuverability improves by one category.
+Backlash(MoF p79) – Target cursed if it uses spells against another creature.
+Bladebane(UE p48) – Slashing weapon becomes a bane weapon.
+Darkvision, Mass(CArc p102) – Creatures in a 10’ radius gain the ability to see 50’ in total darkness.
+Darsson’s Potion(MoF p87) – Creates a potion that must be used within 1 hour per level.
+Enduring Flight(RotW p175) – Carry medium loads at full fly speed, flight duration doubles.
+Enlarge Person, Mass(PH p226) – Enlarges several creatures.
+Entangling Staff(CAdv p147) – Swift. Quarterstaff gains improved grab and can constrict grappled foes.
+Fang Blade(DR330 p71) – Transforms a snake into a sword that can bite and poison targets.
+Fire Stride(FR p69) – Multiple-use Dimension Door that works only through large fires.
+Ghorus Toth’s Metal Melt(MoF p96) – Melts metal objects without heat.
+Gutsnake(MoF p98) – 15’ tentacle grows from your stomach and attacks your enemies.
+Iron Bones(MoF p102) – Corporeal undead gain +5 natural armor bonus.
+Polymorph(PH p263) – Gives one willing subject a new form.
+Rary’s Mnemonic Enhancer(PH p268) – Prepares extra spells or retains one just cast.
+Reduce Person, Mass(PPH3.5 p269) – Reduces several creatures.
+Repair Critical Damage(CArc p120)(Eb p114)(DR317 p36) – Restores 4d8 + 1/lvl (max +20) points of damage to a Construct.
+Spell Enhancer(PGF p112) – Cast as a free action and gives +2 to the DC of the next spell you casts.
+Stone Shape(PH p284)(PH3.5e)+ – Sculpts stone into any shape.
+Superior Darkvision(UE p53) – See normally in total darkness.
+Fortify Familiar(CArc p108) – Your familiar gains 2d8 temporary hit points, +2 to armor, 25% chance to avoid extra sneak attack and critical hit damage.

@@ -1,0 +1,29 @@
+Bless(PH p205) – Allies gain+1 morale bonus to attacks & saves vs. fear.
+Bless Water(PH p205) – Makes Holy Water.
+Bless Weapon(PH p205) – Weapon strikes true against evil foes.
+Create Water(PH p215) – Creates 2 gallons/level of pure water.
+Cure Light Wounds(PH p215) – Cures 1d8 + 1 per level damage (max +5).
+Deafening Clang(MoF p87) – Weapon deafens with a successful touch attack.
+Detect Poison(PH p219) – Detects poison in one creature or small object.
+Detect Undead(PH p220) – Reveals undead within 60’.
+Divine Favor(PH p224) – You gain +1 per three levels on attack and damage rolls.
+Divine Sacrifice(CDiv p163) – Sacrifice hit points for a damage bonus.
+Endure Elements(PH p226) – Exist comfortably in hot or cold environments.
+Faith Healing(MoF p93) – Cures 8 +1/level damage (max +5) to worshiper of your patron.
+Grave Strike(CAdv p150) – Swift. You can Sneak Attack Undead for 1 round.
+Golden Barding(CDiv p166) – Your mount gets force armor.
+Lantern Light(BoED p101) – Ranged touch attacks deal 1d6 points of damage.
+Magic Weapon(PH p251) – Weapon gains +1 enhancement bonus.
+Protection from Evil(PH p266) – +2 bonus to AC & saves against evil, counters mind control, & hedges out elementals & outsiders.
+Protection from Chaos(PH p266) – +2 bonus to AC & saves against chaos, counters mind control, & hedges out elementals & outsiders.
+Read Magic(PH p269) – Reads scrolls and spellbooks.
+Resistance(PH p272) – Subject gains +1 resistance bonus on all saving throws.
+Restoration, Lesser(PH p272) – Dispels magic ability penalty or repairs 1d4 ability damage.
+Resurgence(CDiv p177) – You grant a subject a second chance at a saving throw.
+Second Wind(BoED p106) – Target gains the equivalent of the Endurance feat for 1hr/lvl.
+Silverbeard(MoF p117) – You grow a hard silver beard that gives +2 bonus to armor.
+Silvered Weapon(BoED p107) – Transforms one weapon into a silvered weapon.
+Strategic Charge(MoF p125) – You gain the benefits of the Mobility feat.
+Traveler’s Mount(CDiv p184) – Creature moves faster but can’t attack.
+Virtue(PH p289) – Subject gains 1 temporary hp.
+Warning Shout(MoF p132) – All living creatures within half a mile hear your shout.

@@ -1,0 +1,104 @@
+Abolish Shadows(UE p47) – All shadow creatures within 30’ take 1d6/lvl (max 10d6). All shadow spells within 30’ have a chance to be dispelled.
+Dispel Magic(PH p223)(PH3.5e)+ – Cancels magical spells and effects.
+Earthen Grace(DR314 p28) – The subject only take nonlethal damage from stone & earth attacks.
+Eradicate Earth(Und p58) – Deals 1d8 per level damage (max 10d8) to earth creatures.
+Explosive Runes(PH p228) – Deals 6d6 damage when read.
+Magic Circle against Chaos(PH p249) – As Protection from Chaos, but 10’ radius and 10 minutes per level.
+Magic Circle against Evil(PH p249) – As Protection from Evil, but 10’ radius and 10 minutes per level.
+Magic Circle against Good(PH p250) – As Protection from Good, but 10’ radius and 10 minutes per level.
+Magic Circle against Law(PH p250) – As Protection from Law, but 10’ radius and 10 minutes per level.
+Nondetection(PH p257) – Hides subject from divination and scrying.
+Protection from Energy(PH p266) – Absorb 12 damage per level from one kind of energy.
+Reverse Arrows(MoF p114) – As Protection from Arrows, but negated arrows turn back on their source.
+Shadow Tentacle, Lesser(LoD p187) – For up to 1 round per level, a shadow within Medium-range can be animated. It can grapple a target within 5’ per level (max 50’) of its anchor point.
+Sign of Sealing(CArc p122) – Magic sigil protects door or chest, deals 1d4/level damage (max 10d4) if opened.
+Bands of Steel(CArc p98) – Metallic bands immobilize or entangle target for 1 round per level.
+Corpse Candle(CArc p101) – Ghostly hand and candle sheds light, affects incorporeal creatures.
+Mage Armor, Greater(CArc p114) – Gives subject +6 armor bonus.
+Mestil’s Acid Breath(MoF p108) – Cone of acid deals 1d6 damage per level (max 10d6).
+Phantom Steed(PH p260) – Magical horse appears for 1 hour per level.
+Sepia Snake Sigil(PH p276) – Creates text symbol that immobilizes reader.
+Shark Bolt(DR334 p76) – Summons sharks made of water to attack your enemies.
+Sleet Storm(PH p280) – Hampers vision and movement.
+Stinking Cloud(PH p284) – Nauseating vapors, 1 round per level.
+Summon Monster III(PH p286) – Summons an extraplanar creature to fight for you.
+Summon Undead III(PGF p114) – Summons undead to fight for you.
+Analyze Portal(FR p66) – Find and understand Portals within 60’.
+Arcane Sight(PH p201) – Magical auras become visible to you.
+Clairaudience/Clairvoyance(PH p209) – Hear or see at a distance for 1 minute per level.
+Detect Metal and Minerals(RoF p189) – Reveals metal & minerals within 60’.
+Discern Shapechanger(CArc p103)(RoE p184) – Penetrates disguises and identifies shapchanging creatures.
+Telepathic Bond, Lesser(CDiv p158) – As Rary’s Telepathic Bond, but you and one other creature.
+Tongues(PH p294) – Speak any language.
+Deep Slumber(PH p217) – Puts 10HD of creatures to sleep.
+Dolorous Motes(BoED p97) – Creates clouds of flickering light (one 10’ cube per level) that dazes creatures.
+Elation(BoED p98) – Allies gain +2 Morale bonus to Strength & Dexterity, and +5’ movement.
+Heroism(PH p240) – Gives +2 bonus on attack rolls, saves, skill checks.
+Hold Person(PH p241) – Paralyzes one person for up to 1 round per level.
+Nybor’s Mild Admonishment(PGF p107) – Target is dazed for 1d4 rounds, then –2 on attacks, saves, and check, and is distracted.
+Rage(PH p268) – Subjects gain +2 to Strength and Constitution, +1 on Will saves, –2 to AC.
+Suggestion(PH p285) – Compels subject to follow stated course of action.
+Warcry(BoED p111) – Creatures within a 30’ cone cower for 1d4 rounds.
+Blacklight(FR p67) (D&D p216) – Create a 20’ radius area of darkness that even darkvision can’t see through, but you can.
+Capricious Zephyr(DR314 p38) – Creates a ball of spinning wind that the caster can move around. Any creature touched by it receives a Bull Rush.
+Daylight(PH p216) – 60’ radius of bright light. Fireball(PH p231) – 1d6 fire damage per level, 20’ radius.
+Flashburst(FR p70) – Flash of light dazzles and blinds in a 20’ burst.
+Leomund’s Tiny Hut(PH p247) – Creates shelter for ten creatures.
+Lightning Bolt(PH p248) – Electricity deals 1d6 damage per level.
+Manyjaws(PGF p106) – One set of jaws per level attacks enemies for 1d4 damage.
+Nchaser’s Glowing Orb(PGF p107) – Creates permanent magical light; you control brightness.
+Resonating Bolt(CArc p121) – Sonic energy deals 1d4 damage per level (max 10d4).
+Scintillating Sphere(MoF p115) – 20’ radius spread deals 1d6 electricity damage per level (max 10d6).
+Stars of Arvandor(BoED p108) – Tiny starbursts each deal 1d8 damage (half non-lethal) or 1d8 (all lethal) to evil creatures.
+Steeldance(MoF p123) – Daggers become Medium- sized flying animated objects that attack foes.
+Wind Wall(PH p302) – Deflects arrows, smaller creatures, and gases.
+Cloak of Khyber(DR337 p59) – The caster is protected from having his/her alignment determined and is protected against True Seeing.
+Displacement(PH p223) – Attacks miss subject 50% of the time.
+Illusory Script(PH p243) – Only intended reader can decipher.
+Invisibility Sphere(PH p245) – Makes everyone within 10’ invisible.
+Khelben’s Suspended Silence(MoF p103) – Object becomes programmed to create an area of silence at your command.
+Major Image(PH p252) – As Silent Image, but sound, smell, and thermal effects.
+Phantom Guardians(RoD p167) – Create illusion of a group of guards.
+Sensory Depravation(DR324 p72) – Subject cannot perceive the world around it.
+Shadow Binding(CArc p122) – Ribbon-like shadows daze & entangle creatures in a 10’ radius burst.
+Shadowslip(DR337 p74) – Touched creature gains partial concealment due to a layer of shadows and does not generate attacks of opportunity while moving.
+Spectral Weapon(CAdv p157) – Swift. Use quasi-real weapon to make touch attacks.
+Gentle Repose(PH p234) – Preserves one corpse.
+Halt Undead(PH p238) – Immobilizes undead for 1 round per level.
+Handfang(LoD p187)(RoF p190) – Biting mouth in your palm deals 1d8 damage and start a grapple.
+Healing Touch(BoED p100)(MoF p100) – You take up to 1d6 points of damage per two levels and heal a target the same amount.
+Ray of Exhaustion(PH p269) – Ray makes subject exhausted.
+Spider Poison(MoF p123) – Touch deals 1d6 Str damage, repeats in 1 minute.
+Skull Watch(PGF p111) – Skull shrieks when creature enters warded area.
+Undead Lieutenant(MoF p129) – Targeted undead can give orders to undead in your control.
+Undead Torch(MoF p129) – Undead creature gains blue aura that gives +2d4 against living creatures.
+Vampiric Touch(PH p298) – Touch deals 1d6 per 2 caster levels; caster gains damage as hit points.
+Amanuensis(MoF p77) – Copy nonmagical text.
+Amorphous Form(Und p56) – Subject becomes puddle-like and can slip through cracks quickly.
+Blink(PH p206) – You randomly vanish and reappear for 1 round per level.
+Burrow(Und p56) – Subject grows claws and gains a Burrowing speed of 10’.
+Deeper Darkvision(Und p58) – Subject can see 60’ in magical darkness.
+Distilled Joy(BoED p96) – Creates Ambrosia.
+Flame Arrow(PH p231) – Arrows deal +1d6 fire.
+Fly(PH p232) – Subject flies at a speed of 60’.
+Gaseous Form(PH p234) – Subject becomes insubstantial and can fly slowly.
+Haste(PH p239) – One creature per level moves faster, +1 on attack rolls, AC, and Reflex saves.
+Icelance(PGF p105) – Changes ice into lance, which attacks target for 5d6 damage and stuns for 1d4 rounds.
+Keen Edge(PH p245) – Doubles normal weapon’s threat range.
+Lash of the Kraken(DR334 p75) – Transforms the caster’s arm into a constricting tentacle.
+Modulate(DR338 p78) – Temporarily changes what spell is cast from a Wand.
+Mage Hand, Greater(MoF p97) – As Mage Hand, but medium range and 10 pounds per level.
+Magic Weapon, Greater(PH p251) – +1 bonus per four levels (max +5).
+Repair Serious Damage(CArc p120)(Eb p114)(DR317 p36) – Restores 3d8 + 1/lvl (max +15) points of damage to a Construct.
+Scorpion Tail(RoE p190) – Target grows a scorpion tail that strikes for 2d6 damage (plus Strength modifier) and possibly stuns the target.
+Secret Page(PH p275) – Changes one page to hide its real contents.
+Shrink Item(PH p279) – Object shrinks to 1/16th its normal size.
+Siphon(DR338 p78) – Drains charges from Wands or Staffs to replace expended spells.
+Slow(PH p280) – One subject per level takes only one action per round, –1 AC and attack rolls.
+Spiderskin(Und p61) – Subject gains increasing bonus of natural armor bonus, saves against poison, and Hide checks.
+Stony Grasp(CArc p124) – Arm made of soil and rock grapples foes.
+Tremorsense(Und p62) – Grants tremorsense out to 30’.
+Walk the Mountain’s Path(RoS p163) – Touched creature can go up slopes without slowing down, gains a Climb speed, and receives a +10 on Balance and Jump checks.
+Water Breathing(PH p300) – Subject can breathe underwater.
+Weapon of Impact(MoF p134) – As Keen Edge, but aids blunt weapons.
+Enhance Familiar(CArc p105) – You familiar receives +2 bonus on saves, combat rolls, and AC for 1 hour per level.

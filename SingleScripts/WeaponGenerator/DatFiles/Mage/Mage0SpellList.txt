@@ -1,0 +1,33 @@
+Resistance(PH p272) – Subject gains +1 resistance bonus on all saving throws.
+Acid Splash(PH p196) – Orb deals 1d3 damage. Divination
+Detect Poison(PH p219) – Detects poison in one creature or small object.
+Detect Magic(PH p219) – Detects spells and magic items within 60’.
+Read Magic(PH p269) – Reads scrolls and spellbooks.
+Seeker’s Chant(DR326 p74) – Gives you a +1 bonus on Search checks, but a –2 penalty on Move Silently checks.
+Daze(PH p217) – Humanoid creature of 4HD or less loses next action.
+Vengeful Mount(DR326 p74) – Makes an animal more difficult to ride or handle.
+Dancing Lights(PH p216) – Creates torches or other lights.
+Electric Jolt(MoF p91) – Ranged touch attack deals 1d3 electricity damage.
+Flare(PH p232) – Dazzles one creature (–1 on attack rolls).
+Horizikaul’s Cough(MoF p101) – Target takes 1 point of sonic damage and are deafened for 1 round.
+Light(PH p248) – Object shines like a torch.
+Ray of Frost(PH p269) – Ray deals 1d3 Cold damage.
+Chalkboard(DR324 p70) – Creates opaque plane you can write on.
+Fleeting Flame(DR326 p73) – Gives you a +2 bonus on one Bluff, Diplomacy, or Intimidate check.
+Ghost Sound(PH p235) – Figment sounds.
+Shadowplay(DR326 p74) – Manipulates the shape and movement of an existing shadow.
+Silent Portal(MoF p117) – Negates sound from door or window.
+Disrupt Undead(PH p223) – Deals 1d6 damage to one undead.
+Necrosurgery(DR326 p73) – Grants a +2 bonus to resisting a disease.
+Touch of Fatigue(PH p294) – Touch attack fatigues target.
+Ground Smoke(DR326 p73) – Prevents smoke from rising from a small fire.
+Launch Bolt(MoF p105) – Launches a crossbow bolt as if from a light crossbow up to 100’ + 10’ per level.
+Mage Hand(PH p249) – 5 pound telekinesis.
+Mending(PH p253) – Makes minor repairs on an object.
+Message(PH p253) – Whispered conversation at distance.
+Nosy Neighbor(DR326 p74) – Provides you with a +1 bonus on Listen checks.
+Open/Close(PH p258) – Opens or closes small or light things.
+Repair Minor Damage(CArc p120) – Repairs 1 point of damage to any Construct.
+Stick(Und p61) – Glues an object weighting 5 pounds or less to a larger object.
+Arcane Mark(PH201 p201) – Inscribes a personal rune (visible or invisible).
+Prestidigitation(PH p264) – Performs minor tricks.

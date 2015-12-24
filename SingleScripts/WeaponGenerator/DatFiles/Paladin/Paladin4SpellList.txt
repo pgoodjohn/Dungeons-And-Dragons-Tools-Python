@@ -1,0 +1,23 @@
+Aspect of the Deity, Lesser(BoED p91) – Your form becomes more like your deity’s.
+Blood of the Martyr(BoED p92) – You heal a target at range and take a like amount of damage.
+Break Enchantment(PH p207) – Frees subject from enchantments, alterations, curses, and petrifaction.
+Cure Serious Wounds(PH p216) – Cures 3d8 damage + 1 per level (max +15).
+Death Ward(PH p217) – Grants immunity to death spells and negative energy effects.
+Dispel Chaos(PH p222) – +4 bonus against attacks by chaotic creatures.
+Dispel Evil(PH p222) – +4 bonus against attacks by evil creatures.
+Favor of Ilmater(PGF p102) – Subject gains Endurance, plus immunity to nonlethal damage, charm and compulsion effects, pain attacks, and other adverse conditions; subject can function at –1 to –9 hp.
+Glory of the Martyr(BoED p99) – As Shield Other, but with multiple targets.
+Hand of Torm(MoF p99) – Immobile zone of warding stuns those of different patrons.
+Holy Sword(PH p215) – Weapon becomes +5, deals +2d6 damage against evil.
+Lawful Sword(PGF p105) – Weapon becomes +5 Axiomatic and emits Magic Circle against Chaos.
+Mark of Justice(PH p252) – Designates action that will trigger cure on subject.
+Neutralize Poison(PH p257) – Immunizes subject against poison, detoxifies venom in or on subject.
+Restoration(PH p272) – Restores level and ability score drains.
+Revenance(CDiv p178)(MoF p113) – Restores dead creature to life for 1 minute per level.
+Sacred Haven(CDiv p178)(BoED p106) – Creature gains AC bonus, and you can monitor & heal it magically.
+Seek Eternal Rest(MoF p115) – Turn undead as a paladin two levels higher.
+Spiritual Chariot(CDiv p181) – Creates ghostly chariot behind your mount.
+Sword of Conscience(BoED p109) – Evil creature confesses crime, takes Wisdom damage.
+Visage of the Deity, Lesser(CDiv p187) – You gain +4 Charisma & resistance 10 to certain energy types.
+Weapon of the Deity(CDiv p188) – Gives your weapon magical powers appropriate to your patron deity.
+Winged Mount(CDiv p190)(BoED p112) – Your mount sprouts wings and gains a fly speed of 60’ (good).
