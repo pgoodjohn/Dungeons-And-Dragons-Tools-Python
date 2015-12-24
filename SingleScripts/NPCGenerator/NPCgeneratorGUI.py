@@ -2,15 +2,24 @@ from Tkinter import *
 import npcgenerator
 
 def GenerateRandom():
-    string = npcgenerator.generateNPC()
+    string = npcgenerator.generateNPC(0)
     text.config(state=NORMAL)
     text.delete(1.0, END)
     text.insert(INSERT, string)
     text.config(state=DISABLED)
 
+def GenerateCitizen():
+    string = npcgenerator.generateNPC(1)
+    text.config(state=NORMAL)
+    text.delete(1.0, END)
+    text.insert(INSERT, string)
+    text.config(state=DISABLED)
+
+
 root = Tk()
 
-generate = Button(root, text = 'Generate', command = GenerateRandom)
+generate = Button(root, text = 'Generate a Non-Citizen', command = GenerateRandom)
+generate2 = Button(root, text = 'Generate a Citizen', command = GenerateCitizen)
 quit = Button(root, text = 'Quit', command = quit)
 
 text = Text(root)
@@ -24,5 +33,6 @@ root.grid_rowconfigure(2,weight=1)
 
 text.grid(row = 0, column = 0, sticky = E+W)
 generate.grid(row = 1, column = 0, sticky = E)
-quit.grid(row = 2, column = 0, sticky = E)
+generate2.grid(row = 2, column = 0, sticky = E)
+quit.grid(row = 3, column = 0, sticky = E)
 root.mainloop()

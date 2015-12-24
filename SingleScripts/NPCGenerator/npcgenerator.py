@@ -11,7 +11,6 @@ import sys
 sys.path.insert(0, '/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/')
 import NameGenerator
 
-#STUFF TO USE!!! I LOVE IT http://neverwinter.gamepedia.com/Half-Elf#Names
 #https://www.reddit.com/r/DnDBehindTheScreen/comments/3py5dm/random_tables_superquick_town_npcs/
 
 def generateNPC(n):
@@ -30,7 +29,6 @@ def generateNPC(n):
         return npc
     else:
         return npc
-
 
 def generateRACE():
     '''
@@ -722,7 +720,7 @@ def generateCITIZEN():
         else:
             NPCprofession = 'error with the lookings'
     else:
-        NPCprofession = 'BIG FUCKED UP ERROR'
+        NPCprofession = 'Error with the profession'
     citizen = NameGenerator.generate(GENDERFlag, RACEflag)
     citizen = citizen + ', ' +  NPCrace + ' (' + NPCgender+ ') ' + NPCprofession
     return citizen

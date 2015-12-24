@@ -7,9 +7,30 @@
 '''
 
 #https://en.wikipedia.org/wiki/Dragonlance
-#check out merkov chain to get it to improve https://en.wikipedia.org/wiki/Markov_chain
 
 from random import randint
+import random
+from collections import defaultdict
+
+space = ' '
+chain = defaultdict(list)
+
+def markov(list):
+    for name in list:
+        strippedName = name.lower().strip()
+        pairs = zip(strippedName, strippedName[1:])
+        for first, second in pairs:
+          chain[first].append(second)
+          chain[strippedName[-1]].append(space)
+          chain[space].append(strippedName[0])
+def generate_surname():
+    name = []
+    current = space
+    while not (current == space and name):
+        current = random.choice(chain[current])
+        name.append(current)
+    return ''.join(name).strip().capitalize()
+
 
 def generate(gender, race):
     #RACE == 1 IS DWARF
@@ -24,7 +45,6 @@ def generate(gender, race):
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
-
         #Generate surnames, can be better though
         surnames = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/DwarvenMaleNames.dat", 'r')]
         j = 0
@@ -35,6 +55,8 @@ def generate(gender, race):
             else:
                 surnames[j] = surnames[j] + 'gloit'
             j += 1
+        dice = randint(0, len(surnames)-1)
+        surname = surnames[dice]
 
     #RACE == 2 IS ELF
     elif(race==2):
@@ -47,7 +69,11 @@ def generate(gender, race):
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
-        surnames = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/ElvenSurnames.dat", 'r')]
+        markov(names)
+        generate_surname()
+        surname = ''
+        while len(surname) < 4:
+            surname = generate_surname()
 
     #RACE == 3 IS Human
     #Check this for more human names http://www.uesp.net/wiki/Lore:Orc_Names
@@ -61,7 +87,11 @@ def generate(gender, race):
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
-        surnames = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/HumanSurnames.dat", 'r')]
+        markov(names)
+        generate_surname()
+        surname = ''
+        while len(surname) < 4:
+            surname = generate_surname()
 
     #RACE == 4 IS Gnome
     elif(race==4):
@@ -74,7 +104,11 @@ def generate(gender, race):
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
-        surnames = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/GnomeSurnames.dat", 'r')]
+        markov(names)
+        generate_surname()
+        surname = ''
+        while len(surname) < 4:
+            surname = generate_surname()
 
     #RACE == 5 IS Half Elf
     elif(race==5):
@@ -87,7 +121,11 @@ def generate(gender, race):
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
-        surnames = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/HalfElvenSurnames.dat", 'r')]
+        markov(names)
+        generate_surname()
+        surname = ''
+        while len(surname) < 4:
+            surname = generate_surname()
 
     #RACE == 6 IS Half Orc
     #File is already massive, find more at http://www.uesp.net/wiki/Lore:Orc_Names
@@ -101,7 +139,11 @@ def generate(gender, race):
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
-        surnames = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/OrkishSurnames.dat", 'r')]
+        markov(names)
+        generate_surname()
+        surname = ''
+        while len(surname) < 4:
+            surname = generate_surname()
 
     #RACE == 7 IS Halfling
     #Halflings have also prefixes and suffixes so... check this out http://www.angelfire.com/rpg/annwn/nameshalf.html
@@ -115,7 +157,11 @@ def generate(gender, race):
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
-        surnames = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/HalflingSurnames.dat", 'r')]
+        markov(names)
+        generate_surname()
+        surname = ''
+        while len(surname) < 4:
+            surname = generate_surname()
 
 
     #ERROR HANDLING
@@ -125,8 +171,6 @@ def generate(gender, race):
 
     #RANDOMIZING NAMES AND SAVING THEM
     rand1 = randint(0, (len(names)-1))
-    rand2 = randint(0, (len(surnames)-1))
-    string = names[rand1] + ' ' + surnames[rand2]
+    #rand2 = randint(0, (len(surnames)-1))
+    string = names[rand1] + ' ' + surname
     return string
-
-#print generate(1, 1)
