@@ -6,9 +6,9 @@
       /_ /      Pietro Goodjohn Bongiovanni - November 2015
 '''
 
-from Tkinter import *
+from tkinter import *
 import NameGenerator
-from tkMessageBox import *
+from tkinter.messagebox import *
 
 def create():
     gendervar = gender.get()
