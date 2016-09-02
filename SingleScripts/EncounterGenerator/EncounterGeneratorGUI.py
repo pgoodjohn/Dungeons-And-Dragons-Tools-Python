@@ -6,11 +6,11 @@
       /_ /      Pietro Goodjohn Bongiovanni - December 2015
 '''
 
-import Tkinter as tk
-from Tkinter import *
-from tkMessageBox import *
+import tkinter as tk
+from tkinter import *
+from tkinter.messagebox import *
 from random import randint
-from tkMessageBox import *
+
 
 import EncounterGenerator as ec
 
@@ -47,7 +47,7 @@ class EncounterGenerator(tk.Frame):
             self.text.insert(INSERT,string)
             self.text.config(state=DISABLED)
         else:
-            showerror('Error', 'Please select a place')
+            tkinter.messagebox.showerror('Error', 'Please select a place')
 
     def quit(self):
         sys.exit()
