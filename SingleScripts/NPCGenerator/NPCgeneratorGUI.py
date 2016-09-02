@@ -1,4 +1,9 @@
-from Tkinter import *
+from tkinter import *
+
+import os.path
+directory,filename = os.path.split(__file__)
+import sys
+sys.path.append(directory)
 import npcgenerator
 
 def GenerateRandom():

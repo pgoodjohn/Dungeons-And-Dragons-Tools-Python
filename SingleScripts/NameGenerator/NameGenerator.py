@@ -11,6 +11,10 @@
 from random import randint
 import random
 from collections import defaultdict
+import os.path
+directory,filename = os.path.split(__file__)
+import sys
+sys.path.append(directory)
 
 space = ' '
 chain = defaultdict(list)
@@ -38,15 +42,15 @@ def generate(gender, race):
         #GENDER == 0 IS MALE
         if (gender == 0):
             #Read dwarven names from file
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/DwarvenMaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"/DwarvenMaleNames.dat")), 'r')]
         #GENDER == 1 IS FEMALE
         elif (gender == 1):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/DwarvenFemaleNames.dat",'r')]
+            names = [line.strip() for line in open(''.join((directory,"/DwarvenFemaleNames.dat")),'r')]
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
         #Generate surnames, can be better though
-        surnames = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/DwarvenMaleNames.dat", 'r')]
+        surnames = [line.strip() for line in open(''.join((directory,"/DwarvenMaleNames.dat")), 'r')]
         j = 0
         while(j<(len(surnames)-1)):
             i = randint(0, 1)
@@ -62,10 +66,10 @@ def generate(gender, race):
     elif(race==2):
         #GENDER == 0 IS MALE
         if (gender == 0):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/ElvenMaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"/ElvenMaleNames.dat")), 'r')]
         #GENDER == 1 IS FEMALE
         elif (gender == 1):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/ElvenFemaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"/ElvenFemaleNames.dat")), 'r')]
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
@@ -80,10 +84,10 @@ def generate(gender, race):
     elif(race==3):
         #GENDER == 0 IS MALE
         if (gender == 0):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/HumanMaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"/HumanMaleNames.dat")), 'r')]
         #GENDER == 1 IS FEMALE
         elif (gender == 1):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/HumanFemaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"/HumanFemaleNames.dat")), 'r')]
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
@@ -97,10 +101,10 @@ def generate(gender, race):
     elif(race==4):
         #GENDER == 0 IS MALE
         if (gender == 0):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/GnomeMaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"/GnomeMaleNames.dat")), 'r')]
         #GENDER == 1 IS FEMALE
         elif (gender == 1):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/GnomeFemaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"/GnomeFemaleNames.dat")), 'r')]
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
@@ -114,10 +118,10 @@ def generate(gender, race):
     elif(race==5):
         #GENDER == 0 IS MALE
         if (gender == 0):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/HalfElvenMaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"./HalfElvenMaleNames.dat")), 'r')]
         #GENDER == 1 IS FEMALE
         elif (gender == 1):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/HalfElvenFemaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"./HalfElvenFemaleNames.dat")), 'r')]
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
@@ -132,10 +136,10 @@ def generate(gender, race):
     elif(race==6):
         #GENDER == 0 IS MALE
         if (gender == 0):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/OrkishMaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"./OrkishMaleNames.dat")), 'r')]
         #GENDER == 1 IS FEMALE
         elif (gender == 1):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/OrkishFemaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"./OrkishFemaleNames.dat")), 'r')]
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']
@@ -150,10 +154,10 @@ def generate(gender, race):
     elif(race==7):
         #GENDER == 0 IS MALE
         if (gender == 0):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/HalflingMaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"/HalflingMaleNames.dat")), 'r')]
         #GENDER == 1 IS FEMALE
         elif (gender == 1):
-            names = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/HalflingFemaleNames.dat", 'r')]
+            names = [line.strip() for line in open(''.join((directory,"/HalflingFemaleNames.dat")), 'r')]
         #ERROR HANDLING
         else:
             names = ['Something went wrong with gender choice']

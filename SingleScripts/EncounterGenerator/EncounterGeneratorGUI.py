@@ -13,6 +13,9 @@ from random import randint
 
 
 import EncounterGenerator as ec
+import os.path
+directory,filename = os.path.split(__file__)
+
 
 class EncounterGenerator(tk.Frame):
     def __init__(self, root):
@@ -47,7 +50,7 @@ class EncounterGenerator(tk.Frame):
             self.text.insert(INSERT,string)
             self.text.config(state=DISABLED)
         else:
-            tkinter.messagebox.showerror('Error', 'Please select a place')
+            showerror('Error', 'Please select a place')
 
     def quit(self):
         sys.exit()

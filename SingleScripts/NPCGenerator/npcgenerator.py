@@ -8,7 +8,9 @@
 
 from random import randint
 import sys
-sys.path.insert(0, '/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator/')
+import os.path
+directory,filename = os.path.split(__file__)
+sys.path.insert(0, directory)
 import NameGenerator
 
 #https://www.reddit.com/r/DnDBehindTheScreen/comments/3py5dm/random_tables_superquick_town_npcs/
