@@ -7,11 +7,13 @@
 '''
 
 from random import randint
+import os.path
 
 def encounter(place):
     #PLACE == 1 --> URBAN
     if (place == 1):
-        encounterArray = [line.strip() for line in open("/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/EncounterGenerator/UrbanEncounters.dat", 'r')]
+        directory,filename = os.path.split(__file__)
+        encounterArray = [line.strip() for line in open(''.join((directory,"./UrbanEncounters.dat")), 'r',encoding='UTF-8')]
         dice = randint(0, len(encounterArray)-1)
         enemiesString = encounterArray[dice]
     else:

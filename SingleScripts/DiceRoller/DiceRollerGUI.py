@@ -1,4 +1,4 @@
-'''
+"""
  ___  _____     Python - Dice Roller - v 2.1.1
 |    |_   _|    I took the script I had in the file DiceRoller.py and I placed into a friendly GUI.
 |   _  | |      It's working and I'm very happy about it, after I've finished other scripts I'll come back.
@@ -6,12 +6,12 @@
       /_ /      In version 2.1 I added a much needed modifier box so that you can get a result with the modifier
                 already added.
                 Pietro Goodjohn Bongiovanni - November 2015
-'''
-import Tkinter as tk
-from Tkinter import *
-from tkMessageBox import *
+"""
+import tkinter as tk
+from tkinter import *
+from tkinter.messagebox import *
 from random import randint
-import ttk
+import tkinter.ttk
 import sys
 import os
 
@@ -107,7 +107,7 @@ class DiceRoller(tk.Frame):
                         diceType = self.var.get()
                         if(diceType):
                             dice = 0
-                            diceTotal = 0;
+                            diceTotal = 0
                             stringResult = ''
                             for dice in range(0, diceNumber):
                                 diceRoll = randint(1, diceType)
@@ -139,7 +139,7 @@ if __name__ == '__main__':
 
     root.geometry('%dx%d' %(3*screen_width/4, screen_height/2))
 
-    notebook = ttk.Notebook(root)
+    notebook = tkinter.ttk.Notebook(root)
 
     tab1 = DiceRoller(root)
 

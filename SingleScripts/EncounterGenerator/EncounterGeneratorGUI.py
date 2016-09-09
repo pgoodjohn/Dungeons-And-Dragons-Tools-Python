@@ -6,13 +6,16 @@
       /_ /      Pietro Goodjohn Bongiovanni - December 2015
 '''
 
-import Tkinter as tk
-from Tkinter import *
-from tkMessageBox import *
+import tkinter as tk
+from tkinter import *
+from tkinter.messagebox import *
 from random import randint
-from tkMessageBox import *
+
 
 import EncounterGenerator as ec
+import os.path
+directory,filename = os.path.split(__file__)
+
 
 class EncounterGenerator(tk.Frame):
     def __init__(self, root):

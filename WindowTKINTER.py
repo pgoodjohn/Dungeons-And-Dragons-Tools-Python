@@ -6,20 +6,20 @@
       /_ /      Pietro Goodjohn Bongiovanni - December 2015
 '''
 
-import Tkinter as tk
-from Tkinter import *
-from tkMessageBox import *
+import tkinter as tk
+from tkinter import *
+from tkinter.messagebox import *
 from random import randint
-import ttk
+import tkinter.ttk as ttk
 import sys
 import os
-sys.path.insert(0, '/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/WeaponGenerator')
+sys.path.insert(0, './SingleScripts/WeaponGenerator')
 import WeaponGenerator as wg
-sys.path.insert(0, '/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NameGenerator')
+sys.path.insert(0, './SingleScripts/NameGenerator')
 import NameGenerator as ng
-sys.path.insert(0, '/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/NPCGenerator')
+sys.path.insert(0, './SingleScripts/NPCGenerator')
 import npcgenerator as npc
-sys.path.insert(0, '/Users/pietrobongiovanni/GitHub/Dungeons-And-Dragons-Tools-Python/SingleScripts/EncounterGenerator')
+sys.path.insert(0, './SingleScripts/EncounterGenerator')
 import EncounterGenerator as ec
 
 class DiceRoller(tk.Frame):
